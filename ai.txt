@@ -1,0 +1,22 @@
+# ai.txt — AI usage guidance for gateway.kymatalabs.com
+# The Gateway Index · part of The Living Indexes by Kymata Labs LLC
+# A living, self-updating directory of LLM gateways, proxies & routers — the infrastructure
+# between apps and model providers — ranked daily by GitHub momentum.
+
+# For structured guidance, read:
+#   https://gateway.kymatalabs.com/llms.txt        (concise index for LLMs)
+#   https://gateway.kymatalabs.com/sitemap.xml     (every tool's page)
+
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+# Hub: https://indexes.kymatalabs.com  ·  Network: https://www.kymatalabs.com
+Contact: contact@kymatalabs.com
