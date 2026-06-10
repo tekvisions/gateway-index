@@ -22,11 +22,11 @@
   <url><loc>https://gateway.kymatalabs.com/p/krakend-krakend-ce/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/continuum-ai-corp-orcarouter-lite/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/envoyproxy-ai-gateway/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://gateway.kymatalabs.com/p/icebear0828-codex-proxy/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/thinkwatchproject-thinkwatch/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/packyme-privacy-filter/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/bestruirui-octopus/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/romgx-openrelay/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://gateway.kymatalabs.com/p/icebear0828-codex-proxy/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/forgetmeai-freedeepseekapi/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/mithun50-openclaw-termux/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/theopenco-llmgateway/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -46,15 +46,16 @@
   <url><loc>https://gateway.kymatalabs.com/p/coaidev-coai/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/mirrowel-llm-api-key-proxy/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/dataiku-kiji-proxy/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://gateway.kymatalabs.com/p/openguardrails-agentfw/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/mrfadiai-free-llm-gateway/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/amazingang-auth2api/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/starbaser-ccproxy/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/lightseekorg-smg/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/tpisoftwareospo-digirunner-open-source/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/bitrouter-bitrouter/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://gateway.kymatalabs.com/p/kanchengw-cnllm/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/youssefvdel-qwen-gate/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/thushan-olla/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://gateway.kymatalabs.com/p/kanchengw-cnllm/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/publicaffairs-openai-gemini/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/atopos31-llmio/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/zhixiangxue-chak-ai/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -91,6 +92,7 @@
   <url><loc>https://gateway.kymatalabs.com/p/messkan-prompt-cache/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/peva3-smarterrouter/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/aws-solutions-library-samples-guidance-for-multi-provider-generative-ai-gateway-on-aws/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://gateway.kymatalabs.com/p/denven-mediascribe/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/openziti-llm-gateway/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/neul-labs-fast-litellm/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/sxueck-llm-gateway/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -138,6 +140,5 @@
   <url><loc>https://gateway.kymatalabs.com/p/trylonai-gateway/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/promptsail-prompt-sail/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/andrewginns-cot-at-home/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://gateway.kymatalabs.com/p/teilomillet-hapax/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/alorse-llm-proxy/</loc><lastmod>2026-06-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
 </urlset>
