@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-06-11T14:10:35.115028+00:00",
- "count": 142,
+ "generated_at": "2026-06-12T13:38:54.787137+00:00",
+ "count": 143,
  "categories": [
   {
    "name": "Gateways & Proxies",
-   "count": 84
+   "count": 85
   },
   {
    "name": "Routers",
@@ -35,12 +35,12 @@
    "url": "https://github.com/BerriAI/litellm",
    "owner": "BerriAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/121462774?v=4",
-   "stars": 50050,
-   "forks": 8791,
-   "open_issues": 3455,
+   "stars": 50163,
+   "forks": 8821,
+   "open_issues": 3422,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-11T14:09:28Z",
+   "pushed_at": "2026-06-12T13:06:13Z",
    "created_at": "2023-07-27T00:09:52Z",
    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
    "topics": [
@@ -70,8 +70,8 @@
    "url": "https://github.com/Kong/kong",
    "owner": "Kong",
    "owner_avatar": "https://avatars.githubusercontent.com/u/962416?v=4",
-   "stars": 43562,
-   "forks": 5150,
+   "stars": 43577,
+   "forks": 5151,
    "open_issues": 151,
    "language": "Lua",
    "license": "Apache-2.0",
@@ -111,12 +111,12 @@
    "url": "https://github.com/tashfeenahmed/freellmapi",
    "owner": "tashfeenahmed",
    "owner_avatar": "https://avatars.githubusercontent.com/u/9307356?v=4",
-   "stars": 9672,
-   "forks": 1552,
-   "open_issues": 36,
+   "stars": 9864,
+   "forks": 1579,
+   "open_issues": 31,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-11T10:16:37Z",
+   "pushed_at": "2026-06-12T11:29:28Z",
    "created_at": "2026-04-21T13:38:59Z",
    "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
    "topics": [],
@@ -131,9 +131,9 @@
    "url": "https://github.com/QuantumNous/new-api",
    "owner": "QuantumNous",
    "owner_avatar": "https://avatars.githubusercontent.com/u/205075698?v=4",
-   "stars": 38329,
-   "forks": 8697,
-   "open_issues": 806,
+   "stars": 38498,
+   "forks": 8746,
+   "open_issues": 815,
    "language": "Go",
    "license": "AGPL-3.0",
    "pushed_at": "2026-06-10T18:36:42Z",
@@ -159,12 +159,12 @@
    "url": "https://github.com/apache/apisix",
    "owner": "apache",
    "owner_avatar": "https://avatars.githubusercontent.com/u/47359?v=4",
-   "stars": 16707,
-   "forks": 2885,
-   "open_issues": 300,
+   "stars": 16715,
+   "forks": 2883,
+   "open_issues": 286,
    "language": "Lua",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T11:52:39Z",
+   "pushed_at": "2026-06-12T08:48:42Z",
    "created_at": "2019-04-10T02:02:05Z",
    "description": "The Cloud-Native API Gateway and AI Gateway",
    "topics": [
@@ -196,7 +196,7 @@
    "url": "https://github.com/tensorzero/tensorzero",
    "owner": "tensorzero",
    "owner_avatar": "https://avatars.githubusercontent.com/u/148420822?v=4",
-   "stars": 11458,
+   "stars": 11460,
    "forks": 836,
    "open_issues": 393,
    "language": "Rust",
@@ -231,13 +231,39 @@
    "rank": 6
   },
   {
+   "name": "higress",
+   "full_name": "higress-group/higress",
+   "slug": "higress-group-higress",
+   "url": "https://github.com/higress-group/higress",
+   "owner": "higress-group",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/116630909?v=4",
+   "stars": 8632,
+   "forks": 1151,
+   "open_issues": 812,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-12T10:05:24Z",
+   "created_at": "2022-10-27T03:53:00Z",
+   "description": "🤖 AI Gateway | AI Native API Gateway",
+   "topics": [
+    "ai-gateway",
+    "ai-native",
+    "api-gateway",
+    "cloud-native",
+    "envoy"
+   ],
+   "category": "Gateways & Proxies",
+   "momentum": 78,
+   "rank": 7
+  },
+  {
    "name": "WindsurfAPI",
    "full_name": "dwgx/WindsurfAPI",
    "slug": "dwgx-windsurfapi",
    "url": "https://github.com/dwgx/WindsurfAPI",
    "owner": "dwgx",
    "owner_avatar": "https://avatars.githubusercontent.com/u/143298346?v=4",
-   "stars": 2802,
+   "stars": 2803,
    "forks": 589,
    "open_issues": 8,
    "language": "JavaScript",
@@ -254,7 +280,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 78,
-   "rank": 7
+   "rank": 8
   },
   {
    "name": "gateway",
@@ -263,9 +289,9 @@
    "url": "https://github.com/Portkey-AI/gateway",
    "owner": "Portkey-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131141116?v=4",
-   "stars": 12035,
-   "forks": 1122,
-   "open_issues": 188,
+   "stars": 12044,
+   "forks": 1124,
+   "open_issues": 190,
    "language": "TypeScript",
    "license": "MIT",
    "pushed_at": "2026-05-25T13:54:51Z",
@@ -290,32 +316,6 @@
    ],
    "category": "Routers",
    "momentum": 77,
-   "rank": 8
-  },
-  {
-   "name": "higress",
-   "full_name": "higress-group/higress",
-   "slug": "higress-group-higress",
-   "url": "https://github.com/higress-group/higress",
-   "owner": "higress-group",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/116630909?v=4",
-   "stars": 8616,
-   "forks": 1151,
-   "open_issues": 808,
-   "language": "Go",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-07T07:49:45Z",
-   "created_at": "2022-10-27T03:53:00Z",
-   "description": "🤖 AI Gateway | AI Native API Gateway",
-   "topics": [
-    "ai-gateway",
-    "ai-native",
-    "api-gateway",
-    "cloud-native",
-    "envoy"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 77,
    "rank": 9
   },
   {
@@ -325,12 +325,12 @@
    "url": "https://github.com/BlockRunAI/ClawRouter",
    "owner": "BlockRunAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/250889376?v=4",
-   "stars": 6560,
-   "forks": 604,
+   "stars": 6563,
+   "forks": 605,
    "open_issues": 33,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-11T12:16:36Z",
+   "pushed_at": "2026-06-11T20:55:05Z",
    "created_at": "2026-02-03T17:32:00Z",
    "description": "The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402.",
    "topics": [
@@ -362,8 +362,8 @@
    "url": "https://github.com/katanemo/plano",
    "owner": "katanemo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/112724757?v=4",
-   "stars": 6582,
-   "forks": 430,
+   "stars": 6585,
+   "forks": 431,
    "open_issues": 139,
    "language": "Rust",
    "license": "Apache-2.0",
@@ -400,12 +400,12 @@
    "url": "https://github.com/diegosouzapw/OmniRoute",
    "owner": "diegosouzapw",
    "owner_avatar": "https://avatars.githubusercontent.com/u/8016841?v=4",
-   "stars": 6032,
-   "forks": 1053,
-   "open_issues": 99,
+   "stars": 6074,
+   "forks": 1061,
+   "open_issues": 92,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-11T14:08:27Z",
+   "pushed_at": "2026-06-12T13:13:35Z",
    "created_at": "2026-02-13T12:38:31Z",
    "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
    "topics": [
@@ -441,12 +441,12 @@
    "url": "https://github.com/maximhq/bifrost",
    "owner": "maximhq",
    "owner_avatar": "https://avatars.githubusercontent.com/u/139708451?v=4",
-   "stars": 5674,
-   "forks": 739,
-   "open_issues": 489,
+   "stars": 5704,
+   "forks": 746,
+   "open_issues": 495,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T14:09:02Z",
+   "pushed_at": "2026-06-12T13:37:05Z",
    "created_at": "2025-03-19T07:21:26Z",
    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
    "topics": [
@@ -480,10 +480,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/186092512?v=4",
    "stars": 5559,
    "forks": 767,
-   "open_issues": 311,
+   "open_issues": 316,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T14:05:42Z",
+   "pushed_at": "2026-06-12T01:19:40Z",
    "created_at": "2018-01-22T20:19:49Z",
    "description": "The Cloud-Native API Gateway and AI Gateway",
    "topics": [
@@ -511,12 +511,12 @@
    "url": "https://github.com/vllm-project/semantic-router",
    "owner": "vllm-project",
    "owner_avatar": "https://avatars.githubusercontent.com/u/136984999?v=4",
-   "stars": 4313,
-   "forks": 705,
-   "open_issues": 198,
+   "stars": 4324,
+   "forks": 706,
+   "open_issues": 204,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T13:36:54Z",
+   "pushed_at": "2026-06-12T10:52:44Z",
    "created_at": "2025-08-26T21:49:50Z",
    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
    "topics": [
@@ -550,12 +550,12 @@
    "url": "https://github.com/looplj/axonhub",
    "owner": "looplj",
    "owner_avatar": "https://avatars.githubusercontent.com/u/231043908?v=4",
-   "stars": 4249,
-   "forks": 537,
+   "stars": 4269,
+   "forks": 538,
    "open_issues": 74,
    "language": "Go",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-11T01:17:57Z",
+   "pushed_at": "2026-06-12T00:58:44Z",
    "created_at": "2025-09-09T17:04:33Z",
    "description": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.",
    "topics": [
@@ -586,12 +586,12 @@
    "url": "https://github.com/IBM/mcp-context-forge",
    "owner": "IBM",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
-   "stars": 3867,
-   "forks": 697,
-   "open_issues": 1173,
+   "stars": 3874,
+   "forks": 699,
+   "open_issues": 1182,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T14:10:04Z",
+   "pushed_at": "2026-06-12T13:30:36Z",
    "created_at": "2025-05-08T08:16:59Z",
    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins.",
    "topics": [
@@ -627,12 +627,12 @@
    "url": "https://github.com/agentgateway/agentgateway",
    "owner": "agentgateway",
    "owner_avatar": "https://avatars.githubusercontent.com/u/208695296?v=4",
-   "stars": 3215,
-   "forks": 531,
-   "open_issues": 238,
+   "stars": 3241,
+   "forks": 530,
+   "open_issues": 244,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-10T23:55:21Z",
+   "pushed_at": "2026-06-12T03:06:01Z",
    "created_at": "2025-03-18T20:55:22Z",
    "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
    "topics": [
@@ -659,7 +659,7 @@
    "url": "https://github.com/krakend/krakend-ce",
    "owner": "krakend",
    "owner_avatar": "https://avatars.githubusercontent.com/u/92540622?v=4",
-   "stars": 2633,
+   "stars": 2635,
    "forks": 497,
    "open_issues": 34,
    "language": "Go",
@@ -694,12 +694,12 @@
    "url": "https://github.com/envoyproxy/ai-gateway",
    "owner": "envoyproxy",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30125649?v=4",
-   "stars": 1738,
+   "stars": 1744,
    "forks": 271,
-   "open_issues": 154,
+   "open_issues": 151,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T13:45:42Z",
+   "pushed_at": "2026-06-12T11:07:14Z",
    "created_at": "2024-10-21T02:59:59Z",
    "description": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
    "topics": [
@@ -752,7 +752,7 @@
    "url": "https://github.com/Continuum-AI-Corp/OrcaRouter-Lite",
    "owner": "Continuum-AI-Corp",
    "owner_avatar": "https://avatars.githubusercontent.com/u/273996259?v=4",
-   "stars": 544,
+   "stars": 539,
    "forks": 46,
    "open_issues": 0,
    "language": "Python",
@@ -772,8 +772,8 @@
    "url": "https://github.com/packyme/privacy-filter",
    "owner": "packyme",
    "owner_avatar": "https://avatars.githubusercontent.com/u/143387699?v=4",
-   "stars": 211,
-   "forks": 24,
+   "stars": 222,
+   "forks": 28,
    "open_issues": 1,
    "language": "Go",
    "license": "MIT",
@@ -799,44 +799,14 @@
    "rank": 23
   },
   {
-   "name": "octopus",
-   "full_name": "bestruirui/octopus",
-   "slug": "bestruirui-octopus",
-   "url": "https://github.com/bestruirui/octopus",
-   "owner": "bestruirui",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/89796393?v=4",
-   "stars": 2220,
-   "forks": 305,
-   "open_issues": 67,
-   "language": "TypeScript",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-05-28T09:26:27Z",
-   "created_at": "2025-11-18T01:41:03Z",
-   "description": "One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关",
-   "topics": [
-    "ai",
-    "ai-gateway",
-    "anthropic",
-    "claude",
-    "claude-code",
-    "codex",
-    "llm-gateway",
-    "openai",
-    "self-hosted"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 69,
-   "rank": 24
-  },
-  {
    "name": "openrelay",
    "full_name": "romgX/openrelay",
    "slug": "romgx-openrelay",
    "url": "https://github.com/romgX/openrelay",
    "owner": "romgX",
    "owner_avatar": "https://avatars.githubusercontent.com/u/156889089?v=4",
-   "stars": 2192,
-   "forks": 305,
+   "stars": 2200,
+   "forks": 306,
    "open_issues": 1,
    "language": "TypeScript",
    "license": "MIT",
@@ -866,6 +836,35 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 69,
+   "rank": 24
+  },
+  {
+   "name": "openclaw-termux",
+   "full_name": "mithun50/openclaw-termux",
+   "slug": "mithun50-openclaw-termux",
+   "url": "https://github.com/mithun50/openclaw-termux",
+   "owner": "mithun50",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/99024517?v=4",
+   "stars": 1590,
+   "forks": 245,
+   "open_issues": 31,
+   "language": "Dart",
+   "license": "MIT",
+   "pushed_at": "2026-06-12T08:53:08Z",
+   "created_at": "2026-02-03T07:00:07Z",
+   "description": "Run OpenClaw AI Gateway on Android — standalone Flutter app with built-in terminal, web dashboard, and one-tap setup. Also available as a Termux CLI package.",
+   "topics": [
+    "ai",
+    "android",
+    "claude",
+    "gateway",
+    "gemini",
+    "openai",
+    "openclaw",
+    "termux"
+   ],
+   "category": "Gateways & Proxies",
+   "momentum": 69,
    "rank": 25
   },
   {
@@ -875,9 +874,9 @@
    "url": "https://github.com/icebear0828/codex-proxy",
    "owner": "icebear0828",
    "owner_avatar": "https://avatars.githubusercontent.com/u/63769498?v=4",
-   "stars": 1385,
+   "stars": 1395,
    "forks": 185,
-   "open_issues": 24,
+   "open_issues": 23,
    "language": "TypeScript",
    "license": "",
    "pushed_at": "2026-06-11T12:25:21Z",
@@ -895,9 +894,9 @@
    "url": "https://github.com/ForgetMeAI/FreeDeepseekAPI",
    "owner": "ForgetMeAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/76566648?v=4",
-   "stars": 133,
-   "forks": 38,
-   "open_issues": 9,
+   "stars": 142,
+   "forks": 41,
+   "open_issues": 10,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-06-08T19:39:05Z",
@@ -919,29 +918,30 @@
    "rank": 27
   },
   {
-   "name": "openclaw-termux",
-   "full_name": "mithun50/openclaw-termux",
-   "slug": "mithun50-openclaw-termux",
-   "url": "https://github.com/mithun50/openclaw-termux",
-   "owner": "mithun50",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/99024517?v=4",
-   "stars": 1586,
-   "forks": 244,
-   "open_issues": 31,
-   "language": "Dart",
-   "license": "MIT",
-   "pushed_at": "2026-06-04T00:50:27Z",
-   "created_at": "2026-02-03T07:00:07Z",
-   "description": "Run OpenClaw AI Gateway on Android — standalone Flutter app with built-in terminal, web dashboard, and one-tap setup. Also available as a Termux CLI package.",
+   "name": "octopus",
+   "full_name": "bestruirui/octopus",
+   "slug": "bestruirui-octopus",
+   "url": "https://github.com/bestruirui/octopus",
+   "owner": "bestruirui",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/89796393?v=4",
+   "stars": 2227,
+   "forks": 306,
+   "open_issues": 67,
+   "language": "TypeScript",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-05-28T09:26:27Z",
+   "created_at": "2025-11-18T01:41:03Z",
+   "description": "One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关",
    "topics": [
     "ai",
-    "android",
+    "ai-gateway",
+    "anthropic",
     "claude",
-    "gateway",
-    "gemini",
+    "claude-code",
+    "codex",
+    "llm-gateway",
     "openai",
-    "openclaw",
-    "termux"
+    "self-hosted"
    ],
    "category": "Gateways & Proxies",
    "momentum": 68,
@@ -954,12 +954,12 @@
    "url": "https://github.com/theopenco/llmgateway",
    "owner": "theopenco",
    "owner_avatar": "https://avatars.githubusercontent.com/u/211671860?v=4",
-   "stars": 1291,
+   "stars": 1292,
    "forks": 144,
-   "open_issues": 52,
+   "open_issues": 54,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-11T12:30:07Z",
+   "pushed_at": "2026-06-12T13:28:27Z",
    "created_at": "2025-04-12T18:37:18Z",
    "description": "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.",
    "topics": [
@@ -994,12 +994,12 @@
    "url": "https://github.com/yym68686/uni-api",
    "owner": "yym68686",
    "owner_avatar": "https://avatars.githubusercontent.com/u/31803242?v=4",
-   "stars": 1227,
+   "stars": 1228,
    "forks": 152,
    "open_issues": 12,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T11:10:39Z",
+   "pushed_at": "2026-06-12T13:27:37Z",
    "created_at": "2024-07-04T10:47:18Z",
    "description": "This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.",
    "topics": [
@@ -1015,6 +1015,91 @@
    "category": "Multi-Provider SDKs",
    "momentum": 68,
    "rank": 30
+  },
+  {
+   "name": "GoModel",
+   "full_name": "ENTERPILOT/GoModel",
+   "slug": "enterpilot-gomodel",
+   "url": "https://github.com/ENTERPILOT/GoModel",
+   "owner": "ENTERPILOT",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/226084853?v=4",
+   "stars": 933,
+   "forks": 63,
+   "open_issues": 15,
+   "language": "Go",
+   "license": "MIT",
+   "pushed_at": "2026-06-11T09:28:12Z",
+   "created_at": "2025-12-05T21:26:31Z",
+   "description": "AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.",
+   "topics": [
+    "ai",
+    "ai-gateway",
+    "ai-proxy",
+    "anthropic",
+    "go",
+    "golang",
+    "groq",
+    "litellm-alternative",
+    "llm",
+    "llm-gateway",
+    "observability",
+    "ollama",
+    "openai",
+    "openai-compatible",
+    "openai-compatible-api",
+    "openai-compatible-proxy-server",
+    "proxy"
+   ],
+   "category": "Observability Gateways",
+   "momentum": 67,
+   "rank": 31
+  },
+  {
+   "name": "composer-api",
+   "full_name": "standardagents/composer-api",
+   "slug": "standardagents-composer-api",
+   "url": "https://github.com/standardagents/composer-api",
+   "owner": "standardagents",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/247467195?v=4",
+   "stars": 182,
+   "forks": 26,
+   "open_issues": 14,
+   "language": "Swift",
+   "license": "MIT",
+   "pushed_at": "2026-05-30T14:16:28Z",
+   "created_at": "2026-05-20T14:57:33Z",
+   "description": "OpenAI-compatible API proxy for Cursor Composer",
+   "topics": [],
+   "category": "Gateways & Proxies",
+   "momentum": 67,
+   "rank": 32
+  },
+  {
+   "name": "bedrock-access-gateway",
+   "full_name": "aws-samples/bedrock-access-gateway",
+   "slug": "aws-samples-bedrock-access-gateway",
+   "url": "https://github.com/aws-samples/bedrock-access-gateway",
+   "owner": "aws-samples",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/8931462?v=4",
+   "stars": 987,
+   "forks": 308,
+   "open_issues": 87,
+   "language": "Python",
+   "license": "MIT-0",
+   "pushed_at": "2026-06-04T16:45:38Z",
+   "created_at": "2024-03-27T06:57:18Z",
+   "description": "OpenAI-Compatible RESTful APIs for Amazon Bedrock",
+   "topics": [
+    "bedrock",
+    "genai",
+    "openai",
+    "openai-api",
+    "openai-proxy",
+    "proxy"
+   ],
+   "category": "Gateways & Proxies",
+   "momentum": 66,
+   "rank": 33
   },
   {
    "name": "AI-Gateway",
@@ -1045,91 +1130,6 @@
     "openai-api"
    ],
    "category": "Gateways & Proxies",
-   "momentum": 67,
-   "rank": 31
-  },
-  {
-   "name": "GoModel",
-   "full_name": "ENTERPILOT/GoModel",
-   "slug": "enterpilot-gomodel",
-   "url": "https://github.com/ENTERPILOT/GoModel",
-   "owner": "ENTERPILOT",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/226084853?v=4",
-   "stars": 932,
-   "forks": 63,
-   "open_issues": 14,
-   "language": "Go",
-   "license": "MIT",
-   "pushed_at": "2026-06-11T09:28:12Z",
-   "created_at": "2025-12-05T21:26:31Z",
-   "description": "AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.",
-   "topics": [
-    "ai",
-    "ai-gateway",
-    "ai-proxy",
-    "anthropic",
-    "go",
-    "golang",
-    "groq",
-    "litellm-alternative",
-    "llm",
-    "llm-gateway",
-    "observability",
-    "ollama",
-    "openai",
-    "openai-compatible",
-    "openai-compatible-api",
-    "openai-compatible-proxy-server",
-    "proxy"
-   ],
-   "category": "Observability Gateways",
-   "momentum": 67,
-   "rank": 32
-  },
-  {
-   "name": "composer-api",
-   "full_name": "standardagents/composer-api",
-   "slug": "standardagents-composer-api",
-   "url": "https://github.com/standardagents/composer-api",
-   "owner": "standardagents",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/247467195?v=4",
-   "stars": 181,
-   "forks": 26,
-   "open_issues": 14,
-   "language": "Swift",
-   "license": "MIT",
-   "pushed_at": "2026-05-30T14:16:28Z",
-   "created_at": "2026-05-20T14:57:33Z",
-   "description": "OpenAI-compatible API proxy for Cursor Composer",
-   "topics": [],
-   "category": "Gateways & Proxies",
-   "momentum": 67,
-   "rank": 33
-  },
-  {
-   "name": "bedrock-access-gateway",
-   "full_name": "aws-samples/bedrock-access-gateway",
-   "slug": "aws-samples-bedrock-access-gateway",
-   "url": "https://github.com/aws-samples/bedrock-access-gateway",
-   "owner": "aws-samples",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/8931462?v=4",
-   "stars": 987,
-   "forks": 308,
-   "open_issues": 87,
-   "language": "Python",
-   "license": "MIT-0",
-   "pushed_at": "2026-06-04T16:45:38Z",
-   "created_at": "2024-03-27T06:57:18Z",
-   "description": "OpenAI-Compatible RESTful APIs for Amazon Bedrock",
-   "topics": [
-    "bedrock",
-    "genai",
-    "openai",
-    "openai-api",
-    "openai-proxy",
-    "proxy"
-   ],
-   "category": "Gateways & Proxies",
    "momentum": 66,
    "rank": 34
   },
@@ -1140,12 +1140,12 @@
    "url": "https://github.com/askalf/dario",
    "owner": "askalf",
    "owner_avatar": "https://avatars.githubusercontent.com/u/263217947?v=4",
-   "stars": 262,
+   "stars": 267,
    "forks": 44,
    "open_issues": 2,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-06-11T06:40:42Z",
+   "pushed_at": "2026-06-12T13:36:16Z",
    "created_at": "2026-04-08T16:08:01Z",
    "description": "Your Claude Pro/Max subscription in any tool — Cursor, Cline, Aider, Agent SDK — at subscription pricing, not per-token bills. One local endpoint that replays Claude Code's wire shape so your traffic stays in the subscription pool.",
    "topics": [
@@ -1180,12 +1180,12 @@
    "url": "https://github.com/MoyuFamily/ai-relay",
    "owner": "MoyuFamily",
    "owner_avatar": "https://avatars.githubusercontent.com/u/286693150?v=4",
-   "stars": 101,
+   "stars": 103,
    "forks": 41,
-   "open_issues": 1,
+   "open_issues": 2,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-11T13:31:28Z",
+   "pushed_at": "2026-06-12T10:09:01Z",
    "created_at": "2026-05-20T15:37:05Z",
    "description": "Serverless AI API Gateway / 无服务器 AI API 网关 · Vercel 一键部署 / Cloudflare 推送即部署 · 多 Provider 路由 · Key 轮换 · 故障转移 · OpenAI 兼容",
    "topics": [
@@ -1213,7 +1213,7 @@
    "url": "https://github.com/adaline/gateway",
    "owner": "adaline",
    "owner_avatar": "https://avatars.githubusercontent.com/u/382430?v=4",
-   "stars": 592,
+   "stars": 593,
    "forks": 26,
    "open_issues": 0,
    "language": "TypeScript",
@@ -1244,7 +1244,7 @@
    "url": "https://github.com/sdcb/chats",
    "owner": "sdcb",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1317141?v=4",
-   "stars": 589,
+   "stars": 590,
    "forks": 100,
    "open_issues": 12,
    "language": "C#",
@@ -1277,7 +1277,7 @@
    "owner": "APIParkLab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/174095445?v=4",
    "stars": 1751,
-   "forks": 232,
+   "forks": 233,
    "open_issues": 49,
    "language": "TypeScript",
    "license": "Apache-2.0",
@@ -1311,7 +1311,7 @@
    "url": "https://github.com/Nya-Foundation/NyaProxy",
    "owner": "Nya-Foundation",
    "owner_avatar": "https://avatars.githubusercontent.com/u/206511519?v=4",
-   "stars": 961,
+   "stars": 960,
    "forks": 12,
    "open_issues": 0,
    "language": "Python",
@@ -1342,7 +1342,7 @@
    "url": "https://github.com/CommonstackAI/UncommonRoute",
    "owner": "CommonstackAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/267577115?v=4",
-   "stars": 671,
+   "stars": 673,
    "forks": 26,
    "open_issues": 2,
    "language": "Python",
@@ -1371,7 +1371,7 @@
    "url": "https://github.com/NadirRouter/NadirClaw",
    "owner": "NadirRouter",
    "owner_avatar": "https://avatars.githubusercontent.com/u/267796829?v=4",
-   "stars": 520,
+   "stars": 525,
    "forks": 66,
    "open_issues": 4,
    "language": "Python",
@@ -1412,9 +1412,9 @@
    "url": "https://github.com/coaidev/coai",
    "owner": "coaidev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125332171?v=4",
-   "stars": 9197,
-   "forks": 1216,
-   "open_issues": 34,
+   "stars": 9198,
+   "forks": 1215,
+   "open_issues": 35,
    "language": "TypeScript",
    "license": "Apache-2.0",
    "pushed_at": "2026-03-12T10:00:31Z",
@@ -1499,7 +1499,7 @@
    "url": "https://github.com/openguardrails/agentfw",
    "owner": "openguardrails",
    "owner_avatar": "https://avatars.githubusercontent.com/u/239087322?v=4",
-   "stars": 361,
+   "stars": 362,
    "forks": 58,
    "open_issues": 1,
    "language": "TypeScript",
@@ -1537,10 +1537,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/207763516?v=4",
    "stars": 349,
    "forks": 29,
-   "open_issues": 9,
+   "open_issues": 8,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-11T06:46:48Z",
+   "pushed_at": "2026-06-12T10:23:21Z",
    "created_at": "2025-07-29T21:13:45Z",
    "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model routing using your logic or ours",
    "topics": [
@@ -1570,6 +1570,47 @@
    "rank": 47
   },
   {
+   "name": "cnllm",
+   "full_name": "kanchengw/cnllm",
+   "slug": "kanchengw-cnllm",
+   "url": "https://github.com/kanchengw/cnllm",
+   "owner": "kanchengw",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/222912550?v=4",
+   "stars": 162,
+   "forks": 14,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-12T13:35:35Z",
+   "created_at": "2026-03-26T16:07:26Z",
+   "description": "Unified Python library for Chinese LLMs, with flexible batch capacity, feedback on vendor-native parameter validation, and structured overview and automated accumulation for streaming.",
+   "topics": [
+    "adapter",
+    "ai",
+    "api",
+    "api-wrapper",
+    "autogen",
+    "chinese-llm",
+    "chinese-llms",
+    "deepeval",
+    "doubao",
+    "glm",
+    "haystack",
+    "langchain",
+    "litellm",
+    "llamaindex",
+    "machine-learning",
+    "mimo-v2",
+    "minimax",
+    "openai",
+    "package",
+    "python"
+   ],
+   "category": "Gateways & Proxies",
+   "momentum": 62,
+   "rank": 48
+  },
+  {
    "name": "auth2api",
    "full_name": "AmazingAng/auth2api",
    "slug": "amazingang-auth2api",
@@ -1587,7 +1628,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 61,
-   "rank": 48
+   "rank": 49
   },
   {
    "name": "smg",
@@ -1596,12 +1637,12 @@
    "url": "https://github.com/lightseekorg/smg",
    "owner": "lightseekorg",
    "owner_avatar": "https://avatars.githubusercontent.com/u/238925110?v=4",
-   "stars": 324,
+   "stars": 328,
    "forks": 95,
-   "open_issues": 95,
+   "open_issues": 114,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T07:45:10Z",
+   "pushed_at": "2026-06-12T07:33:01Z",
    "created_at": "2025-11-22T05:17:14Z",
    "description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
    "topics": [
@@ -1625,7 +1666,7 @@
    ],
    "category": "Routers",
    "momentum": 61,
-   "rank": 49
+   "rank": 50
   },
   {
    "name": "digiRunner-Open-Source",
@@ -1639,7 +1680,7 @@
    "open_issues": 8,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T10:11:29Z",
+   "pushed_at": "2026-06-12T06:40:05Z",
    "created_at": "2024-09-30T07:45:43Z",
    "description": "digiRunner: Your API Gateway for Microservices",
    "topics": [
@@ -1666,7 +1707,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 61,
-   "rank": 50
+   "rank": 51
   },
   {
    "name": "bitrouter",
@@ -1677,10 +1718,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/193405925?v=4",
    "stars": 177,
    "forks": 6,
-   "open_issues": 13,
+   "open_issues": 10,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T14:07:34Z",
+   "pushed_at": "2026-06-12T10:02:32Z",
    "created_at": "2026-03-06T20:04:01Z",
    "description": "An open-source LLM router that optimize your agent for cost and performance — with every run.",
    "topics": [
@@ -1707,7 +1748,7 @@
    ],
    "category": "Routers",
    "momentum": 61,
-   "rank": 51
+   "rank": 52
   },
   {
    "name": "free-llm-gateway",
@@ -1727,7 +1768,7 @@
    "topics": [],
    "category": "Routers",
    "momentum": 61,
-   "rank": 52
+   "rank": 53
   },
   {
    "name": "qwen-gate",
@@ -1736,31 +1777,65 @@
    "url": "https://github.com/youssefvdel/qwen-gate",
    "owner": "youssefvdel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/188697716?v=4",
-   "stars": 36,
-   "forks": 8,
-   "open_issues": 4,
+   "stars": 39,
+   "forks": 11,
+   "open_issues": 1,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-11T12:56:59Z",
+   "pushed_at": "2026-06-12T13:30:11Z",
    "created_at": "2026-05-22T15:04:27Z",
-   "description": "OpenAI-compatible gateway for Qwen AI models. Drop-in replacement for /v1/chat/completions with multi-account rotation, native tool calling via MCP, SSE streaming, and a web dashboard. Uses Playwright for browser-based Qwen access.",
+   "description": "Drop-in OpenAI-compatible API gateway for Qwen AI models. Use your Qwen account (chat.qwen.ai) as a free AI API provider in any OpenAI-compatible client — Cursor, Continue.dev, Claude Code, VS Code Copilot, or any coding agent. Self-hosted, Chromium-based auth, streaming support, tool calling, dashboard.",
    "topics": [
+    "ai-proxy",
     "api-gateway",
-    "browser-automation",
-    "hono",
-    "llm-gateway",
+    "chat-gateway",
+    "chromium",
+    "coding-agent",
+    "free-api",
+    "llm-proxy",
     "openai-compatible",
     "openai-proxy",
-    "playwright",
     "qwen",
-    "qwen-ai",
-    "sse",
-    "tool-calling",
-    "typescript"
+    "qwen-api",
+    "qwen-gate",
+    "self-hosted",
+    "streaming",
+    "tool-calling"
    ],
    "category": "Gateways & Proxies",
    "momentum": 61,
-   "rank": 53
+   "rank": 54
+  },
+  {
+   "name": "not-fade-away",
+   "full_name": "heyxiaoc/not-fade-away",
+   "slug": "heyxiaoc-not-fade-away",
+   "url": "https://github.com/heyxiaoc/not-fade-away",
+   "owner": "heyxiaoc",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/291735537?v=4",
+   "stars": 25,
+   "forks": 1,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-12T12:42:46Z",
+   "created_at": "2026-06-08T09:47:25Z",
+   "description": "在自己的 Mac 上搭一套常驻、自愈、走订阅、墙内也能用的自托管 AI 伴侣 · 人看版讲思路，机看版给完整规格 · 文 / 小C & Grace",
+   "topics": [
+    "ai-companion",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-fable",
+    "fable-5",
+    "llm",
+    "model-routing",
+    "self-hosted",
+    "tutorial"
+   ],
+   "category": "Gateways & Proxies",
+   "momentum": 61,
+   "rank": 55
   },
   {
    "name": "quantum-free-router",
@@ -1769,7 +1844,7 @@
    "url": "https://github.com/spacepirate15/quantum-free-router",
    "owner": "spacepirate15",
    "owner_avatar": "https://avatars.githubusercontent.com/u/103573863?v=4",
-   "stars": 21,
+   "stars": 23,
    "forks": 1,
    "open_issues": 0,
    "language": "Shell",
@@ -1791,7 +1866,7 @@
    ],
    "category": "Routers",
    "momentum": 61,
-   "rank": 54
+   "rank": 56
   },
   {
    "name": "olla",
@@ -1832,48 +1907,7 @@
    ],
    "category": "Routers",
    "momentum": 60,
-   "rank": 55
-  },
-  {
-   "name": "cnllm",
-   "full_name": "kanchengw/cnllm",
-   "slug": "kanchengw-cnllm",
-   "url": "https://github.com/kanchengw/cnllm",
-   "owner": "kanchengw",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/222912550?v=4",
-   "stars": 161,
-   "forks": 14,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-05-29T07:34:57Z",
-   "created_at": "2026-03-26T16:07:26Z",
-   "description": "Unified Python library for Chinese LLMs, with flexible batch capacity, feedback on vendor-native parameter validation, and structured overview and automated accumulation for streaming.",
-   "topics": [
-    "adapter",
-    "ai",
-    "api",
-    "api-wrapper",
-    "autogen",
-    "chinese-llm",
-    "chinese-llms",
-    "deepeval",
-    "doubao",
-    "glm",
-    "haystack",
-    "langchain",
-    "litellm",
-    "llamaindex",
-    "machine-learning",
-    "mimo-v2",
-    "minimax",
-    "openai",
-    "package",
-    "python"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 60,
-   "rank": 56
+   "rank": 57
   },
   {
    "name": "llmio",
@@ -1882,7 +1916,7 @@
    "url": "https://github.com/atopos31/llmio",
    "owner": "atopos31",
    "owner_avatar": "https://avatars.githubusercontent.com/u/113456534?v=4",
-   "stars": 310,
+   "stars": 311,
    "forks": 35,
    "open_issues": 15,
    "language": "TypeScript",
@@ -1912,7 +1946,7 @@
    ],
    "category": "Observability Gateways",
    "momentum": 59,
-   "rank": 57
+   "rank": 58
   },
   {
    "name": "chak-ai",
@@ -1932,7 +1966,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 59,
-   "rank": 58
+   "rank": 59
   },
   {
    "name": "voidllm",
@@ -1973,7 +2007,7 @@
    ],
    "category": "Routers",
    "momentum": 59,
-   "rank": 59
+   "rank": 60
   },
   {
    "name": "byok-relay",
@@ -1984,10 +2018,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/7858932?v=4",
    "stars": 51,
    "forks": 0,
-   "open_issues": 27,
+   "open_issues": 28,
    "language": "JavaScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T03:37:41Z",
+   "pushed_at": "2026-06-12T03:36:56Z",
    "created_at": "2026-04-14T14:06:56Z",
    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without hitting CORS.",
    "topics": [
@@ -2011,7 +2045,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 59,
-   "rank": 60
+   "rank": 61
   },
   {
    "name": "one-api",
@@ -2020,8 +2054,8 @@
    "url": "https://github.com/songquanpeng/one-api",
    "owner": "songquanpeng",
    "owner_avatar": "https://avatars.githubusercontent.com/u/39998050?v=4",
-   "stars": 34848,
-   "forks": 6616,
+   "stars": 34880,
+   "forks": 6619,
    "open_issues": 1012,
    "language": "JavaScript",
    "license": "MIT",
@@ -2043,7 +2077,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 58,
-   "rank": 61
+   "rank": 62
   },
   {
    "name": "openai-gemini",
@@ -2052,8 +2086,8 @@
    "url": "https://github.com/PublicAffairs/openai-gemini",
    "owner": "PublicAffairs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/160492612?v=4",
-   "stars": 3577,
-   "forks": 5946,
+   "stars": 3580,
+   "forks": 5942,
    "open_issues": 16,
    "language": "JavaScript",
    "license": "MIT",
@@ -2070,7 +2104,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 62
+   "rank": 63
   },
   {
    "name": "hub",
@@ -2079,7 +2113,7 @@
    "url": "https://github.com/traceloop/hub",
    "owner": "traceloop",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125419530?v=4",
-   "stars": 208,
+   "stars": 209,
    "forks": 31,
    "open_issues": 10,
    "language": "Rust",
@@ -2102,7 +2136,7 @@
    ],
    "category": "Observability Gateways",
    "momentum": 58,
-   "rank": 63
+   "rank": 64
   },
   {
    "name": "intense-rp-next",
@@ -2116,7 +2150,7 @@
    "open_issues": 0,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-06-08T16:23:39Z",
+   "pushed_at": "2026-06-12T12:38:50Z",
    "created_at": "2025-05-28T22:50:41Z",
    "description": "Desktop app + OpenAI-compatible API that proxies LLM web UIs for unofficial integration of LLMs into SillyTavern and other clients.",
    "topics": [
@@ -2139,7 +2173,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 64
+   "rank": 65
   },
   {
    "name": "nyro",
@@ -2148,7 +2182,7 @@
    "url": "https://github.com/nyroway/nyro",
    "owner": "nyroway",
    "owner_avatar": "https://avatars.githubusercontent.com/u/272400654?v=4",
-   "stars": 159,
+   "stars": 160,
    "forks": 24,
    "open_issues": 23,
    "language": "Rust",
@@ -2170,7 +2204,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 65
+   "rank": 66
   },
   {
    "name": "ai-gateway",
@@ -2179,12 +2213,12 @@
    "url": "https://github.com/ferro-labs/ai-gateway",
    "owner": "ferro-labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/263849603?v=4",
-   "stars": 127,
+   "stars": 129,
    "forks": 24,
-   "open_issues": 53,
+   "open_issues": 54,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-09T06:09:44Z",
+   "pushed_at": "2026-06-12T00:53:20Z",
    "created_at": "2026-02-25T07:46:16Z",
    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost controls. Go-native Fastest & Scalable AI Gateway LiteLLM & Kong AI Gateway alternative.",
    "topics": [
@@ -2206,7 +2240,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 66
+   "rank": 67
   },
   {
    "name": "1flowbase",
@@ -2217,10 +2251,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/250640432?v=4",
    "stars": 92,
    "forks": 10,
-   "open_issues": 48,
+   "open_issues": 52,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T12:27:06Z",
+   "pushed_at": "2026-06-12T13:35:44Z",
    "created_at": "2026-03-09T07:08:29Z",
    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token, latency, and cost visibility.",
    "topics": [
@@ -2241,7 +2275,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 67
+   "rank": 68
   },
   {
    "name": "edgee",
@@ -2250,12 +2284,12 @@
    "url": "https://github.com/edgee-ai/edgee",
    "owner": "edgee-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127485680?v=4",
-   "stars": 87,
+   "stars": 88,
    "forks": 11,
    "open_issues": 6,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-09T13:13:55Z",
+   "pushed_at": "2026-06-12T08:41:57Z",
    "created_at": "2026-03-16T08:07:03Z",
    "description": "Open-source AI gateway written in Rust, with token compression for Claude Code, Codex... and any other LLM client.",
    "topics": [
@@ -2270,7 +2304,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 68
+   "rank": 69
   },
   {
    "name": "sbproxy",
@@ -2305,7 +2339,37 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 57,
-   "rank": 69
+   "rank": 70
+  },
+  {
+   "name": "opencode-models-discovery",
+   "full_name": "yuhp/opencode-models-discovery",
+   "slug": "yuhp-opencode-models-discovery",
+   "url": "https://github.com/yuhp/opencode-models-discovery",
+   "owner": "yuhp",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/5329160?v=4",
+   "stars": 39,
+   "forks": 9,
+   "open_issues": 2,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-06-11T09:36:35Z",
+   "created_at": "2026-04-09T02:46:12Z",
+   "description": "A universal OpenCode plugin for dynamic model discovery with flexible configuration for OpenAI-compatible providers.",
+   "topics": [
+    "api-gateway",
+    "dynamic-model-discovery",
+    "llm-gateway",
+    "lm-studio",
+    "local-llm",
+    "localai",
+    "opencode",
+    "opencode-plugin",
+    "self-hosted-llm"
+   ],
+   "category": "Gateways & Proxies",
+   "momentum": 57,
+   "rank": 71
   },
   {
    "name": "claude-code-proxy",
@@ -2314,7 +2378,7 @@
    "url": "https://github.com/fuergaosi233/claude-code-proxy",
    "owner": "fuergaosi233",
    "owner_avatar": "https://avatars.githubusercontent.com/u/22197568?v=4",
-   "stars": 2663,
+   "stars": 2668,
    "forks": 389,
    "open_issues": 39,
    "language": "Python",
@@ -2325,35 +2389,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 56,
-   "rank": 70
-  },
-  {
-   "name": "wyoming_openai",
-   "full_name": "roryeckel/wyoming_openai",
-   "slug": "roryeckel-wyoming-openai",
-   "url": "https://github.com/roryeckel/wyoming_openai",
-   "owner": "roryeckel",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/16675082?v=4",
-   "stars": 187,
-   "forks": 28,
-   "open_issues": 2,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-05-25T03:13:52Z",
-   "created_at": "2025-01-13T07:19:58Z",
-   "description": "OpenAI-Compatible Proxy Middleware for the Wyoming Protocol",
-   "topics": [
-    "asr",
-    "home-assistant",
-    "openai",
-    "proxy",
-    "stt",
-    "tts",
-    "wyoming"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 56,
-   "rank": 71
+   "rank": 72
   },
   {
    "name": "gproxy",
@@ -2362,7 +2398,7 @@
    "url": "https://github.com/LeenHawk/gproxy",
    "owner": "LeenHawk",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127599173?v=4",
-   "stars": 148,
+   "stars": 149,
    "forks": 28,
    "open_issues": 1,
    "language": "Rust",
@@ -2378,7 +2414,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 56,
-   "rank": 72
+   "rank": 73
   },
   {
    "name": "llamactl",
@@ -2412,90 +2448,7 @@
    ],
    "category": "Routers",
    "momentum": 56,
-   "rank": 73
-  },
-  {
-   "name": "gpt2giga",
-   "full_name": "ai-forever/gpt2giga",
-   "slug": "ai-forever-gpt2giga",
-   "url": "https://github.com/ai-forever/gpt2giga",
-   "owner": "ai-forever",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/103576137?v=4",
-   "stars": 108,
-   "forks": 39,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-11T13:32:23Z",
-   "created_at": "2024-12-25T11:51:49Z",
-   "description": "FastAPI proxy for OpenAI-, and Anthropic-compatible clients backed by the GigaChat API",
-   "topics": [
-    "anthropic-compatible",
-    "api-proxy",
-    "fastapi",
-    "gemini-compatible",
-    "gigachat",
-    "llm-proxy",
-    "openai-compatible",
-    "proxy",
-    "python",
-    "sse"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 56,
    "rank": 74
-  },
-  {
-   "name": "opencode-models-discovery",
-   "full_name": "yuhp/opencode-models-discovery",
-   "slug": "yuhp-opencode-models-discovery",
-   "url": "https://github.com/yuhp/opencode-models-discovery",
-   "owner": "yuhp",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/5329160?v=4",
-   "stars": 36,
-   "forks": 9,
-   "open_issues": 2,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-06-11T09:36:35Z",
-   "created_at": "2026-04-09T02:46:12Z",
-   "description": "A universal OpenCode plugin for dynamic model discovery with flexible configuration for OpenAI-compatible providers.",
-   "topics": [
-    "api-gateway",
-    "dynamic-model-discovery",
-    "llm-gateway",
-    "lm-studio",
-    "local-llm",
-    "localai",
-    "opencode",
-    "opencode-plugin",
-    "self-hosted-llm"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 56,
-   "rank": 75
-  },
-  {
-   "name": "llm-router",
-   "full_name": "NVIDIA-AI-Blueprints/llm-router",
-   "slug": "nvidia-ai-blueprints-llm-router",
-   "url": "https://github.com/NVIDIA-AI-Blueprints/llm-router",
-   "owner": "NVIDIA-AI-Blueprints",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/178940881?v=4",
-   "stars": 291,
-   "forks": 79,
-   "open_issues": 11,
-   "language": "Jupyter Notebook",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-05-07T00:23:59Z",
-   "created_at": "2025-01-22T22:24:32Z",
-   "description": "Route LLM requests to the best model for the task at hand.",
-   "topics": [
-    "llm-router"
-   ],
-   "category": "Routers",
-   "momentum": 55,
-   "rank": 76
   },
   {
    "name": "Clipal",
@@ -2509,7 +2462,7 @@
    "open_issues": 1,
    "language": "Go",
    "license": "",
-   "pushed_at": "2026-06-04T08:13:38Z",
+   "pushed_at": "2026-06-12T07:25:34Z",
    "created_at": "2025-12-22T05:17:05Z",
    "description": "Minimal LLM API reverse proxy for Claude Code, Codex CLI & Gemini CLI — YAML routing, hot reload, and automatic provider failover.  极简 LLM API 反向代理：面向 Claude Code / Codex CLI / Gemini CLI，支持 YAML 配置、多上游优先级与自动故障转移。",
    "topics": [
@@ -2526,6 +2479,65 @@
     "reverse-proxy"
    ],
    "category": "Routers",
+   "momentum": 56,
+   "rank": 75
+  },
+  {
+   "name": "gpt2giga",
+   "full_name": "ai-forever/gpt2giga",
+   "slug": "ai-forever-gpt2giga",
+   "url": "https://github.com/ai-forever/gpt2giga",
+   "owner": "ai-forever",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/103576137?v=4",
+   "stars": 108,
+   "forks": 39,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-06-12T00:38:04Z",
+   "created_at": "2024-12-25T11:51:49Z",
+   "description": "FastAPI proxy for OpenAI-, and Anthropic-compatible clients backed by the GigaChat API",
+   "topics": [
+    "anthropic-compatible",
+    "api-proxy",
+    "fastapi",
+    "gemini-compatible",
+    "gigachat",
+    "llm-proxy",
+    "openai-compatible",
+    "proxy",
+    "python",
+    "sse"
+   ],
+   "category": "Gateways & Proxies",
+   "momentum": 56,
+   "rank": 76
+  },
+  {
+   "name": "wyoming_openai",
+   "full_name": "roryeckel/wyoming_openai",
+   "slug": "roryeckel-wyoming-openai",
+   "url": "https://github.com/roryeckel/wyoming_openai",
+   "owner": "roryeckel",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/16675082?v=4",
+   "stars": 188,
+   "forks": 28,
+   "open_issues": 2,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-05-25T03:13:52Z",
+   "created_at": "2025-01-13T07:19:58Z",
+   "description": "OpenAI-Compatible Proxy Middleware for the Wyoming Protocol",
+   "topics": [
+    "asr",
+    "home-assistant",
+    "openai",
+    "proxy",
+    "stt",
+    "tts",
+    "wyoming"
+   ],
+   "category": "Gateways & Proxies",
    "momentum": 55,
    "rank": 77
   },
@@ -2536,12 +2548,12 @@
    "url": "https://github.com/Portkey-AI/models",
    "owner": "Portkey-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131141116?v=4",
-   "stars": 99,
+   "stars": 100,
    "forks": 26,
-   "open_issues": 49,
+   "open_issues": 48,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-06-10T03:50:58Z",
+   "pushed_at": "2026-06-12T09:11:34Z",
    "created_at": "2025-12-26T07:24:38Z",
    "description": "This repository contains comprehensive pricing and configuration data for LLMs. It powers cost attribution for 200+ enterprises running 400B+ tokens through Portkey AI Gateway every day.",
    "topics": [
@@ -2555,39 +2567,57 @@
    "rank": 78
   },
   {
-   "name": "freellm",
-   "full_name": "Devansh-365/freellm",
-   "slug": "devansh-365-freellm",
-   "url": "https://github.com/Devansh-365/freellm",
-   "owner": "Devansh-365",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/83155844?v=4",
-   "stars": 45,
-   "forks": 8,
-   "open_issues": 1,
+   "name": "OctoClaw",
+   "full_name": "guanbear/OctoClaw",
+   "slug": "guanbear-octoclaw",
+   "url": "https://github.com/guanbear/OctoClaw",
+   "owner": "guanbear",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/11829005?v=4",
+   "stars": 52,
+   "forks": 0,
+   "open_issues": 0,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-05-29T10:57:59Z",
-   "created_at": "2026-04-03T05:55:36Z",
-   "description": "OpenAI-compatible gateway aggregating 8 free LLM providers with automatic failover, circuit breakers, and smart routing. 32+ models, zero cost.",
+   "pushed_at": "2026-06-06T09:54:08Z",
+   "created_at": "2026-03-18T14:00:50Z",
+   "description": "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents",
    "topics": [
-    "api-gateway",
-    "cerebras",
-    "circuit-breaker",
-    "free-api",
-    "gemini",
-    "groq",
-    "llm",
-    "llm-gateway",
-    "mistral",
-    "nvidia",
-    "ollama",
-    "openai-api",
-    "openai-compatible",
-    "rate-limiting"
+    "agent-orchestration",
+    "ai-agents",
+    "automation",
+    "feishu",
+    "llmops",
+    "model-routing",
+    "openclaw",
+    "slack",
+    "subagents",
+    "typescript"
    ],
    "category": "Routers",
    "momentum": 55,
    "rank": 79
+  },
+  {
+   "name": "llm-router",
+   "full_name": "NVIDIA-AI-Blueprints/llm-router",
+   "slug": "nvidia-ai-blueprints-llm-router",
+   "url": "https://github.com/NVIDIA-AI-Blueprints/llm-router",
+   "owner": "NVIDIA-AI-Blueprints",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/178940881?v=4",
+   "stars": 293,
+   "forks": 79,
+   "open_issues": 11,
+   "language": "Jupyter Notebook",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-05-07T00:23:59Z",
+   "created_at": "2025-01-22T22:24:32Z",
+   "description": "Route LLM requests to the best model for the task at hand.",
+   "topics": [
+    "llm-router"
+   ],
+   "category": "Routers",
+   "momentum": 54,
+   "rank": 80
   },
   {
    "name": "cc-relay",
@@ -2628,7 +2658,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 54,
-   "rank": 80
+   "rank": 81
   },
   {
    "name": "Routerly",
@@ -2637,9 +2667,9 @@
    "url": "https://github.com/Inebrio/Routerly",
    "owner": "Inebrio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/193476043?v=4",
-   "stars": 54,
+   "stars": 56,
    "forks": 8,
-   "open_issues": 2,
+   "open_issues": 31,
    "language": "TypeScript",
    "license": "AGPL-3.0",
    "pushed_at": "2026-06-11T09:18:33Z",
@@ -2660,38 +2690,42 @@
    ],
    "category": "Routers",
    "momentum": 54,
-   "rank": 81
+   "rank": 82
   },
   {
-   "name": "OctoClaw",
-   "full_name": "guanbear/OctoClaw",
-   "slug": "guanbear-octoclaw",
-   "url": "https://github.com/guanbear/OctoClaw",
-   "owner": "guanbear",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/11829005?v=4",
-   "stars": 39,
-   "forks": 0,
-   "open_issues": 0,
+   "name": "freellm",
+   "full_name": "Devansh-365/freellm",
+   "slug": "devansh-365-freellm",
+   "url": "https://github.com/Devansh-365/freellm",
+   "owner": "Devansh-365",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/83155844?v=4",
+   "stars": 45,
+   "forks": 8,
+   "open_issues": 1,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-06T09:54:08Z",
-   "created_at": "2026-03-18T14:00:50Z",
-   "description": "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents",
+   "pushed_at": "2026-05-29T10:57:59Z",
+   "created_at": "2026-04-03T05:55:36Z",
+   "description": "OpenAI-compatible gateway aggregating 8 free LLM providers with automatic failover, circuit breakers, and smart routing. 32+ models, zero cost.",
    "topics": [
-    "agent-orchestration",
-    "ai-agents",
-    "automation",
-    "feishu",
-    "llmops",
-    "model-routing",
-    "openclaw",
-    "slack",
-    "subagents",
-    "typescript"
+    "api-gateway",
+    "cerebras",
+    "circuit-breaker",
+    "free-api",
+    "gemini",
+    "groq",
+    "llm",
+    "llm-gateway",
+    "mistral",
+    "nvidia",
+    "ollama",
+    "openai-api",
+    "openai-compatible",
+    "rate-limiting"
    ],
    "category": "Routers",
    "momentum": 54,
-   "rank": 82
+   "rank": 83
   },
   {
    "name": "llm-router",
@@ -2725,7 +2759,7 @@
    ],
    "category": "Routers",
    "momentum": 54,
-   "rank": 83
+   "rank": 84
   },
   {
    "name": "claude-proxy",
@@ -2751,7 +2785,7 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 54,
-   "rank": 84
+   "rank": 85
   },
   {
    "name": "aigne-hub",
@@ -2777,7 +2811,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 53,
-   "rank": 85
+   "rank": 86
   },
   {
    "name": "qwen2api",
@@ -2797,7 +2831,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 53,
-   "rank": 86
+   "rank": 87
   },
   {
    "name": "multi-llm-ts",
@@ -2824,7 +2858,47 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 53,
-   "rank": 87
+   "rank": 88
+  },
+  {
+   "name": "llm-gateway",
+   "full_name": "mylxsw/llm-gateway",
+   "slug": "mylxsw-llm-gateway",
+   "url": "https://github.com/mylxsw/llm-gateway",
+   "owner": "mylxsw",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/2330911?v=4",
+   "stars": 60,
+   "forks": 15,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "",
+   "pushed_at": "2026-06-12T07:21:31Z",
+   "created_at": "2026-01-10T13:37:16Z",
+   "description": "Squirrel LLM Gateway is a high-performance, enterprise-grade proxy service designed to unify and manage access to Large Language Model (LLM) providers like OpenAI and Anthropic. It provides intelligent routing, robust failover strategies, comprehensive logging, and a modern management dashboard.",
+   "topics": [],
+   "category": "Routers",
+   "momentum": 53,
+   "rank": 89
+  },
+  {
+   "name": "Agora",
+   "full_name": "newo-ether/Agora",
+   "slug": "newo-ether-agora",
+   "url": "https://github.com/newo-ether/Agora",
+   "owner": "newo-ether",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/173235011?v=4",
+   "stars": 54,
+   "forks": 2,
+   "open_issues": 6,
+   "language": "HTML",
+   "license": "MIT",
+   "pushed_at": "2026-06-12T10:41:50Z",
+   "created_at": "2026-02-21T10:38:33Z",
+   "description": "Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control.",
+   "topics": [],
+   "category": "Gateways & Proxies",
+   "momentum": 53,
+   "rank": 90
   },
   {
    "name": "OpenVitamin",
@@ -2863,8 +2937,8 @@
     "workflow"
    ],
    "category": "Gateways & Proxies",
-   "momentum": 53,
-   "rank": 88
+   "momentum": 52,
+   "rank": 91
   },
   {
    "name": "cortex",
@@ -2904,8 +2978,65 @@
     "vertex-ai"
    ],
    "category": "Routers",
-   "momentum": 53,
-   "rank": 89
+   "momentum": 52,
+   "rank": 92
+  },
+  {
+   "name": "prompt-cache",
+   "full_name": "messkan/prompt-cache",
+   "slug": "messkan-prompt-cache",
+   "url": "https://github.com/messkan/prompt-cache",
+   "owner": "messkan",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/40677488?v=4",
+   "stars": 238,
+   "forks": 22,
+   "open_issues": 4,
+   "language": "Go",
+   "license": "MIT",
+   "pushed_at": "2026-04-24T23:58:37Z",
+   "created_at": "2025-11-22T23:20:23Z",
+   "description": "Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-agnostic LLM proxy written in Go with sub-millisecond response",
+   "topics": [
+    "ai",
+    "badgerdb",
+    "cache",
+    "claude",
+    "cost-optimization",
+    "go",
+    "langchain",
+    "llm",
+    "middleware",
+    "mistral",
+    "openai",
+    "performance",
+    "rag",
+    "rag-ai",
+    "semantic-search",
+    "vector-database"
+   ],
+   "category": "Caching & Cost",
+   "momentum": 51,
+   "rank": 93
+  },
+  {
+   "name": "guidance-for-multi-provider-generative-ai-gateway-on-aws",
+   "full_name": "aws-solutions-library-samples/guidance-for-multi-provider-generative-ai-gateway-on-aws",
+   "slug": "aws-solutions-library-samples-guidance-for-multi-provider-generative-ai-gateway-on-aws",
+   "url": "https://github.com/aws-solutions-library-samples/guidance-for-multi-provider-generative-ai-gateway-on-aws",
+   "owner": "aws-solutions-library-samples",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/109766924?v=4",
+   "stars": 225,
+   "forks": 57,
+   "open_issues": 20,
+   "language": "HCL",
+   "license": "MIT-0",
+   "pushed_at": "2026-04-24T16:08:40Z",
+   "created_at": "2024-12-13T18:51:29Z",
+   "description": "This Guidance demonstrates how to streamline access to numerous large language models (LLMs) through a unified, industry-standard API gateway based on OpenAI API standards",
+   "topics": [],
+   "category": "Gateways & Proxies",
+   "momentum": 51,
+   "rank": 94
   },
   {
    "name": "SmarterRouter",
@@ -2941,100 +3072,8 @@
     "semantic-cache"
    ],
    "category": "Routers",
-   "momentum": 52,
-   "rank": 90
-  },
-  {
-   "name": "prompt-cache",
-   "full_name": "messkan/prompt-cache",
-   "slug": "messkan-prompt-cache",
-   "url": "https://github.com/messkan/prompt-cache",
-   "owner": "messkan",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/40677488?v=4",
-   "stars": 236,
-   "forks": 22,
-   "open_issues": 4,
-   "language": "Go",
-   "license": "MIT",
-   "pushed_at": "2026-04-24T23:58:37Z",
-   "created_at": "2025-11-22T23:20:23Z",
-   "description": "Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-agnostic LLM proxy written in Go with sub-millisecond response",
-   "topics": [
-    "ai",
-    "badgerdb",
-    "cache",
-    "claude",
-    "cost-optimization",
-    "go",
-    "langchain",
-    "llm",
-    "middleware",
-    "mistral",
-    "openai",
-    "performance",
-    "rag",
-    "rag-ai",
-    "semantic-search",
-    "vector-database"
-   ],
-   "category": "Caching & Cost",
    "momentum": 51,
-   "rank": 91
-  },
-  {
-   "name": "guidance-for-multi-provider-generative-ai-gateway-on-aws",
-   "full_name": "aws-solutions-library-samples/guidance-for-multi-provider-generative-ai-gateway-on-aws",
-   "slug": "aws-solutions-library-samples-guidance-for-multi-provider-generative-ai-gateway-on-aws",
-   "url": "https://github.com/aws-solutions-library-samples/guidance-for-multi-provider-generative-ai-gateway-on-aws",
-   "owner": "aws-solutions-library-samples",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/109766924?v=4",
-   "stars": 225,
-   "forks": 57,
-   "open_issues": 20,
-   "language": "HCL",
-   "license": "MIT-0",
-   "pushed_at": "2026-04-24T16:08:40Z",
-   "created_at": "2024-12-13T18:51:29Z",
-   "description": "This Guidance demonstrates how to streamline access to numerous large language models (LLMs) through a unified, industry-standard API gateway based on OpenAI API standards",
-   "topics": [],
-   "category": "Gateways & Proxies",
-   "momentum": 51,
-   "rank": 92
-  },
-  {
-   "name": "mediascribe",
-   "full_name": "denven/mediascribe",
-   "slug": "denven-mediascribe",
-   "url": "https://github.com/denven/mediascribe",
-   "owner": "denven",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/16745984?v=4",
-   "stars": 80,
-   "forks": 1,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-04-16T07:38:11Z",
-   "created_at": "2026-04-12T11:20:07Z",
-   "description": "CLI for audio, video, and text transcription with ASR providers and LLM-powered summarization via local or cloud backends.",
-   "topics": [
-    "asr",
-    "audio-transcription",
-    "cli",
-    "ffmpeg",
-    "litellm",
-    "llm-summarization",
-    "ollama",
-    "python",
-    "speech-to-text",
-    "subtitle-first",
-    "subtitles",
-    "video-summary",
-    "whisper",
-    "yt-dlp"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 51,
-   "rank": 93
+   "rank": 95
   },
   {
    "name": "llm-gateway",
@@ -3075,7 +3114,7 @@
    ],
    "category": "Routers",
    "momentum": 51,
-   "rank": 94
+   "rank": 96
   },
   {
    "name": "fast-litellm",
@@ -3107,7 +3146,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 51,
-   "rank": 95
+   "rank": 97
   },
   {
    "name": "llm-gateway",
@@ -3133,7 +3172,7 @@
    ],
    "category": "Routers",
    "momentum": 51,
-   "rank": 96
+   "rank": 98
   },
   {
    "name": "llm-rosetta",
@@ -3142,12 +3181,12 @@
    "url": "https://github.com/Oaklight/llm-rosetta",
    "owner": "Oaklight",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13076552?v=4",
-   "stars": 38,
+   "stars": 39,
    "forks": 2,
    "open_issues": 31,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-06-11T13:54:15Z",
+   "pushed_at": "2026-06-11T14:52:07Z",
    "created_at": "2025-12-09T04:00:30Z",
    "description": "Production-ready LLM API translation layer for Python — bidirectional conversion between OpenAI, Anthropic & Google formats via hub-and-spoke IR. Optional API gateway. Streaming & non-streaming. Zero core deps. Contributions welcome!",
    "topics": [
@@ -3168,7 +3207,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 51,
-   "rank": 97
+   "rank": 99
   },
   {
    "name": "AI-Worker-Proxy",
@@ -3177,8 +3216,8 @@
    "url": "https://github.com/zxcloli666/AI-Worker-Proxy",
    "owner": "zxcloli666",
    "owner_avatar": "https://avatars.githubusercontent.com/u/156155219?v=4",
-   "stars": 62,
-   "forks": 171,
+   "stars": 63,
+   "forks": 172,
    "open_issues": 0,
    "language": "TypeScript",
    "license": "MIT",
@@ -3209,7 +3248,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 50,
-   "rank": 98
+   "rank": 100
   },
   {
    "name": "trooper",
@@ -3240,7 +3279,7 @@
    ],
    "category": "Routers",
    "momentum": 50,
-   "rank": 99
+   "rank": 101
   },
   {
    "name": "Free-Way",
@@ -3275,7 +3314,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 50,
-   "rank": 100
+   "rank": 102
   },
   {
    "name": "lm-proxy",
@@ -3312,44 +3351,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 49,
-   "rank": 101
-  },
-  {
-   "name": "open-next-router",
-   "full_name": "r9s-ai/open-next-router",
-   "slug": "r9s-ai-open-next-router",
-   "url": "https://github.com/r9s-ai/open-next-router",
-   "owner": "r9s-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/250965330?v=4",
-   "stars": 25,
-   "forks": 2,
-   "open_issues": 1,
-   "language": "Go",
-   "license": "MIT",
-   "pushed_at": "2026-06-11T12:07:53Z",
-   "created_at": "2026-01-26T02:40:37Z",
-   "description": "A lightweight, DSL-driven LLM gateway for routing, patching provider quirks, and normalizing APIs across channels",
-   "topics": [
-    "ai",
-    "anthropic",
-    "api-gateway",
-    "docker",
-    "dsl",
-    "gemini",
-    "go",
-    "golang",
-    "llm",
-    "llm-gateway",
-    "nginx",
-    "one-api",
-    "openai",
-    "openai-api",
-    "proxy",
-    "sse"
-   ],
-   "category": "Routers",
-   "momentum": 49,
-   "rank": 102
+   "rank": 103
   },
   {
    "name": "kalibr-sdk-python",
@@ -3390,7 +3392,7 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 48,
-   "rank": 103
+   "rank": 104
   },
   {
    "name": "LLMApiGateway",
@@ -3421,42 +3423,44 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 48,
-   "rank": 104
+   "rank": 105
   },
   {
-   "name": "tokenfirewall",
-   "full_name": "Ruthwik000/tokenfirewall",
-   "slug": "ruthwik000-tokenfirewall",
-   "url": "https://github.com/Ruthwik000/tokenfirewall",
-   "owner": "Ruthwik000",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/177302130?v=4",
-   "stars": 26,
-   "forks": 15,
-   "open_issues": 68,
-   "language": "TypeScript",
+   "name": "open-next-router",
+   "full_name": "r9s-ai/open-next-router",
+   "slug": "r9s-ai-open-next-router",
+   "url": "https://github.com/r9s-ai/open-next-router",
+   "owner": "r9s-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/250965330?v=4",
+   "stars": 25,
+   "forks": 2,
+   "open_issues": 1,
+   "language": "Go",
    "license": "MIT",
-   "pushed_at": "2026-05-27T09:56:41Z",
-   "created_at": "2026-02-26T16:20:24Z",
-   "description": "Scalable LLM cost enforcement middleware for Node.js with budget protection and multi-provider support",
+   "pushed_at": "2026-06-11T12:07:53Z",
+   "created_at": "2026-01-26T02:40:37Z",
+   "description": "A lightweight, DSL-driven LLM gateway for routing, patching provider quirks, and normalizing APIs across channels",
    "topics": [
-    "ai-cost-management",
+    "ai",
     "anthropic",
-    "automatic-failover",
-    "budget",
-    "cost-control",
+    "api-gateway",
+    "docker",
+    "dsl",
     "gemini",
-    "gssoc26",
+    "go",
+    "golang",
     "llm",
-    "middleware",
-    "model-routing",
-    "nodejs",
+    "llm-gateway",
+    "nginx",
+    "one-api",
     "openai",
-    "token-counter",
-    "typescript"
+    "openai-api",
+    "proxy",
+    "sse"
    ],
-   "category": "Caching & Cost",
+   "category": "Routers",
    "momentum": 48,
-   "rank": 105
+   "rank": 106
   },
   {
    "name": "PaiSwitch",
@@ -3493,7 +3497,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 48,
-   "rank": 106
+   "rank": 107
   },
   {
    "name": "litemaas",
@@ -3512,26 +3516,6 @@
    "description": "LiteMaaS is a proof-of-concept application for managing LLM subscriptions, API keys, and usage tracking. It seamlessly integrates with LiteLLM to provide a unified interface for accessing multiple LLMs with comprehensive budget management.",
    "topics": [],
    "category": "Caching & Cost",
-   "momentum": 47,
-   "rank": 107
-  },
-  {
-   "name": "llm-gateway",
-   "full_name": "mylxsw/llm-gateway",
-   "slug": "mylxsw-llm-gateway",
-   "url": "https://github.com/mylxsw/llm-gateway",
-   "owner": "mylxsw",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/2330911?v=4",
-   "stars": 59,
-   "forks": 15,
-   "open_issues": 1,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2026-05-11T02:09:53Z",
-   "created_at": "2026-01-10T13:37:16Z",
-   "description": "Squirrel LLM Gateway is a high-performance, enterprise-grade proxy service designed to unify and manage access to Large Language Model (LLM) providers like OpenAI and Anthropic. It provides intelligent routing, robust failover strategies, comprehensive logging, and a modern management dashboard.",
-   "topics": [],
-   "category": "Routers",
    "momentum": 47,
    "rank": 108
   },
@@ -3565,6 +3549,41 @@
    "rank": 109
   },
   {
+   "name": "tokenfirewall",
+   "full_name": "Ruthwik000/tokenfirewall",
+   "slug": "ruthwik000-tokenfirewall",
+   "url": "https://github.com/Ruthwik000/tokenfirewall",
+   "owner": "Ruthwik000",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/177302130?v=4",
+   "stars": 26,
+   "forks": 15,
+   "open_issues": 68,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-05-27T09:56:41Z",
+   "created_at": "2026-02-26T16:20:24Z",
+   "description": "Scalable LLM cost enforcement middleware for Node.js with budget protection and multi-provider support",
+   "topics": [
+    "ai-cost-management",
+    "anthropic",
+    "automatic-failover",
+    "budget",
+    "cost-control",
+    "gemini",
+    "gssoc26",
+    "llm",
+    "middleware",
+    "model-routing",
+    "nodejs",
+    "openai",
+    "token-counter",
+    "typescript"
+   ],
+   "category": "Caching & Cost",
+   "momentum": 47,
+   "rank": 110
+  },
+  {
    "name": "gemini-cli-proxy",
    "full_name": "nettee/gemini-cli-proxy",
    "slug": "nettee-gemini-cli-proxy",
@@ -3582,7 +3601,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 45,
-   "rank": 110
+   "rank": 111
   },
   {
    "name": "zzz-api",
@@ -3620,7 +3639,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 44,
-   "rank": 111
+   "rank": 112
   },
   {
    "name": "AIStudio2API",
@@ -3654,7 +3673,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 44,
-   "rank": 112
+   "rank": 113
   },
   {
    "name": "RouteLLM",
@@ -3663,8 +3682,8 @@
    "url": "https://github.com/lm-sys/RouteLLM",
    "owner": "lm-sys",
    "owner_avatar": "https://avatars.githubusercontent.com/u/126381704?v=4",
-   "stars": 5009,
-   "forks": 393,
+   "stars": 5014,
+   "forks": 392,
    "open_issues": 41,
    "language": "Python",
    "license": "Apache-2.0",
@@ -3674,7 +3693,7 @@
    "topics": [],
    "category": "Routers",
    "momentum": 43,
-   "rank": 113
+   "rank": 114
   },
   {
    "name": "go-llm-proxy",
@@ -3685,7 +3704,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/6937857?v=4",
    "stars": 27,
    "forks": 7,
-   "open_issues": 4,
+   "open_issues": 6,
    "language": "Go",
    "license": "MIT",
    "pushed_at": "2026-04-17T15:42:00Z",
@@ -3710,7 +3729,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 43,
-   "rank": 114
+   "rank": 115
   },
   {
    "name": "gemini-for-claude-code",
@@ -3737,7 +3756,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 42,
-   "rank": 115
+   "rank": 116
   },
   {
    "name": "ModelGate-Hackathon",
@@ -3776,8 +3795,8 @@
     "routing"
    ],
    "category": "Routers",
-   "momentum": 42,
-   "rank": 116
+   "momentum": 41,
+   "rank": 117
   },
   {
    "name": "supergateway",
@@ -3786,7 +3805,7 @@
    "url": "https://github.com/supercorp-ai/supergateway",
    "owner": "supercorp-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/152935339?v=4",
-   "stars": 2676,
+   "stars": 2679,
    "forks": 225,
    "open_issues": 59,
    "language": "TypeScript",
@@ -3797,7 +3816,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 40,
-   "rank": 117
+   "rank": 118
   },
   {
    "name": "opencode-llm-proxy",
@@ -3835,30 +3854,6 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 40,
-   "rank": 118
-  },
-  {
-   "name": "cursor-deepseek",
-   "full_name": "danilofalcao/cursor-deepseek",
-   "slug": "danilofalcao-cursor-deepseek",
-   "url": "https://github.com/danilofalcao/cursor-deepseek",
-   "owner": "danilofalcao",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/4456855?v=4",
-   "stars": 635,
-   "forks": 48,
-   "open_issues": 8,
-   "language": "Go",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-01-14T23:08:56Z",
-   "created_at": "2025-01-21T21:56:17Z",
-   "description": "A high-performance HTTP/2-enabled proxy server designed specifically to enable Cursor IDE's Composer to use DeepSeek's and OpenRouter's language models. This proxy translates OpenAI-compatible API requests to DeepSeek/OpenRouter API format, allowing Cursor's Composer and other OpenAI API-compatible tools to seamlessly work with these models.",
-   "topics": [
-    "cursor",
-    "deepseek",
-    "openrouter"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 39,
    "rank": 119
   },
   {
@@ -3913,13 +3908,37 @@
    "rank": 121
   },
   {
+   "name": "cursor-deepseek",
+   "full_name": "danilofalcao/cursor-deepseek",
+   "slug": "danilofalcao-cursor-deepseek",
+   "url": "https://github.com/danilofalcao/cursor-deepseek",
+   "owner": "danilofalcao",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/4456855?v=4",
+   "stars": 635,
+   "forks": 48,
+   "open_issues": 8,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-01-14T23:08:56Z",
+   "created_at": "2025-01-21T21:56:17Z",
+   "description": "A high-performance HTTP/2-enabled proxy server designed specifically to enable Cursor IDE's Composer to use DeepSeek's and OpenRouter's language models. This proxy translates OpenAI-compatible API requests to DeepSeek/OpenRouter API format, allowing Cursor's Composer and other OpenAI API-compatible tools to seamlessly work with these models.",
+   "topics": [
+    "cursor",
+    "deepseek",
+    "openrouter"
+   ],
+   "category": "Gateways & Proxies",
+   "momentum": 38,
+   "rank": 122
+  },
+  {
    "name": "claude-model-router-hook",
    "full_name": "tzachbon/claude-model-router-hook",
    "slug": "tzachbon-claude-model-router-hook",
    "url": "https://github.com/tzachbon/claude-model-router-hook",
    "owner": "tzachbon",
    "owner_avatar": "https://avatars.githubusercontent.com/u/45866571?v=4",
-   "stars": 44,
+   "stars": 45,
    "forks": 3,
    "open_issues": 4,
    "language": "Python",
@@ -3951,7 +3970,7 @@
    ],
    "category": "Routers",
    "momentum": 38,
-   "rank": 122
+   "rank": 123
   },
   {
    "name": "IYKYK",
@@ -3983,8 +4002,8 @@
     "smart-routing"
    ],
    "category": "Gateways & Proxies",
-   "momentum": 37,
-   "rank": 123
+   "momentum": 36,
+   "rank": 124
   },
   {
    "name": "openai-forward",
@@ -4012,7 +4031,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 35,
-   "rank": 124
+   "rank": 125
   },
   {
    "name": "infermux",
@@ -4053,7 +4072,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 35,
-   "rank": 125
+   "rank": 126
   },
   {
    "name": "codegate",
@@ -4094,7 +4113,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 34,
-   "rank": 126
+   "rank": 127
   },
   {
    "name": "ai-gateway",
@@ -4103,7 +4122,7 @@
    "url": "https://github.com/Helicone/ai-gateway",
    "owner": "Helicone",
    "owner_avatar": "https://avatars.githubusercontent.com/u/114524975?v=4",
-   "stars": 600,
+   "stars": 601,
    "forks": 56,
    "open_issues": 9,
    "language": "Rust",
@@ -4123,7 +4142,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 33,
-   "rank": 127
+   "rank": 128
   },
   {
    "name": "claude-code-gpt-5-codex",
@@ -4160,8 +4179,8 @@
     "openai"
    ],
    "category": "Gateways & Proxies",
-   "momentum": 32,
-   "rank": 128
+   "momentum": 31,
+   "rank": 129
   },
   {
    "name": "claudex",
@@ -4201,8 +4220,8 @@
     "tui"
    ],
    "category": "Gateways & Proxies",
-   "momentum": 32,
-   "rank": 129
+   "momentum": 31,
+   "rank": 130
   },
   {
    "name": "cursor-opencode-auth",
@@ -4222,7 +4241,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 30,
-   "rank": 130
+   "rank": 131
   },
   {
    "name": "openai-cloudflare",
@@ -4242,7 +4261,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 29,
-   "rank": 131
+   "rank": 132
   },
   {
    "name": "raycast-ai-openrouter-proxy",
@@ -4269,7 +4288,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 29,
-   "rank": 132
+   "rank": 133
   },
   {
    "name": "claude-code-nexus",
@@ -4296,7 +4315,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 28,
-   "rank": 133
+   "rank": 134
   },
   {
    "name": "claude-router",
@@ -4323,7 +4342,7 @@
    ],
    "category": "Routers",
    "momentum": 27,
-   "rank": 134
+   "rank": 135
   },
   {
    "name": "AIRouter",
@@ -4343,7 +4362,7 @@
    "topics": [],
    "category": "Routers",
    "momentum": 26,
-   "rank": 135
+   "rank": 136
   },
   {
    "name": "llm-api",
@@ -4374,7 +4393,7 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 26,
-   "rank": 136
+   "rank": 137
   },
   {
    "name": "generate",
@@ -4399,7 +4418,7 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 25,
-   "rank": 137
+   "rank": 138
   },
   {
    "name": "openaiee",
@@ -4422,7 +4441,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 25,
-   "rank": 138
+   "rank": 139
   },
   {
    "name": "gateway",
@@ -4431,7 +4450,7 @@
    "url": "https://github.com/trylonai/gateway",
    "owner": "trylonai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/205155604?v=4",
-   "stars": 121,
+   "stars": 122,
    "forks": 13,
    "open_issues": 0,
    "language": "Python",
@@ -4452,7 +4471,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 24,
-   "rank": 139
+   "rank": 140
   },
   {
    "name": "prompt_sail",
@@ -4480,7 +4499,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 21,
-   "rank": 140
+   "rank": 141
   },
   {
    "name": "CoT-at-Home",
@@ -4506,7 +4525,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 19,
-   "rank": 141
+   "rank": 142
   },
   {
    "name": "llm-proxy",
@@ -4532,7 +4551,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 16,
-   "rank": 142
+   "rank": 143
   }
  ]
 }
