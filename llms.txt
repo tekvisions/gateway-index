@@ -3,48 +3,48 @@
 > The living index of LLM gateways, proxies & routers — the infrastructure that sits
 > between apps and LLM providers — ranked daily by GitHub momentum.
 
-Updated: 2026-06-22T15:31:30.717822+00:00
-Tools indexed: 159
+Updated: 2026-06-23T12:44:42.172433+00:00
+Tools indexed: 160
 
 ## Top LLM gateways, proxies & routers by momentum
 
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) — momentum 87, ⭐51127 — Gateways & Proxies — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost 
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) — momentum 86, ⭐39651 — Gateways & Proxies — A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs int
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) — momentum 86, ⭐11510 — Routers — OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind o
-- [Kong/kong](https://github.com/Kong/kong) — momentum 85, ⭐43648 — Gateways & Proxies — 🦍 The API and AI Gateway
-- [apache/apisix](https://github.com/apache/apisix) — momentum 81, ⭐16760 — Gateways & Proxies — The Cloud-Native API Gateway and AI Gateway
-- [higress-group/higress](https://github.com/higress-group/higress) — momentum 78, ⭐8696 — Gateways & Proxies — 🤖 AI Gateway | AI Native API Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) — momentum 87, ⭐51230 — Gateways & Proxies — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost 
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) — momentum 86, ⭐39758 — Gateways & Proxies — A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs int
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) — momentum 86, ⭐11726 — Routers — OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind o
+- [Kong/kong](https://github.com/Kong/kong) — momentum 85, ⭐43658 — Gateways & Proxies — 🦍 The API and AI Gateway
+- [apache/apisix](https://github.com/apache/apisix) — momentum 81, ⭐16766 — Gateways & Proxies — The Cloud-Native API Gateway and AI Gateway
+- [higress-group/higress](https://github.com/higress-group/higress) — momentum 78, ⭐8702 — Gateways & Proxies — 🤖 AI Gateway | AI Native API Gateway
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) — momentum 77, ⭐11667 — Observability Gateways — TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation,
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — momentum 77, ⭐6714 — Gateways & Proxies — Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Co
-- [katanemo/plano](https://github.com/katanemo/plano) — momentum 76, ⭐6596 — Routers — Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, o
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) — momentum 76, ⭐6585 — Routers — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana v
-- [maximhq/bifrost](https://github.com/maximhq/bifrost) — momentum 76, ⭐5959 — Gateways & Proxies — Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, g
-- [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) — momentum 76, ⭐2830 — Gateways & Proxies — Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) — momentum 75, ⭐12158 — Routers — A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1
-- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) — momentum 75, ⭐5574 — Gateways & Proxies — The Cloud-Native API Gateway and AI Gateway
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) — momentum 75, ⭐4508 — Routers — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
-- [looplj/axonhub](https://github.com/looplj/axonhub) — momentum 75, ⭐4384 — Observability Gateways — ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost c
-- [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) — momentum 75, ⭐985 — Gateways & Proxies — 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAg
-- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) — momentum 74, ⭐3940 — Gateways & Proxies — An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) — momentum 73, ⭐3424 — Gateways & Proxies — Next Generation Agentic Proxy for AI Agents and MCP servers
-- [romgX/openrelay](https://github.com/romgX/openrelay) — momentum 72, ⭐2229 — Gateways & Proxies — 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — momentum 77, ⭐6771 — Gateways & Proxies — Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Co
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) — momentum 77, ⭐6590 — Routers — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana v
+- [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) — momentum 77, ⭐2832 — Gateways & Proxies — Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy
+- [katanemo/plano](https://github.com/katanemo/plano) — momentum 76, ⭐6599 — Routers — Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, o
+- [maximhq/bifrost](https://github.com/maximhq/bifrost) — momentum 76, ⭐5976 — Gateways & Proxies — Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, g
+- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) — momentum 76, ⭐5575 — Gateways & Proxies — The Cloud-Native API Gateway and AI Gateway
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) — momentum 75, ⭐12166 — Routers — A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) — momentum 75, ⭐4524 — Routers — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
+- [looplj/axonhub](https://github.com/looplj/axonhub) — momentum 74, ⭐4393 — Observability Gateways — ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost c
+- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) — momentum 74, ⭐3944 — Gateways & Proxies — An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a
+- [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) — momentum 74, ⭐989 — Gateways & Proxies — 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAg
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) — momentum 73, ⭐3450 — Gateways & Proxies — Next Generation Agentic Proxy for AI Agents and MCP servers
+- [romgX/openrelay](https://github.com/romgX/openrelay) — momentum 71, ⭐2230 — Gateways & Proxies — 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) — momentum 70, ⭐1769 — Gateways & Proxies — Manages Unified Access to Generative AI Services built on Envoy Gateway
-- [Sorathiya123/claude-ai-free-desktop-app](https://github.com/Sorathiya123/claude-ai-free-desktop-app) — momentum 70, ⭐181 — Routers — free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) — momentum 69, ⭐2642 — Gateways & Proxies — KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
-- [ForgetMeAI/FreeDeepseekAPI](https://github.com/ForgetMeAI/FreeDeepseekAPI) — momentum 69, ⭐191 — Gateways & Proxies — Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool callin
-- [mithun50/openclaw-termux](https://github.com/mithun50/openclaw-termux) — momentum 68, ⭐1613 — Gateways & Proxies — Run OpenClaw AI Gateway on Android — standalone Flutter app with built-in terminal, web dashboard, a
-- [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) — momentum 68, ⭐1442 — Gateways & Proxies — OpenAI-compatible proxy for ChatGPT Codex Responses API
-- [theopenco/llmgateway](https://github.com/theopenco/llmgateway) — momentum 68, ⭐1329 — Multi-Provider SDKs — Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
-- [yym68686/uni-api](https://github.com/yym68686/uni-api) — momentum 68, ⭐1231 — Multi-Provider SDKs — This is a project that unifies the management of LLM APIs. It can call multiple backend services thr
-- [packyme/privacy-filter](https://github.com/packyme/privacy-filter) — momentum 68, ⭐249 — Gateways & Proxies — LLM privacy gateway in Go — millisecond-latency PII and secret redaction. Used in production by Pack
-- [standardagents/composer-api](https://github.com/standardagents/composer-api) — momentum 68, ⭐221 — Gateways & Proxies — OpenAI-compatible API proxy for Cursor Composer
-- [bestruirui/octopus](https://github.com/bestruirui/octopus) — momentum 67, ⭐2251 — Gateways & Proxies — One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
-- [ThinkWatchProject/ThinkWatch](https://github.com/ThinkWatchProject/ThinkWatch) — momentum 67, ⭐993 — Caching & Cost — Enterprise AI bastion host for secure AI API and MCP access, with unified proxying, RBAC, audit logs
-- [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) — momentum 67, ⭐959 — Observability Gateways — AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, G
+- [ForgetMeAI/FreeDeepseekAPI](https://github.com/ForgetMeAI/FreeDeepseekAPI) — momentum 69, ⭐192 — Gateways & Proxies — Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool callin
+- [Sorathiya123/claude-ai-free-desktop-app](https://github.com/Sorathiya123/claude-ai-free-desktop-app) — momentum 69, ⭐182 — Routers — free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm
+- [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) — momentum 68, ⭐1444 — Gateways & Proxies — OpenAI-compatible proxy for ChatGPT Codex Responses API
+- [theopenco/llmgateway](https://github.com/theopenco/llmgateway) — momentum 68, ⭐1333 — Multi-Provider SDKs — Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+- [yym68686/uni-api](https://github.com/yym68686/uni-api) — momentum 68, ⭐1232 — Multi-Provider SDKs — This is a project that unifies the management of LLM APIs. It can call multiple backend services thr
+- [packyme/privacy-filter](https://github.com/packyme/privacy-filter) — momentum 68, ⭐255 — Gateways & Proxies — LLM privacy gateway in Go — millisecond-latency PII and secret redaction. Used in production by Pack
+- [standardagents/composer-api](https://github.com/standardagents/composer-api) — momentum 68, ⭐222 — Gateways & Proxies — OpenAI-compatible API proxy for Cursor Composer
+- [bestruirui/octopus](https://github.com/bestruirui/octopus) — momentum 67, ⭐2255 — Gateways & Proxies — One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
+- [mithun50/openclaw-termux](https://github.com/mithun50/openclaw-termux) — momentum 67, ⭐1614 — Gateways & Proxies — Run OpenClaw AI Gateway on Android — standalone Flutter app with built-in terminal, web dashboard, a
+- [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) — momentum 67, ⭐963 — Observability Gateways — AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, G
 - [Azure-Samples/AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) — momentum 67, ⭐946 — Gateways & Proxies — Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Manageme
-- [Continuum-AI-Corp/OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) — momentum 67, ⭐506 — Routers — Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streami
-- [aws-samples/bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) — momentum 66, ⭐989 — Gateways & Proxies — OpenAI-Compatible RESTful APIs for Amazon Bedrock
-- [caozhiyuan/copilot-api](https://github.com/caozhiyuan/copilot-api) — momentum 66, ⭐871 — Gateways & Proxies — OpenAI and Anthropic-compatible gateway for GitHub Copilot or Codex or third-party providers. Please
-- [askalf/dario](https://github.com/askalf/dario) — momentum 66, ⭐287 — Multi-Provider SDKs — Your Claude Pro/Max subscription in any tool — Cursor, Cline, Aider, Agent SDK — at subscription pri
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) — momentum 65, ⭐707 — Gateways & Proxies — VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-p
+- [ThinkWatchProject/ThinkWatch](https://github.com/ThinkWatchProject/ThinkWatch) — momentum 66, ⭐991 — Caching & Cost — Enterprise AI bastion host for secure AI API and MCP access, with unified proxying, RBAC, audit logs
+- [aws-samples/bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) — momentum 66, ⭐988 — Gateways & Proxies — OpenAI-Compatible RESTful APIs for Amazon Bedrock
+- [caozhiyuan/copilot-api](https://github.com/caozhiyuan/copilot-api) — momentum 66, ⭐874 — Gateways & Proxies — OpenAI and Anthropic-compatible gateway for GitHub Copilot or Codex or third-party providers. Please
+- [Continuum-AI-Corp/OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) — momentum 66, ⭐509 — Routers — Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streami
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) — momentum 65, ⭐711 — Gateways & Proxies — VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-p
+- [askalf/dario](https://github.com/askalf/dario) — momentum 65, ⭐289 — Multi-Provider SDKs — Your Claude Pro/Max subscription in any tool — Cursor, Cline, Aider, Agent SDK — at subscription pri
 - [sandydasari/openacme](https://github.com/sandydasari/openacme) — momentum 65, ⭐78 — Gateways & Proxies — An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + C
