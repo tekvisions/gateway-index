@@ -299,7 +299,7 @@ def write_seo(data: dict) -> None:
     open(os.path.join(HERE, "rss.xml"), "w", encoding="utf-8").write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n  <channel>\n'
         f"    <title>{SITE_NAME}</title>\n    <link>{SITE_URL}</link>\n"
-        "    <description>The living index of LLM gateways, proxies & routers — the infrastructure between apps and LLM providers.</description>\n"
+        "    <description>The living index of LLM gateways, proxies &amp; routers — the infrastructure between apps and LLM providers.</description>\n"
         + "\n".join(rss_items) + "\n  </channel>\n</rss>\n")
 
     lines = [f"# {SITE_NAME}", "",
