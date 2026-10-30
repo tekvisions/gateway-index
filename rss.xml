@@ -3,7 +3,7 @@
   <channel>
     <title>The Gateway Index</title>
     <link>https://gateway.kymatalabs.com</link>
-    <description>The living index of LLM gateways, proxies & routers — the infrastructure between apps and LLM providers.</description>
+    <description>The living index of LLM gateways, proxies &amp; routers — the infrastructure between apps and LLM providers.</description>
     <item><title>cheaper-inference/OmniRoute — momentum 87</title><link>https://gateway.kymatalabs.com/p/cheaper-inference-omniroute/</link><guid isPermaLink="false">cheaper-inference/OmniRoute</guid><description>Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop</description></item>
     <item><title>BerriAI/litellm — momentum 86</title><link>https://gateway.kymatalabs.com/p/berriai-litellm/</link><guid isPermaLink="false">BerriAI/litellm</guid><description>The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]</description></item>
     <item><title>QuantumNous/new-api — momentum 85</title><link>https://gateway.kymatalabs.com/p/quantumnous-new-api/</link><guid isPermaLink="false">QuantumNous/new-api</guid><description>Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.</description></item>
