@@ -3,12 +3,12 @@
 > The living index of LLM gateways, proxies & routers — the infrastructure that sits
 > between apps and LLM providers — ranked daily by GitHub momentum.
 
-Updated: 2026-10-30T22:39:57.053529+00:00
+Updated: 2026-10-30T22:45:47.055591+00:00
 Tools indexed: 228
 
 ## Top LLM gateways, proxies & routers by momentum
 
-- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) — momentum 87, ⭐82873 — Gateways & Proxies — Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi,
+- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) — momentum 87, ⭐82874 — Gateways & Proxies — Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi,
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) — momentum 86, ⭐62403 — Gateways & Proxies — The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) 
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) — momentum 85, ⭐51057 — Routers — Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, mo
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) — momentum 84, ⭐44625 — Routers — 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 en
@@ -41,7 +41,7 @@ Tools indexed: 228
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) — momentum 70, ⭐2936 — Gateways & Proxies — Run MCP stdio servers over HTTP streamable, SSE and SSE over stdio. AI gateway.
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) — momentum 70, ⭐2699 — Gateways & Proxies — KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - [shuishuipingan/qoder2api-hub](https://github.com/shuishuipingan/qoder2api-hub) — momentum 70, ⭐477 — Gateways & Proxies — Qoder国际国内多账号反代网关，Qoder 国际国内双区多账号 OpenAI 兼容网关中枢 — COSY 签名推理、稳定设备指纹防风控、OAuth 设备授权免客户端登录、每日签到与 Pro 福利、后
-- [respanai/respan-gateway](https://github.com/respanai/respan-gateway) — momentum 70, ⭐412 — Multi-Provider SDKs — One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.
+- [respanai/respan-gateway](https://github.com/respanai/respan-gateway) — momentum 70, ⭐413 — Multi-Provider SDKs — One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) — momentum 69, ⭐2733 — Gateways & Proxies — One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) — momentum 69, ⭐2321 — Routers — Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [oriveo/oriveo](https://github.com/oriveo/oriveo) — momentum 69, ⭐553 — Self-Hosted Platforms — Open-source, bring-your-own-key (BYOK) multi-model AI chat client for iOS, Android and the web. One 
