@@ -15,9 +15,9 @@
   <url><loc>https://gateway.kymatalabs.com/p/justlovemaki-aiclient2api/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/mnfst-llm-gateway/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/tbphp-gpt-load/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://gateway.kymatalabs.com/p/vllm-project-semantic-router/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/katanemo-plano/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/blockrunai-clawrouter/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://gateway.kymatalabs.com/p/vllm-project-semantic-router/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/pawanosman-opencursor/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/agentgateway-agentgateway/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/kgateway-dev-kgateway/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -94,7 +94,6 @@
   <url><loc>https://gateway.kymatalabs.com/p/ferro-labs-ai-gateway/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/leenhawk-gproxy/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/clawlabsai-free-ai-models/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://gateway.kymatalabs.com/p/bitrouter-bitrouter/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/apowerb-apowerb/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/apimartn-ai-api-router-es/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/apimartlb-ai-api-router-ru/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -105,6 +104,7 @@
   <url><loc>https://gateway.kymatalabs.com/p/apimarta9b-unified-ai-api-bypass-guide/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/forgetmeai-freedeepseekapi/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/munmunjaklin458-afk-cline-pass-switcher/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://gateway.kymatalabs.com/p/bitrouter-bitrouter/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/getbusbar-busbar/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/api7-aisix/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/alexgreensh-outsourcerer/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -113,8 +113,8 @@
   <url><loc>https://gateway.kymatalabs.com/p/alexei-led-claude-router/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/xing61-zzz-api/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/roryeckel-wyoming-openai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://gateway.kymatalabs.com/p/yuhp-opencode-models-discovery/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/apimart002w-ai-api-proxy-sdk-python/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://gateway.kymatalabs.com/p/aws-samples-bedrock-access-gateway/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/mirrowel-llm-api-key-proxy/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/hwdsl2-self-hosted-ai-stack/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/lordmathis-llamactl/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -122,6 +122,7 @@
   <url><loc>https://gateway.kymatalabs.com/p/nayjest-lm-proxy/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/olsenbrands-fable-foreman/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/z2ilx67xogs-unified-ai-api/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://gateway.kymatalabs.com/p/aws-samples-bedrock-access-gateway/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/aws-solutions-library-samples-guidance-for-multi-provider-generative-ai-gateway-on-aws/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/zhixiangxue-chak-ai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/nyroway-nyro/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -140,9 +141,9 @@
   <url><loc>https://gateway.kymatalabs.com/p/aaryanverma-graybox/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/yalun753-moe-l2/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/vahapogut-antigravity-add-model/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://gateway.kymatalabs.com/p/sky-valley-pi/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/relayplane-proxy/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/felix-au-omnikey-ai-unified-key-manager/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://gateway.kymatalabs.com/p/sky-valley-pi/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/tuxevil-tuxevil-rotator/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/mylxsw-llm-gateway/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://gateway.kymatalabs.com/p/tensorzero-tensorzero/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
