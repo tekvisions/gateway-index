@@ -2,7 +2,7 @@
 
 > The Gateway Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-02T20:17:02.197462+00:00
+Snapshot collected: 2026-11-03T17:45:26.119714+00:00
 Current catalog records: 230
 
 ## Sources and interpretation
@@ -34,10 +34,10 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [higress-group/higress](https://gateway.kymatalabs.com/p/higress-group-higress/) — Gateways & Proxies
 - [maximhq/bifrost](https://gateway.kymatalabs.com/p/maximhq-bifrost/) — Gateways & Proxies
 - [justlovemaki/AIClient2API](https://gateway.kymatalabs.com/p/justlovemaki-aiclient2api/) — Routers
+- [aimod-cc/Agent2API](https://gateway.kymatalabs.com/p/aimod-cc-agent2api/) — Gateways & Proxies
 - [mnfst/llm-gateway](https://gateway.kymatalabs.com/p/mnfst-llm-gateway/) — Gateways & Proxies
 - [tbphp/gpt-load](https://gateway.kymatalabs.com/p/tbphp-gpt-load/) — Gateways & Proxies
 - [BlockRunAI/ClawRouter](https://gateway.kymatalabs.com/p/blockrunai-clawrouter/) — Routers
-- [aimod-cc/Agent2API](https://gateway.kymatalabs.com/p/aimod-cc-agent2api/) — Gateways & Proxies
 - [vllm-project/semantic-router](https://gateway.kymatalabs.com/p/vllm-project-semantic-router/) — Routers
 - [agentgateway/agentgateway](https://gateway.kymatalabs.com/p/agentgateway-agentgateway/) — Gateways & Proxies
 - [kgateway-dev/kgateway](https://gateway.kymatalabs.com/p/kgateway-dev-kgateway/) — Gateways & Proxies
@@ -54,10 +54,10 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [fuxicodex/Fuxi](https://gateway.kymatalabs.com/p/fuxicodex-fuxi/) — Routers
 - [dwgx/WindsurfAPI](https://gateway.kymatalabs.com/p/dwgx-windsurfapi/) — Gateways & Proxies
 - [respanai/respan-gateway](https://gateway.kymatalabs.com/p/respanai-respan-gateway/) — Gateways & Proxies
-- [supercorp-ai/supergateway](https://gateway.kymatalabs.com/p/supercorp-ai-supergateway/) — Gateways & Proxies
 - [krakend/krakend-ce](https://gateway.kymatalabs.com/p/krakend-krakend-ce/) — Gateways & Proxies
 - [ThinkWatchProject/ThinkWatch-Lite](https://gateway.kymatalabs.com/p/thinkwatchproject-thinkwatch-lite/) — Gateways & Proxies
 - [shuishuipingan/qoder2api-hub](https://gateway.kymatalabs.com/p/shuishuipingan-qoder2api-hub/) — Gateways & Proxies
+- [supercorp-ai/supergateway](https://gateway.kymatalabs.com/p/supercorp-ai-supergateway/) — Gateways & Proxies
 - [theagentrouter/agent-router](https://gateway.kymatalabs.com/p/theagentrouter-agent-router/) — Routers
 - [romgX/openrelay](https://gateway.kymatalabs.com/p/romgx-openrelay/) — Gateways & Proxies
 - [oriveo/oriveo](https://gateway.kymatalabs.com/p/oriveo-oriveo/) — Self-Hosted Platforms
