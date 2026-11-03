@@ -1,0 +1,59 @@
+{
+  "host": "gateway.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose an LLM gateway for the routing and control you need",
+  "answer": "Start with the providers and request path you must support. A proxy, routing layer, SDK and self-hosted platform expose different operational choices, so verify the exact documented deployment.",
+  "choices": [
+    {
+      "categories": [
+        "Gateways & Proxies",
+        "Multi-Provider SDKs"
+      ],
+      "task": "Connect providers consistently",
+      "guidance": "Check model/API compatibility, streaming, tool calls and error handling for the actual providers you will use."
+    },
+    {
+      "categories": [
+        "Routers",
+        "Caching & Cost"
+      ],
+      "task": "Route or reuse requests",
+      "guidance": "Define routing/fallback rules and cache boundaries. Test correctness, latency and actual billed usage with representative requests."
+    },
+    {
+      "categories": [
+        "Self-Hosted Platforms",
+        "Observability Gateways"
+      ],
+      "task": "Operate and inspect the service",
+      "guidance": "Verify deployment, credential handling, access controls, logging and export requirements in primary docs for the selected version."
+    }
+  ],
+  "checks": [
+    "Exercise timeouts, provider errors, rate limits and partial streams.",
+    "Review where prompts/responses/credentials travel and which data is retained.",
+    "Measure the complete request path before accepting upstream savings or reliability claims."
+  ],
+  "unknowns": "Provider coverage, price savings, failover reliability, latency and security properties are not independently tested here.",
+  "related": [
+    {
+      "url": "https://observability.kymatalabs.com/",
+      "label": "observability"
+    },
+    {
+      "url": "https://agents.kymatalabs.com/",
+      "label": "agents"
+    },
+    {
+      "url": "https://localllm.kymatalabs.com/",
+      "label": "localllm"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/gateway-index/blob/cef3dfa9abc1eb81853e0d5fe4dc39d0195b482a/build_data.py",
+      "reviewed_on": "2026-11-03"
+    }
+  ]
+}
