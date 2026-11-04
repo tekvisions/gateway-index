@@ -236,8 +236,62 @@
     "https://gateway.kymatalabs.com/p/andrewginns-cot-at-home/",
     "https://gateway.kymatalabs.com/p/megeezy-chameleon/"
   ],
-  "retained_references": [],
+  "retained_references": [
+    {
+      "slug": "apimartlb-ai-api-router-pt",
+      "entity": "apimartlb/ai-api-router-pt",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartlb-ai-api-router-pt/",
+      "repository": "https://github.com/apimartlb/ai-api-router-pt",
+      "summary": "A publisher repository of APIMart API examples and promotional integration material. This historical reference does not verify a gateway implementation, service quality or advertised pricing.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed. The README is promotional; prices, model counts and billing assertions were not independently verified. This is not a provider recommendation.",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/apimartlb/ai-api-router-pt/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "apimartpd96-ai-api-router-cheap-fr",
+      "entity": "apimartpd96/ai-api-router-cheap-fr",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartpd96-ai-api-router-cheap-fr/",
+      "repository": "https://github.com/apimartpd96/ai-api-router-cheap-fr",
+      "summary": "A publisher repository of image API examples and promotional integration material. This historical reference does not verify advertised prices or endorse the service.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed. The README is promotional; prices, model counts and billing assertions were not independently verified. This is not a provider recommendation.",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/apimartpd96/ai-api-router-cheap-fr/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "qiniu-xhub",
+      "entity": "qiniu/xhub",
+      "canonical_url": "https://gateway.kymatalabs.com/p/qiniu-xhub/",
+      "repository": "https://github.com/XGrowthLab/xhub",
+      "summary": "A self-hosted AI gateway project. qiniu/xhub moved to XGrowthLab/xhub, retaining GitHub ID 1425177823.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed.",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/XGrowthLab/xhub/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    }
+  ],
   "retirements": [],
   "planned_release_urls": [],
-  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate."
+  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate.",
+  "site_name": "The Gateway Index",
+  "detail_prefix": "p"
 }
