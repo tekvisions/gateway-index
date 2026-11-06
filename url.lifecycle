@@ -578,6 +578,132 @@
         }
       ],
       "evidence_sha256": "3ffff982377f470099aa53a6e872293f9307f4288da95d7660692380dd4be64b"
+    },
+    {
+      "slug": "apimartfbsu4lby-api-router-free-tier",
+      "entity": "apimartfbsu4lby/api-router-free-tier",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartfbsu4lby-api-router-free-tier/",
+      "repository": "https://github.com/apimartfbsu4lby/api-router-free-tier",
+      "summary": "apimartfbsu4lby/api-router-free-tier documents APIMart API examples for Wan 2.5. It is retained as a dated documentation reference outside the ranked gateway-implementation catalog.",
+      "selection_context": "Locate the publisher documentation for Wan 2.5 integration examples. The repository name does not establish an independent gateway or comparative benchmark.",
+      "limitations": "Availability, billing, prices, licensing and implementation quality are not independently verified. No current rank or momentum score is assigned.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-06T17:29:05.911320+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartfbsu4lby/api-router-free-tier"
+        }
+      ],
+      "evidence_sha256": "09e058bbb6a4395b861b8ad3865c4c252df84df815b82a06b68495e0aa6efb86"
+    },
+    {
+      "slug": "apimartjkds8-ai-api-router-2026",
+      "entity": "apimartjkds8/ai-api-router-2026",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartjkds8-ai-api-router-2026/",
+      "repository": "https://github.com/apimartjkds8/ai-api-router-2026",
+      "summary": "apimartjkds8/ai-api-router-2026 documents APIMart API examples for Nano Banana Pro. It is retained as a dated documentation reference outside the ranked gateway-implementation catalog.",
+      "selection_context": "Locate the publisher documentation for Nano Banana Pro integration examples. The repository name does not establish an independent gateway or comparative benchmark.",
+      "limitations": "Availability, billing, prices, licensing and implementation quality are not independently verified. No current rank or momentum score is assigned.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-06T17:29:05.911320+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartjkds8/ai-api-router-2026"
+        }
+      ],
+      "evidence_sha256": "cd4e6c691325af25591ad78ca0aa4267b1bf04f922282b7884fdf507dc3e0622"
+    },
+    {
+      "slug": "apimarth5-ai-api-router-de",
+      "entity": "apimarth5/ai-api-router-de",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimarth5-ai-api-router-de/",
+      "repository": "https://github.com/apimarth5/ai-api-router-de",
+      "summary": "apimarth5/ai-api-router-de documents APIMart API examples for Seedream 5.0 Lite. It is retained as a dated documentation reference outside the ranked gateway-implementation catalog.",
+      "selection_context": "Locate the publisher documentation for Seedream 5.0 Lite integration examples. The repository name does not establish an independent gateway or comparative benchmark.",
+      "limitations": "Availability, billing, prices, licensing and implementation quality are not independently verified. No current rank or momentum score is assigned.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-06T17:29:05.911320+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimarth5/ai-api-router-de"
+        }
+      ],
+      "evidence_sha256": "be9c8189c7aaf664bd450c8745938c4a389ab14926c7dd3167e36df89afebc0f"
+    },
+    {
+      "slug": "apimartn0e1fufu-api-router-sdk-node",
+      "entity": "apimartn0e1fufu/api-router-sdk-node",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartn0e1fufu-api-router-sdk-node/",
+      "repository": "https://github.com/apimartn0e1fufu/api-router-sdk-node",
+      "summary": "apimartn0e1fufu/api-router-sdk-node documents APIMart API examples for Nano Banana 2. It is retained as a dated documentation reference outside the ranked gateway-implementation catalog.",
+      "selection_context": "Locate the publisher documentation for Nano Banana 2 integration examples. The repository name does not establish an independent gateway or comparative benchmark.",
+      "limitations": "Availability, billing, prices, licensing and implementation quality are not independently verified. No current rank or momentum score is assigned.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-06T17:29:05.911320+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartn0e1fufu/api-router-sdk-node"
+        }
+      ],
+      "evidence_sha256": "ee643bbac3a4cd6de851290855a04555b98110b701d8fc17fc07dcac9c87ca63"
+    },
+    {
+      "slug": "apimartk55e15h-ai-api-router-2026-fr",
+      "entity": "apimartk55e15h/ai-api-router-2026-fr",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartk55e15h-ai-api-router-2026-fr/",
+      "repository": "https://github.com/apimartk55e15h/ai-api-router-2026-fr",
+      "summary": "apimartk55e15h/ai-api-router-2026-fr documents APIMart API examples for Seedance 2.0. It is retained as a dated documentation reference outside the ranked gateway-implementation catalog.",
+      "selection_context": "Locate the publisher documentation for Seedance 2.0 integration examples. The repository name does not establish an independent gateway or comparative benchmark.",
+      "limitations": "Availability, billing, prices, licensing and implementation quality are not independently verified. No current rank or momentum score is assigned.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-06T17:29:05.911320+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartk55e15h/ai-api-router-2026-fr"
+        }
+      ],
+      "evidence_sha256": "b0f4beebfb6f0971598c1e1c4aa397fd9d428fb8be70083c6d472f663b7bc31b"
+    },
+    {
+      "slug": "apimartfv3-unified-ai-comparison",
+      "entity": "apimartfv3/unified-ai-comparison",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartfv3-unified-ai-comparison/",
+      "repository": "https://github.com/apimartfv3/unified-ai-comparison",
+      "summary": "apimartfv3/unified-ai-comparison documents APIMart API examples for FLUX 3 Video. It is retained as a dated documentation reference outside the ranked gateway-implementation catalog.",
+      "selection_context": "Locate the publisher documentation for FLUX 3 Video integration examples. The repository name does not establish an independent gateway or comparative benchmark.",
+      "limitations": "Availability, billing, prices, licensing and implementation quality are not independently verified. No current rank or momentum score is assigned.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-06T17:29:05.911320+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartfv3/unified-ai-comparison"
+        }
+      ],
+      "evidence_sha256": "15a3046c9b9ff452bcbf0777bafd93f0c066b564f8efe4f4abf55b3d2040f99f"
+    },
+    {
+      "slug": "apimartlh08lf9-unified-ai-api-self-hosted",
+      "entity": "apimartlh08lf9/unified-ai-api-self-hosted",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartlh08lf9-unified-ai-api-self-hosted/",
+      "repository": "https://github.com/apimartlh08lf9/unified-ai-api-self-hosted",
+      "summary": "apimartlh08lf9/unified-ai-api-self-hosted documents APIMart API examples for GPT Image 1.5. It is retained as a dated documentation reference outside the ranked gateway-implementation catalog.",
+      "selection_context": "Locate the publisher documentation for GPT Image 1.5 integration examples. The repository name does not establish an independent gateway or comparative benchmark.",
+      "limitations": "Availability, billing, prices, licensing and implementation quality are not independently verified. No current rank or momentum score is assigned.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-06T17:29:05.911320+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartlh08lf9/unified-ai-api-self-hosted"
+        }
+      ],
+      "evidence_sha256": "8db5b32540944eba74ad22120ede54048b645a850bb252b086e31f8d3d8d1c3b"
     }
   ],
   "retirements": [],

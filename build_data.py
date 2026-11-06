@@ -324,6 +324,19 @@ def write_seo(data: dict) -> None:
     open(os.path.join(HERE, "llms.txt"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
 
 
+def verify_description_population(items: list[dict]) -> None:
+    """Hold repetitive commercial copy for review without silently dropping URLs."""
+    groups = {}
+    for item in items:
+        desc = " ".join((item.get("description") or "").split()).casefold()
+        if len(desc) >= 80 and re.search(r"[$€£]\s*\d", desc):
+            groups.setdefault(desc, []).append(item.get("full_name", "unknown"))
+    repeated = [names for names in groups.values() if len(names) >= 3]
+    if repeated:
+        raise ValueError("Repeated commercial description requires source review before publication: "
+                         + "; ".join(", ".join(names) for names in repeated))
+
+
 def main() -> int:
     if not token():
         print("WARNING: no GITHUB_TOKEN — low rate limit, partial results", file=sys.stderr)
@@ -331,6 +344,7 @@ def main() -> int:
     if not items:
         print("ERROR: no gateway tools found — refusing to write empty data.json", file=sys.stderr)
         return 1
+    verify_description_population(items)
     data = write_json(items)
     write_seo(data)
     print(f"wrote data.json: {len(items)} gateway tools across {len(data['categories'])} categories")

@@ -21,4 +21,14 @@ class EditorialCurationTests(unittest.TestCase):
   for name,review in reviews.items():
    if review['decision']=='reference_only':
     self.assertIn(name,retained);self.assertIn(review['documented_model'],retained[name]['summary']);self.assertTrue(retained[name]['evidence_sha256'])
+class DescriptionPopulationTests(unittest.TestCase):
+ def test_repeated_commercial_copy_requires_review_without_mutating_rows(self):
+  text = 'AI gateway / relay with one compatible key. USD settlement and commercial pricing from $0.01 per request.'
+  rows = [{'full_name':f'publisher-{i}/gateway','description':text} for i in range(3)]
+  with self.assertRaisesRegex(ValueError, 'requires source review'):
+   build_data.verify_description_population(rows)
+  self.assertEqual(len(rows),3)
+ def test_distinct_source_descriptions_and_short_generic_labels_are_allowed(self):
+  build_data.verify_description_population([{'full_name':f'p{i}/gateway','description':'API Gateway'} for i in range(5)])
+  build_data.verify_description_population([{'full_name':f'p{i}/gateway','description':f'Provider {i} implementation, documented API routing and independently described capabilities; price $1.'} for i in range(3)])
 if __name__=='__main__':unittest.main()

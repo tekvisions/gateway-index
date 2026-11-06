@@ -140,5 +140,61 @@
     "decision": "reference_only",
     "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
     "documented_model": "Seedance 1.5 Pro"
+  },
+  "apimartfbsu4lby/api-router-free-tier": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartfbsu4lby/api-router-free-tier",
+    "source_sha256": "09e058bbb6a4395b861b8ad3865c4c252df84df815b82a06b68495e0aa6efb86",
+    "decision": "reference_only",
+    "reason": "Publisher documents promotional APIMart model API examples rather than an independent gateway implementation.",
+    "documented_model": "Wan 2.5"
+  },
+  "apimartjkds8/ai-api-router-2026": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartjkds8/ai-api-router-2026",
+    "source_sha256": "cd4e6c691325af25591ad78ca0aa4267b1bf04f922282b7884fdf507dc3e0622",
+    "decision": "reference_only",
+    "reason": "Publisher documents promotional APIMart model API examples rather than an independent gateway implementation.",
+    "documented_model": "Nano Banana Pro"
+  },
+  "apimarth5/ai-api-router-de": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimarth5/ai-api-router-de",
+    "source_sha256": "be9c8189c7aaf664bd450c8745938c4a389ab14926c7dd3167e36df89afebc0f",
+    "decision": "reference_only",
+    "reason": "Publisher documents promotional APIMart model API examples rather than an independent gateway implementation.",
+    "documented_model": "Seedream 5.0 Lite"
+  },
+  "apimartn0e1fufu/api-router-sdk-node": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartn0e1fufu/api-router-sdk-node",
+    "source_sha256": "ee643bbac3a4cd6de851290855a04555b98110b701d8fc17fc07dcac9c87ca63",
+    "decision": "reference_only",
+    "reason": "Publisher documents promotional APIMart model API examples rather than an independent gateway implementation.",
+    "documented_model": "Nano Banana 2"
+  },
+  "apimartk55e15h/ai-api-router-2026-fr": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartk55e15h/ai-api-router-2026-fr",
+    "source_sha256": "b0f4beebfb6f0971598c1e1c4aa397fd9d428fb8be70083c6d472f663b7bc31b",
+    "decision": "reference_only",
+    "reason": "Publisher documents promotional APIMart model API examples rather than an independent gateway implementation.",
+    "documented_model": "Seedance 2.0"
+  },
+  "apimartfv3/unified-ai-comparison": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartfv3/unified-ai-comparison",
+    "source_sha256": "15a3046c9b9ff452bcbf0777bafd93f0c066b564f8efe4f4abf55b3d2040f99f",
+    "decision": "reference_only",
+    "reason": "Publisher documents promotional APIMart model API examples rather than an independent gateway implementation.",
+    "documented_model": "FLUX 3 Video"
+  },
+  "apimartlh08lf9/unified-ai-api-self-hosted": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartlh08lf9/unified-ai-api-self-hosted",
+    "source_sha256": "8db5b32540944eba74ad22120ede54048b645a850bb252b086e31f8d3d8d1c3b",
+    "decision": "reference_only",
+    "reason": "Publisher documents promotional APIMart model API examples rather than an independent gateway implementation.",
+    "documented_model": "GPT Image 1.5"
   }
 }
