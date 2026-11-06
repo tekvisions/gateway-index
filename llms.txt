@@ -2,8 +2,8 @@
 
 > The Gateway Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-06T17:29:05.911320+00:00
-Current catalog records: 222
+Snapshot collected: 2026-11-06T18:02:54.817637+00:00
+Current catalog records: 215
 
 ## Sources and interpretation
 
