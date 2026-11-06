@@ -234,7 +234,18 @@
     "https://gateway.kymatalabs.com/p/keepland-openaiee/",
     "https://gateway.kymatalabs.com/p/aaryan-kapoor-modelgate-hackathon/",
     "https://gateway.kymatalabs.com/p/andrewginns-cot-at-home/",
-    "https://gateway.kymatalabs.com/p/megeezy-chameleon/"
+    "https://gateway.kymatalabs.com/p/megeezy-chameleon/",
+    "https://gateway.kymatalabs.com/p/xgrowthlab-xhub/",
+    "https://gateway.kymatalabs.com/p/apimartfbsu4lby-api-router-free-tier/",
+    "https://gateway.kymatalabs.com/p/apimartjkds8-ai-api-router-2026/",
+    "https://gateway.kymatalabs.com/p/apimarth5-ai-api-router-de/",
+    "https://gateway.kymatalabs.com/p/apimartn0e1fufu-api-router-sdk-node/",
+    "https://gateway.kymatalabs.com/p/baiibayu-srouter/",
+    "https://gateway.kymatalabs.com/p/12errh-zen-proxy/",
+    "https://gateway.kymatalabs.com/p/apimartk55e15h-ai-api-router-2026-fr/",
+    "https://gateway.kymatalabs.com/p/apimartfv3-unified-ai-comparison/",
+    "https://gateway.kymatalabs.com/p/apimartlh08lf9-unified-ai-api-self-hosted/",
+    "https://gateway.kymatalabs.com/p/garan0613-pawwake/"
   ],
   "retained_references": [
     {
@@ -710,5 +721,26 @@
   "planned_release_urls": [],
   "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate.",
   "site_name": "The Gateway Index",
-  "detail_prefix": "p"
+  "detail_prefix": "p",
+  "baseline_extensions": [
+    {
+      "captured_at": "2026-11-06T18:00:14+00:00",
+      "source": "https://gateway.kymatalabs.com/sitemap.xml",
+      "sitemap_sha256": "819c4da0afa64997b24a5cb9699b0f7604f4015f7bada2dea6c58cf5b5f22d09",
+      "added_urls": [
+        "https://gateway.kymatalabs.com/p/12errh-zen-proxy/",
+        "https://gateway.kymatalabs.com/p/apimartfbsu4lby-api-router-free-tier/",
+        "https://gateway.kymatalabs.com/p/apimartfv3-unified-ai-comparison/",
+        "https://gateway.kymatalabs.com/p/apimarth5-ai-api-router-de/",
+        "https://gateway.kymatalabs.com/p/apimartjkds8-ai-api-router-2026/",
+        "https://gateway.kymatalabs.com/p/apimartk55e15h-ai-api-router-2026-fr/",
+        "https://gateway.kymatalabs.com/p/apimartlh08lf9-unified-ai-api-self-hosted/",
+        "https://gateway.kymatalabs.com/p/apimartn0e1fufu-api-router-sdk-node/",
+        "https://gateway.kymatalabs.com/p/baiibayu-srouter/",
+        "https://gateway.kymatalabs.com/p/garan0613-pawwake/",
+        "https://gateway.kymatalabs.com/p/xgrowthlab-xhub/"
+      ],
+      "verification": "Published sitemap matched source commit 0617cb04d14811c7dcbba91a8cece105bbdef965; all seven newly retained promotional-reference routes also returned HTTP 200."
+    }
+  ]
 }
