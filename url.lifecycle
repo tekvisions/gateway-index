@@ -560,6 +560,24 @@
         }
       ],
       "evidence_sha256": "7d9cf3052003272fabd444224e089484404d8509ec8ccecff7e07efeb7a4fb43"
+    },
+    {
+      "slug": "devansh-365-freellm",
+      "entity": "Devansh-365/freellm",
+      "canonical_url": "https://gateway.kymatalabs.com/p/devansh-365-freellm/",
+      "repository": "https://github.com/Devansh-365/freellm",
+      "summary": "FreeLLM is an OpenAI-compatible gateway with documented provider failover, caching, virtual keys and usage controls. The publisher markets free-tier access; actual availability, charges and quotas depend on each provider.",
+      "selection_context": "Compare supported providers, routing and authentication controls; verify permitted usage and current limits before running it. Free-tier claims do not guarantee free or uninterrupted service.",
+      "limitations": "Publisher documentation only; no independent runtime, security, privacy or cost verification. No current rank or momentum score is assigned.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher documentation reviewed 6 November 2026",
+          "url": "https://github.com/Devansh-365/freellm"
+        }
+      ],
+      "evidence_sha256": "3ffff982377f470099aa53a6e872293f9307f4288da95d7660692380dd4be64b"
     }
   ],
   "retirements": [],
