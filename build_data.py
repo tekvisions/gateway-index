@@ -24,6 +24,8 @@ import urllib.request
 from datetime import datetime, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(HERE, "editorial_reviews.json"), encoding="utf-8") as _reviews_file:
+    EDITORIAL_REVIEWS = json.load(_reviews_file)
 API = "https://api.github.com"
 SITE_URL = "https://gateway.kymatalabs.com"   # fixed to the real alias after first deploy
 SITE_NAME = "The Gateway Index"
@@ -174,6 +176,10 @@ def search(q: str, per_page: int = 40) -> list[dict]:
 
 def is_gateway(r: dict) -> bool:
     full = (r.get("full_name") or "").lower()
+    # Exact, source-reviewed decisions only. The historical URL is retained by
+    # url.lifecycle; a promotional example is not ranked as an implementation.
+    if EDITORIAL_REVIEWS.get(full, {}).get("decision") == "reference_only":
+        return False
     if full in _ALLOW:
         return True
     if full in _DENY:
@@ -248,6 +254,8 @@ def build_items() -> list[dict]:
     items = []
     for r in raw:
         owner = r.get("owner") or {}
+        review = EDITORIAL_REVIEWS.get((r.get("full_name") or "").lower(), {})
+        source_description = (r.get("description") or "").strip()
         items.append({
             "name": r.get("name", ""), "full_name": r.get("full_name", ""),
             "slug": slugify(r.get("full_name", "")), "url": r.get("html_url", ""),
@@ -256,7 +264,10 @@ def build_items() -> list[dict]:
             "open_issues": r.get("open_issues_count", 0) or 0, "language": r.get("language") or "",
             "license": ((r.get("license") or {}) or {}).get("spdx_id") or "",
             "pushed_at": r.get("pushed_at"), "created_at": r.get("created_at"),
-            "description": (r.get("description") or "").strip(), "topics": r.get("topics") or [],
+            "description": review.get("description", source_description),
+            "source_description": source_description,
+            "description_review": {k: review[k] for k in ("reviewed_on", "source", "source_sha256") if k in review},
+            "topics": r.get("topics") or [],
             "category": categorize(r), "momentum": momentum(r, max_stars),
         })
     items.sort(key=lambda x: (x["momentum"], x["stars"]), reverse=True)

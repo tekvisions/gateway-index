@@ -238,40 +238,6 @@
   ],
   "retained_references": [
     {
-      "slug": "apimartlb-ai-api-router-pt",
-      "entity": "apimartlb/ai-api-router-pt",
-      "canonical_url": "https://gateway.kymatalabs.com/p/apimartlb-ai-api-router-pt/",
-      "repository": "https://github.com/apimartlb/ai-api-router-pt",
-      "summary": "A publisher repository of APIMart API examples and promotional integration material. This historical reference does not verify a gateway implementation, service quality or advertised pricing.",
-      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
-      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed. The README is promotional; prices, model counts and billing assertions were not independently verified. This is not a provider recommendation.",
-      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
-      "reviewed_on": "2026-11-04",
-      "primary_sources": [
-        {
-          "url": "https://github.com/apimartlb/ai-api-router-pt/blob/main/README.md",
-          "title": "Publisher documentation"
-        }
-      ]
-    },
-    {
-      "slug": "apimartpd96-ai-api-router-cheap-fr",
-      "entity": "apimartpd96/ai-api-router-cheap-fr",
-      "canonical_url": "https://gateway.kymatalabs.com/p/apimartpd96-ai-api-router-cheap-fr/",
-      "repository": "https://github.com/apimartpd96/ai-api-router-cheap-fr",
-      "summary": "A publisher repository of image API examples and promotional integration material. This historical reference does not verify advertised prices or endorse the service.",
-      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
-      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed. The README is promotional; prices, model counts and billing assertions were not independently verified. This is not a provider recommendation.",
-      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
-      "reviewed_on": "2026-11-04",
-      "primary_sources": [
-        {
-          "url": "https://github.com/apimartpd96/ai-api-router-cheap-fr/blob/main/README.md",
-          "title": "Publisher documentation"
-        }
-      ]
-    },
-    {
       "slug": "qiniu-xhub",
       "entity": "qiniu/xhub",
       "canonical_url": "https://gateway.kymatalabs.com/p/qiniu-xhub/",
@@ -287,6 +253,313 @@
           "title": "Publisher documentation"
         }
       ]
+    },
+    {
+      "slug": "romgx-openrelay",
+      "entity": "romgX/openrelay",
+      "canonical_url": "https://gateway.kymatalabs.com/p/romgx-openrelay/",
+      "repository": "https://github.com/romgX/openrelay",
+      "summary": "Historical reference for romgX/openrelay, described in the 3 November 2026 catalog as a proxy for accessing model-provider quotas. The upstream repository returned HTTP 404 during the 6 November review; its current availability and capabilities are unknown.",
+      "selection_context": "Use to identify an older link. Verify the upstream project and terms before relying on this historical description; no replacement service is endorsed.",
+      "limitations": "Publisher documentation is source evidence, not an independent runtime, safety, licensing or performance certification. Confirm current terms, requirements and outputs. No current catalog rank or momentum score is assigned to a retained reference.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher repository and documentation (availability checked 6 November 2026)",
+          "url": "https://github.com/romgX/openrelay"
+        }
+      ],
+      "evidence_sha256": null,
+      "decision": "Retain the previously published route outside the ranked discovery snapshot; do not infer obsolescence from discovery-window churn."
+    },
+    {
+      "slug": "apimartafuez-unified-ai-api-catalog",
+      "entity": "apimartafuez/unified-ai-api-catalog",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartafuez-unified-ai-api-catalog/",
+      "repository": "https://github.com/apimartafuez/unified-ai-api-catalog",
+      "summary": "apimartafuez/unified-ai-api-catalog documents APIMart API examples for Seedance 2.0. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the Seedance 2.0 integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartafuez/unified-ai-api-catalog"
+        }
+      ],
+      "evidence_sha256": "829510b2f5e4b27defed2d6242fc5267b33c9d370aa5dc10b6a4fdf2a0c98e24"
+    },
+    {
+      "slug": "apimartbwktto3-unified-ai-api-directory",
+      "entity": "apimartbwktto3/unified-ai-api-directory",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartbwktto3-unified-ai-api-directory/",
+      "repository": "https://github.com/apimartbwktto3/unified-ai-api-directory",
+      "summary": "apimartbwktto3/unified-ai-api-directory documents APIMart API examples for Kling Video O1. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the Kling Video O1 integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartbwktto3/unified-ai-api-directory"
+        }
+      ],
+      "evidence_sha256": "5a83f142c86096169e1ff8058708f097ef89c100e8b8c66e90b220e87afa07d7"
+    },
+    {
+      "slug": "apimartng8q-unified-ai-sdk-node",
+      "entity": "apimartng8q/unified-ai-sdk-node",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartng8q-unified-ai-sdk-node/",
+      "repository": "https://github.com/apimartng8q/unified-ai-sdk-node",
+      "summary": "apimartng8q/unified-ai-sdk-node documents APIMart API examples for Kling Motion Control. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the Kling Motion Control integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartng8q/unified-ai-sdk-node"
+        }
+      ],
+      "evidence_sha256": "ffb4afb3a80895161d8f438c104d1f5729443bd74c9dd958eab8e3f8ae1c743d"
+    },
+    {
+      "slug": "apimartpd96-ai-api-router-cheap-fr",
+      "entity": "apimartpd96/ai-api-router-cheap-fr",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartpd96-ai-api-router-cheap-fr/",
+      "repository": "https://github.com/apimartpd96/ai-api-router-cheap-fr",
+      "summary": "apimartpd96/ai-api-router-cheap-fr documents APIMart API examples for Qwen-Image 2.0. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the Qwen-Image 2.0 integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartpd96/ai-api-router-cheap-fr"
+        }
+      ],
+      "evidence_sha256": "035050ab6faf5a09d9432db8c8d99dc05114318cb1b7f25a4b35d83e4df9c487"
+    },
+    {
+      "slug": "apimartr8udbi-unified-ai-no-vpn",
+      "entity": "apimartr8udbi/unified-ai-no-vpn",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartr8udbi-unified-ai-no-vpn/",
+      "repository": "https://github.com/apimartr8udbi/unified-ai-no-vpn",
+      "summary": "apimartr8udbi/unified-ai-no-vpn documents APIMart API examples for MiniMax Hailuo 02. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the MiniMax Hailuo 02 integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartr8udbi/unified-ai-no-vpn"
+        }
+      ],
+      "evidence_sha256": "ec828565fab639750b9c8a21a1ead7ae02850e1c7265119901449a43a3395aa4"
+    },
+    {
+      "slug": "apimartanhfop-unified-ai-migration-guide",
+      "entity": "apimartanhfop/unified-ai-migration-guide",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartanhfop-unified-ai-migration-guide/",
+      "repository": "https://github.com/apimartanhfop/unified-ai-migration-guide",
+      "summary": "apimartanhfop/unified-ai-migration-guide documents APIMart API examples for Kling Video O1. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the Kling Video O1 integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartanhfop/unified-ai-migration-guide"
+        }
+      ],
+      "evidence_sha256": "d144f02dcbc9bfcc03d9a1b8d2e560d875e5843344a40af467bde64adbcf5ce8"
+    },
+    {
+      "slug": "apimartafuez-unified-ai-guide",
+      "entity": "apimartafuez/unified-ai-guide",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartafuez-unified-ai-guide/",
+      "repository": "https://github.com/apimartafuez/unified-ai-guide",
+      "summary": "apimartafuez/unified-ai-guide documents APIMart API examples for SkyReels V4. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the SkyReels V4 integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartafuez/unified-ai-guide"
+        }
+      ],
+      "evidence_sha256": "f26ec901aceb56efd644dbebf3a128a00fe1b32c1ee8670165094bb2791df5ca"
+    },
+    {
+      "slug": "apimartavk7hrq9-unified-ai-api-pricing-guide",
+      "entity": "apimartavk7hrq9/unified-ai-api-pricing-guide",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartavk7hrq9-unified-ai-api-pricing-guide/",
+      "repository": "https://github.com/apimartavk7hrq9/unified-ai-api-pricing-guide",
+      "summary": "apimartavk7hrq9/unified-ai-api-pricing-guide documents APIMart API examples for FLUX 3 Video. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the FLUX 3 Video integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartavk7hrq9/unified-ai-api-pricing-guide"
+        }
+      ],
+      "evidence_sha256": "fae2819868046600c5075ef9e677995a84d9338ef7ead8e14fde44d54ddbd28b"
+    },
+    {
+      "slug": "apimarte8x24qe-unified-ai-api-sdk-python",
+      "entity": "apimarte8x24qe/unified-ai-api-sdk-python",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimarte8x24qe-unified-ai-api-sdk-python/",
+      "repository": "https://github.com/apimarte8x24qe/unified-ai-api-sdk-python",
+      "summary": "apimarte8x24qe/unified-ai-api-sdk-python documents APIMart API examples for FLUX 3 Video. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the FLUX 3 Video integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimarte8x24qe/unified-ai-api-sdk-python"
+        }
+      ],
+      "evidence_sha256": "b64727263ce339ef9fb1a2aac1ac02655f0ba9af57dbfac7ccf52ae75ee529c6"
+    },
+    {
+      "slug": "apimartebwvmfo4-unified-ai-bypass-guide",
+      "entity": "apimartebwvmfo4/unified-ai-bypass-guide",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartebwvmfo4-unified-ai-bypass-guide/",
+      "repository": "https://github.com/apimartebwvmfo4/unified-ai-bypass-guide",
+      "summary": "apimartebwvmfo4/unified-ai-bypass-guide documents APIMart API examples for Vidu Q3. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the Vidu Q3 integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartebwvmfo4/unified-ai-bypass-guide"
+        }
+      ],
+      "evidence_sha256": "d8a19f604ca8a419e4e3d66392c796cc65036a9dd3f63cc206b8231d0d3785e3"
+    },
+    {
+      "slug": "apimartn-ai-api-router-es",
+      "entity": "apimartn/ai-api-router-es",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartn-ai-api-router-es/",
+      "repository": "https://github.com/apimartn/ai-api-router-es",
+      "summary": "apimartn/ai-api-router-es documents APIMart API examples for Nano Banana Pro. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the Nano Banana Pro integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartn/ai-api-router-es"
+        }
+      ],
+      "evidence_sha256": "8499e98eaa8509da0b35147120a44e3ec6485fb3ed2afaf2464113316f508389"
+    },
+    {
+      "slug": "apimartlb-ai-api-router-ru",
+      "entity": "apimartlb/ai-api-router-ru",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartlb-ai-api-router-ru/",
+      "repository": "https://github.com/apimartlb/ai-api-router-ru",
+      "summary": "apimartlb/ai-api-router-ru documents APIMart API examples for Nano Banana 2. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the Nano Banana 2 integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartlb/ai-api-router-ru"
+        }
+      ],
+      "evidence_sha256": "e617229c8af5f964265a72f0913469f95559539fa0109c7319fffbfb014e34c8"
+    },
+    {
+      "slug": "apimartm0jpbm3-api-router-comparison",
+      "entity": "apimartm0jpbm3/api-router-comparison",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartm0jpbm3-api-router-comparison/",
+      "repository": "https://github.com/apimartm0jpbm3/api-router-comparison",
+      "summary": "apimartm0jpbm3/api-router-comparison documents APIMart API examples for Nano Banana Pro. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the Nano Banana Pro integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartm0jpbm3/api-router-comparison"
+        }
+      ],
+      "evidence_sha256": "49a49c476a826ef43984e106be4d319e246e3e4f6abf3d3cd09c7ad78fbf35d8"
+    },
+    {
+      "slug": "apimartlb-ai-api-router-pt",
+      "entity": "apimartlb/ai-api-router-pt",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartlb-ai-api-router-pt/",
+      "repository": "https://github.com/apimartlb/ai-api-router-pt",
+      "summary": "apimartlb/ai-api-router-pt documents APIMart API examples for MiniMax H3. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the MiniMax H3 integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartlb/ai-api-router-pt"
+        }
+      ],
+      "evidence_sha256": "4b3ad3a54c1b6b1c7667b9f6a19ab06ad8c33760aa66a97216836eddab9484c6"
+    },
+    {
+      "slug": "apimarta9b-unified-ai-api-bypass-guide",
+      "entity": "apimarta9b/unified-ai-api-bypass-guide",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimarta9b-unified-ai-api-bypass-guide/",
+      "repository": "https://github.com/apimarta9b/unified-ai-api-bypass-guide",
+      "summary": "apimarta9b/unified-ai-api-bypass-guide documents APIMart API examples for SkyReels V4. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the SkyReels V4 integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimarta9b/unified-ai-api-bypass-guide"
+        }
+      ],
+      "evidence_sha256": "f0e5eca66e2f5a6c1c64719bb0f159185db5b2b059103c40766cac3066d89483"
+    },
+    {
+      "slug": "apimartnxav-unified-ai-directory",
+      "entity": "apimartnxav/unified-ai-directory",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartnxav-unified-ai-directory/",
+      "repository": "https://github.com/apimartnxav/unified-ai-directory",
+      "summary": "apimartnxav/unified-ai-directory documents APIMart API examples for Seedance 1.5 Pro. Its README contains promotional integration links and publisher pricing claims; it is retained as a dated documentation reference, outside the ranked gateway-implementation catalog.",
+      "selection_context": "Use this reference to locate the Seedance 1.5 Pro integration examples. A repository name containing router, SDK or comparison does not establish an independent gateway or a comparative benchmark.",
+      "limitations": "Service availability, model access, billing, prices and implementation quality are not independently verified. No current rank or momentum score is assigned; consult current publisher terms.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-03T17:45:26.119714+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher README reviewed 6 November 2026",
+          "url": "https://github.com/apimartnxav/unified-ai-directory"
+        }
+      ],
+      "evidence_sha256": "7d9cf3052003272fabd444224e089484404d8509ec8ccecff7e07efeb7a4fb43"
     }
   ],
   "retirements": [],

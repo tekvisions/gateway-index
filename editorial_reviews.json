@@ -1,0 +1,144 @@
+{
+  "apache/apisix": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apache/apisix",
+    "source_sha256": "fe8b18bd7ea1bbc59e2cceeb0844c10cf0d089114a47227dd9f17cb0ab824f73",
+    "decision": "ranked",
+    "description": "Apache APISIX uses NGINX and etcd with dynamic routing and plugin loading. Publisher documentation covers API traffic management and AI proxy plugins for provider routing, retries and token-based rate limits."
+  },
+  "kgateway-dev/kgateway": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/kgateway-dev/kgateway",
+    "source_sha256": "b658f283fa253bd915f50296d7b3f8c7d2ba53256af5f9dbd3cd470e124381c6",
+    "decision": "ranked",
+    "description": "Kgateway implements the Kubernetes Gateway API as an Envoy control plane. Its publisher says the agentgateway control plane moved to the separate agentgateway repository starting with version 2.3.0."
+  },
+  "apimartafuez/unified-ai-api-catalog": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartafuez/unified-ai-api-catalog",
+    "source_sha256": "829510b2f5e4b27defed2d6242fc5267b33c9d370aa5dc10b6a4fdf2a0c98e24",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "Seedance 2.0"
+  },
+  "apimartbwktto3/unified-ai-api-directory": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartbwktto3/unified-ai-api-directory",
+    "source_sha256": "5a83f142c86096169e1ff8058708f097ef89c100e8b8c66e90b220e87afa07d7",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "Kling Video O1"
+  },
+  "apimartng8q/unified-ai-sdk-node": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartng8q/unified-ai-sdk-node",
+    "source_sha256": "ffb4afb3a80895161d8f438c104d1f5729443bd74c9dd958eab8e3f8ae1c743d",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "Kling Motion Control"
+  },
+  "apimartpd96/ai-api-router-cheap-fr": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartpd96/ai-api-router-cheap-fr",
+    "source_sha256": "035050ab6faf5a09d9432db8c8d99dc05114318cb1b7f25a4b35d83e4df9c487",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "Qwen-Image 2.0"
+  },
+  "apimartr8udbi/unified-ai-no-vpn": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartr8udbi/unified-ai-no-vpn",
+    "source_sha256": "ec828565fab639750b9c8a21a1ead7ae02850e1c7265119901449a43a3395aa4",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "MiniMax Hailuo 02"
+  },
+  "apimartanhfop/unified-ai-migration-guide": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartanhfop/unified-ai-migration-guide",
+    "source_sha256": "d144f02dcbc9bfcc03d9a1b8d2e560d875e5843344a40af467bde64adbcf5ce8",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "Kling Video O1"
+  },
+  "apimartafuez/unified-ai-guide": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartafuez/unified-ai-guide",
+    "source_sha256": "f26ec901aceb56efd644dbebf3a128a00fe1b32c1ee8670165094bb2791df5ca",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "SkyReels V4"
+  },
+  "apimartavk7hrq9/unified-ai-api-pricing-guide": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartavk7hrq9/unified-ai-api-pricing-guide",
+    "source_sha256": "fae2819868046600c5075ef9e677995a84d9338ef7ead8e14fde44d54ddbd28b",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "FLUX 3 Video"
+  },
+  "apimarte8x24qe/unified-ai-api-sdk-python": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimarte8x24qe/unified-ai-api-sdk-python",
+    "source_sha256": "b64727263ce339ef9fb1a2aac1ac02655f0ba9af57dbfac7ccf52ae75ee529c6",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "FLUX 3 Video"
+  },
+  "apimartebwvmfo4/unified-ai-bypass-guide": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartebwvmfo4/unified-ai-bypass-guide",
+    "source_sha256": "d8a19f604ca8a419e4e3d66392c796cc65036a9dd3f63cc206b8231d0d3785e3",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "Vidu Q3"
+  },
+  "apimartn/ai-api-router-es": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartn/ai-api-router-es",
+    "source_sha256": "8499e98eaa8509da0b35147120a44e3ec6485fb3ed2afaf2464113316f508389",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "Nano Banana Pro"
+  },
+  "apimartlb/ai-api-router-ru": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartlb/ai-api-router-ru",
+    "source_sha256": "e617229c8af5f964265a72f0913469f95559539fa0109c7319fffbfb014e34c8",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "Nano Banana 2"
+  },
+  "apimartm0jpbm3/api-router-comparison": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartm0jpbm3/api-router-comparison",
+    "source_sha256": "49a49c476a826ef43984e106be4d319e246e3e4f6abf3d3cd09c7ad78fbf35d8",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "Nano Banana Pro"
+  },
+  "apimartlb/ai-api-router-pt": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartlb/ai-api-router-pt",
+    "source_sha256": "4b3ad3a54c1b6b1c7667b9f6a19ab06ad8c33760aa66a97216836eddab9484c6",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "MiniMax H3"
+  },
+  "apimarta9b/unified-ai-api-bypass-guide": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimarta9b/unified-ai-api-bypass-guide",
+    "source_sha256": "f0e5eca66e2f5a6c1c64719bb0f159185db5b2b059103c40766cac3066d89483",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "SkyReels V4"
+  },
+  "apimartnxav/unified-ai-directory": {
+    "reviewed_on": "2026-11-06",
+    "source": "https://github.com/apimartnxav/unified-ai-directory",
+    "source_sha256": "7d9cf3052003272fabd444224e089484404d8509ec8ccecff7e07efeb7a4fb43",
+    "decision": "reference_only",
+    "reason": "Publisher documents APIMart model API examples and promotional links, rather than an independent gateway implementation.",
+    "documented_model": "Seedance 1.5 Pro"
+  }
+}

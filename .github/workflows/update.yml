@@ -44,6 +44,7 @@ jobs:
           python -m unittest discover -s tests -p test_discoverability.py
           python -m unittest discover -s tests -p test_indexnow_receipts.py
           python -m unittest discover -s tests -p test_selection_guidance.py
+          python -m unittest discover -s tests -p test_editorial_curation.py
           node --test tests/guidance.test.mjs
           python -m unittest discover -s tests -p test_public_assets.py
           python -m unittest discover -s tests -p test_site_quality.py
