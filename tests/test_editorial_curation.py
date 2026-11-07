@@ -31,4 +31,34 @@ class DescriptionPopulationTests(unittest.TestCase):
  def test_distinct_source_descriptions_and_short_generic_labels_are_allowed(self):
   build_data.verify_description_population([{'full_name':f'p{i}/gateway','description':'API Gateway'} for i in range(5)])
   build_data.verify_description_population([{'full_name':f'p{i}/gateway','description':f'Provider {i} implementation, documented API routing and independently described capabilities; price $1.'} for i in range(3)])
+
+
+class UnpublishedPromotionalCandidateTests(unittest.TestCase):
+ def candidates(self):
+  return json.loads(pathlib.Path('tests/fixtures/unpublished-router-candidates-20261107.json').read_text())
+ def test_reviewed_model_documentation_is_excluded_before_population_check(self):
+  with patch.object(build_data,'QUERIES',['fixture']),patch.object(build_data,'search',return_value=self.candidates()),patch.object(build_data.time,'sleep'):
+   rows=build_data.build_items()
+  self.assertEqual(rows,[])
+  build_data.verify_description_population(rows)
+ def test_unknown_repeated_commercial_candidates_still_block(self):
+  records=self.candidates()
+  for i,r in enumerate(records): r['full_name']=f'unknown-{i}/gateway'
+  with patch.object(build_data,'QUERIES',['fixture']),patch.object(build_data,'search',return_value=records),patch.object(build_data.time,'sleep'):
+   rows=build_data.build_items()
+  with self.assertRaisesRegex(ValueError,'requires source review'): build_data.verify_description_population(rows)
+  self.assertEqual(len(rows),3)
+ def test_same_publisher_real_gateway_is_not_blanket_excluded(self):
+  self.assertTrue(build_data.is_gateway({'full_name':'apimartn0e1fufu/independent-gateway','topics':['ai-gateway']}))
+ def test_previously_published_retained_sdk_node_survives(self):
+  import tempfile,url_lifecycle
+  from pathlib import Path
+  policy=json.loads(pathlib.Path('url.lifecycle').read_text());canonical='https://gateway.kymatalabs.com/p/apimartn0e1fufu-api-router-sdk-node/'
+  with tempfile.TemporaryDirectory() as d:
+   root=Path(d).resolve();(root/'url.lifecycle').write_text(json.dumps(policy));(root/'data.json').write_text('{"items":[]}')
+   protected=set(policy['captured_public_urls'])|set(policy.get('planned_release_urls',[]))
+   (root/'sitemap.xml').write_text('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+u+'</loc></url>' for u in protected-{canonical})+'</urlset>')
+   url_lifecycle.render_retained(root);self.assertIn(canonical,url_lifecycle.urls(root));self.assertEqual(url_lifecycle.verify(root)['explicitly_retired'],[])
+   self.assertTrue((root/'p/apimartn0e1fufu-api-router-sdk-node/index.html').exists())
+
 if __name__=='__main__':unittest.main()

@@ -196,5 +196,32 @@
     "decision": "reference_only",
     "reason": "Publisher documents promotional APIMart model API examples rather than an independent gateway implementation.",
     "documented_model": "GPT Image 1.5"
+  },
+  "apimartmsceu0/api-router-no-vpn": {
+    "reviewed_on": "2026-11-07",
+    "source": "https://github.com/apimartmsceu0/api-router-no-vpn/blob/9464cdb0b1a4838cb957b83c9a25d81d9d889bda/README.md",
+    "source_revision": "9464cdb0b1a4838cb957b83c9a25d81d9d889bda",
+    "source_sha256": "eb2e412bddee689aea6cf3162b8493ca2df41fe7790176e4cdb3e058b98d55c2",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "Nano Banana 2"
+  },
+  "apimartn0e1fufu/api-router-sdk-python": {
+    "reviewed_on": "2026-11-07",
+    "source": "https://github.com/apimartn0e1fufu/api-router-sdk-python/blob/0112cb9f30f4d26f8d7f5800c58a90952fdb6e90/README.md",
+    "source_revision": "0112cb9f30f4d26f8d7f5800c58a90952fdb6e90",
+    "source_sha256": "6e4985007adf7982d5892b0c22e5eccf4a7ff6dd4adef440e896748cf7060d93",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "Kling 2.6"
+  },
+  "apimartmtsq0d/api-router-quickstart": {
+    "reviewed_on": "2026-11-07",
+    "source": "https://github.com/apimartmtsq0d/api-router-quickstart/blob/b79a465ecacc2e2c1b577b1cae42b14aaf073ea7/README.md",
+    "source_revision": "b79a465ecacc2e2c1b577b1cae42b14aaf073ea7",
+    "source_sha256": "8362aeb2af026ac03a2dba7eb3fd396d9c903bc7fb929f4aa5b33b3924f2660f",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "Seedream 4.0"
   }
 }

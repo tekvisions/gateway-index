@@ -176,9 +176,9 @@ def search(q: str, per_page: int = 40) -> list[dict]:
 
 def is_gateway(r: dict) -> bool:
     full = (r.get("full_name") or "").lower()
-    # Exact, source-reviewed decisions only. The historical URL is retained by
-    # url.lifecycle; a promotional example is not ranked as an implementation.
-    if EDITORIAL_REVIEWS.get(full, {}).get("decision") == "reference_only":
+    # Exact, source-reviewed decisions only. Existing historical URLs are
+    # retained by url.lifecycle; reviewed unpublished examples remain unlisted.
+    if EDITORIAL_REVIEWS.get(full, {}).get("decision") in {"reference_only", "exclude_unpublished"}:
         return False
     if full in _ALLOW:
         return True
