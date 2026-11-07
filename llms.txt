@@ -2,8 +2,8 @@
 
 > The Gateway Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-06T18:02:54.817637+00:00
-Current catalog records: 215
+Snapshot collected: 2026-11-07T19:31:13.695027+00:00
+Current catalog records: 213
 
 ## Sources and interpretation
 
@@ -26,8 +26,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [BerriAI/litellm](https://gateway.kymatalabs.com/p/berriai-litellm/) — Gateways & Proxies
 - [QuantumNous/new-api](https://gateway.kymatalabs.com/p/quantumnous-new-api/) — Routers
 - [tashfeenahmed/freellmapi](https://gateway.kymatalabs.com/p/tashfeenahmed-freellmapi/) — Routers
-- [Kong/kong](https://gateway.kymatalabs.com/p/kong-kong/) — Gateways & Proxies
 - [fosrl/pangolin](https://gateway.kymatalabs.com/p/fosrl-pangolin/) — Gateways & Proxies
+- [Kong/kong](https://gateway.kymatalabs.com/p/kong-kong/) — Gateways & Proxies
 - [lidge-jun/opencodex](https://gateway.kymatalabs.com/p/lidge-jun-opencodex/) — Multi-Provider SDKs
 - [apache/apisix](https://gateway.kymatalabs.com/p/apache-apisix/) — Gateways & Proxies
 - [TykTechnologies/tyk](https://gateway.kymatalabs.com/p/tyktechnologies-tyk/) — Gateways & Proxies
@@ -43,25 +43,25 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [kgateway-dev/kgateway](https://gateway.kymatalabs.com/p/kgateway-dev-kgateway/) — Gateways & Proxies
 - [weave-os/router](https://gateway.kymatalabs.com/p/weave-os-router/) — Routers
 - [looplj/axonhub](https://gateway.kymatalabs.com/p/looplj-axonhub/) — Observability Gateways
-- [katanemo/plano](https://gateway.kymatalabs.com/p/katanemo-plano/) — Routers
 - [IBM/mcp-context-forge](https://gateway.kymatalabs.com/p/ibm-mcp-context-forge/) — Gateways & Proxies
 - [duolahypercho/codex-router](https://gateway.kymatalabs.com/p/duolahypercho-codex-router/) — Routers
+- [eliasbiondo/antirion](https://gateway.kymatalabs.com/p/eliasbiondo-antirion/) — Observability Gateways
+- [katanemo/plano](https://gateway.kymatalabs.com/p/katanemo-plano/) — Routers
 - [PawanOsman/OpenCursor](https://gateway.kymatalabs.com/p/pawanosman-opencursor/) — Gateways & Proxies
 - [seakee/CPA-Manager-Plus](https://gateway.kymatalabs.com/p/seakee-cpa-manager-plus/) — Observability Gateways
 - [yvgude/lean-ctx](https://gateway.kymatalabs.com/p/yvgude-lean-ctx/) — Gateways & Proxies
 - [edison7009/EchoBird](https://gateway.kymatalabs.com/p/edison7009-echobird/) — Routers
-- [eliasbiondo/antirion](https://gateway.kymatalabs.com/p/eliasbiondo-antirion/) — Observability Gateways
 - [fuxicodex/Fuxi](https://gateway.kymatalabs.com/p/fuxicodex-fuxi/) — Routers
 - [dwgx/WindsurfAPI](https://gateway.kymatalabs.com/p/dwgx-windsurfapi/) — Gateways & Proxies
 - [ThinkWatchProject/ThinkWatch-Lite](https://gateway.kymatalabs.com/p/thinkwatchproject-thinkwatch-lite/) — Gateways & Proxies
 - [respanai/respan-gateway](https://gateway.kymatalabs.com/p/respanai-respan-gateway/) — Gateways & Proxies
-- [krakend/krakend-ce](https://gateway.kymatalabs.com/p/krakend-krakend-ce/) — Gateways & Proxies
-- [theagentrouter/agent-router](https://gateway.kymatalabs.com/p/theagentrouter-agent-router/) — Routers
 - [shuishuipingan/qoder2api-hub](https://gateway.kymatalabs.com/p/shuishuipingan-qoder2api-hub/) — Gateways & Proxies
 - [supercorp-ai/supergateway](https://gateway.kymatalabs.com/p/supercorp-ai-supergateway/) — Gateways & Proxies
-- [oriveo/oriveo](https://gateway.kymatalabs.com/p/oriveo-oriveo/) — Self-Hosted Platforms
+- [krakend/krakend-ce](https://gateway.kymatalabs.com/p/krakend-krakend-ce/) — Gateways & Proxies
+- [theagentrouter/agent-router](https://gateway.kymatalabs.com/p/theagentrouter-agent-router/) — Routers
 - [LAGcomcom/zen-gate](https://gateway.kymatalabs.com/p/lagcomcom-zen-gate/) — Gateways & Proxies
 - [bestruirui/octopus](https://gateway.kymatalabs.com/p/bestruirui-octopus/) — Gateways & Proxies
+- [icebear0828/codex-proxy](https://gateway.kymatalabs.com/p/icebear0828-codex-proxy/) — Gateways & Proxies
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
