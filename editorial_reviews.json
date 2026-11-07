@@ -223,5 +223,14 @@
     "decision": "exclude_unpublished",
     "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
     "documented_model": "Seedream 4.0"
+  },
+  "apimartds0g/nano-banana-reverse-api-fr": {
+    "reviewed_on": "2026-11-07",
+    "source": "https://github.com/apimartds0g/nano-banana-reverse-api-fr/blob/be601d668f51c55921d2bbc646e0b42e0fc4e3b6/README.md",
+    "source_revision": "be601d668f51c55921d2bbc646e0b42e0fc4e3b6",
+    "source_sha256": "aaf24c0e1db3624f1b86a1c40dd9e0d2d8c3a67719d3a6fcbc3e21f7953f6305",
+    "decision": "reference_only",
+    "reason": "Publisher documents promotional model API examples, not a distinct gateway implementation. Preserve the already published route through its dated retained reference.",
+    "documented_model": "Nano Banana"
   }
 }

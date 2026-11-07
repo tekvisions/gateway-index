@@ -715,6 +715,81 @@
         }
       ],
       "evidence_sha256": "8db5b32540944eba74ad22120ede54048b645a850bb252b086e31f8d3d8d1c3b"
+    },
+    {
+      "slug": "apimartds0g-nano-banana-reverse-api-fr",
+      "entity": "apimartds0g/nano-banana-reverse-api-fr",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimartds0g-nano-banana-reverse-api-fr/",
+      "repository": "https://github.com/apimartds0g/nano-banana-reverse-api-fr",
+      "summary": "The publisher README documents Nano Banana (gemini-2.5-flash-image-preview) image API examples through APIMart, including attributed promotional links and a third-party-model disclosure. This reference preserves a previously published repository entry; it is not a ranked independent gateway implementation.",
+      "selection_context": "Trace the historical catalog entry and its publisher-documented model API example.",
+      "limitations": "Current prices, model capabilities, service availability and route provenance were not independently tested. The repository name and commercial metadata are not proof of implementation ownership or upstream access provenance.",
+      "last_catalog_snapshot": "2026-11-06T18:02:54.817637+00:00",
+      "reviewed_on": "2026-11-07",
+      "last_successful_source_commit": "34d52bc7ad316eab17ae442367400c8df3213b7b",
+      "source_revision": "be601d668f51c55921d2bbc646e0b42e0fc4e3b6",
+      "evidence_sha256": "aaf24c0e1db3624f1b86a1c40dd9e0d2d8c3a67719d3a6fcbc3e21f7953f6305",
+      "decision": "Preserve this existing published URL as a dated reference outside the current ranked discovery snapshot; keep all release guards.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/apimartds0g/nano-banana-reverse-api-fr/blob/be601d668f51c55921d2bbc646e0b42e0fc4e3b6/README.md",
+          "title": "Pinned publisher README reviewed 7 November 2026"
+        },
+        {
+          "url": "https://github.com/tekvisions/gateway-index/blob/34d52bc7ad316eab17ae442367400c8df3213b7b/data.json",
+          "title": "Saved 6 November catalog snapshot containing this entry"
+        }
+      ]
+    },
+    {
+      "slug": "busybee3333-sol-governed-codex",
+      "entity": "BusyBee3333/sol-governed-codex",
+      "canonical_url": "https://gateway.kymatalabs.com/p/busybee3333-sol-governed-codex/",
+      "repository": "https://github.com/BusyBee3333/sol-governed-codex",
+      "summary": "The publisher documents Sol-Governed Codex as a local Codex toolkit of agent profiles, workflow instructions and validators for bounded coding delegation and review. It is a developer workflow configuration project, rather than a hosted request-routing gateway.",
+      "selection_context": "Trace the historical model-routing catalog entry and compare its documented workflow role with gateway infrastructure.",
+      "limitations": "No toolkit was installed and no agent role, runtime review result or cost saving was tested. The publisher states that savings are not guaranteed and model availability depends on the configured account; reconcile local profiles and project instructions before use.",
+      "last_catalog_snapshot": "2026-11-06T18:02:54.817637+00:00",
+      "reviewed_on": "2026-11-07",
+      "last_successful_source_commit": "34d52bc7ad316eab17ae442367400c8df3213b7b",
+      "source_revision": "5ed426dde20fd3c398c7d25bdd00991e33910e7b",
+      "evidence_sha256": "8b3b801a67f506e16660133da8e4162da5c6da8bc24609fa810eae44146bba90",
+      "decision": "Preserve this existing published URL as a dated reference outside the current ranked discovery snapshot; keep all release guards.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/busybee3333/sol-governed-codex/blob/5ed426dde20fd3c398c7d25bdd00991e33910e7b/README.md",
+          "title": "Pinned publisher README reviewed 7 November 2026"
+        },
+        {
+          "url": "https://github.com/tekvisions/gateway-index/blob/34d52bc7ad316eab17ae442367400c8df3213b7b/data.json",
+          "title": "Saved 6 November catalog snapshot containing this entry"
+        }
+      ]
+    },
+    {
+      "slug": "garan0613-pawwake",
+      "entity": "garan0613/pawwake",
+      "canonical_url": "https://gateway.kymatalabs.com/p/garan0613-pawwake/",
+      "repository": "https://github.com/garan0613/pawwake",
+      "summary": "The publisher documents Pawwake as a forwarding proxy with optional PostgreSQL-backed conversation memory extraction and retrieval, an administrative dashboard and OpenAI-compatible request handling. Memory features and provider compatibility are documentation claims, not independently tested results.",
+      "selection_context": "Trace the historical memory-gateway entry and review the publisher's forwarding and memory architecture.",
+      "limitations": "Review conversation storage, retention/deletion, session isolation, gateway API authentication, dashboard credentials and configured model-provider data flow before use. No deployment, privacy audit, universal compatibility or cost-saving benchmark was performed.",
+      "last_catalog_snapshot": "2026-11-06T18:02:54.817637+00:00",
+      "reviewed_on": "2026-11-07",
+      "last_successful_source_commit": "34d52bc7ad316eab17ae442367400c8df3213b7b",
+      "source_revision": "526a9678cc4b881c507ed8c6afbb1255a8135432",
+      "evidence_sha256": "5e7da523ddb563d445e8918658e4c239728ced4ed56a309d0b9579cfac5307a5",
+      "decision": "Preserve this existing published URL as a dated reference outside the current ranked discovery snapshot; keep all release guards.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/garan0613/pawwake/blob/526a9678cc4b881c507ed8c6afbb1255a8135432/README.md",
+          "title": "Pinned publisher README reviewed 7 November 2026"
+        },
+        {
+          "url": "https://github.com/tekvisions/gateway-index/blob/34d52bc7ad316eab17ae442367400c8df3213b7b/data.json",
+          "title": "Saved 6 November catalog snapshot containing this entry"
+        }
+      ]
     }
   ],
   "retirements": [],

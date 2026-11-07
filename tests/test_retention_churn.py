@@ -99,5 +99,47 @@ class RetentionChurnTests(unittest.TestCase):
                 url_lifecycle.render_retained(root)
             self.assertEqual(outside.read_text(), 'preserve')
 
+
+
+class November7PublishedRouteTests(unittest.TestCase):
+    def fixture(self, directory):
+        root = Path(directory).resolve()
+        rules = json.loads((ROOT / 'url.lifecycle').read_text())
+        entries = json.loads((ROOT / 'tests/fixtures/gateway-retention-20261107.json').read_text())
+        missing = {e['canonical_url'] for e in entries}
+        protected = set(rules['captured_public_urls']) | set(rules.get('planned_release_urls', []))
+        (root / 'url.lifecycle').write_text(json.dumps(rules))
+        (root / 'data.json').write_text('{"items":[]}')
+        (root / 'sitemap.xml').write_text('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+u+'</loc></url>' for u in protected-missing)+'</urlset>')
+        return root, rules, entries
+    def test_three_actual_rotated_routes_are_restored_with_dated_sources(self):
+        with tempfile.TemporaryDirectory() as d:
+            root, rules, entries = self.fixture(d)
+            with self.assertRaisesRegex(ValueError,'retention/retirement'): url_lifecycle.verify(root)
+            url_lifecycle.render_retained(root)
+            self.assertTrue({e['canonical_url'] for e in entries}.issubset(url_lifecycle.urls(root)), 'Reviewed protected URLs must survive discovery rotation')
+            self.assertEqual(url_lifecycle.verify(root)['explicitly_retired'],[])
+            for e in entries:
+                self.assertIn(e['canonical_url'],url_lifecycle.urls(root))
+                body=(root/e['canonical_url'].split('.com/',1)[1]/'index.html').read_text()
+                self.assertIn('2026-11-06T18:02:54.817637+00:00',body)
+                self.assertIn(e['primary_sources'][0]['url'],body)
+                self.assertIn('Retained reference — outside the current ranked discovery snapshot.',body)
+                schema=json.loads(re.search(r'<script type="application/ld\+json">(.*?)</script>',body,re.S)[1])
+                self.assertEqual(schema['url'],e['canonical_url']);self.assertNotIn('aggregateRating',schema)
+    def test_new_reference_reentry_keeps_current_generator_pages(self):
+        with tempfile.TemporaryDirectory() as d:
+            root,rules,entries=self.fixture(d)
+            (root/'data.json').write_text(json.dumps({'items':[{'slug':e['slug']} for e in entries]}))
+            for e in entries:
+                path=root/e['canonical_url'].split('.com/',1)[1]/'index.html';path.parent.mkdir(parents=True);path.write_text('fresh current page')
+            url_lifecycle.render_retained(root)
+            for e in entries:self.assertEqual((root/e['canonical_url'].split('.com/',1)[1]/'index.html').read_text(),'fresh current page')
+    def test_unknown_fourth_removal_remains_blocked(self):
+        with tempfile.TemporaryDirectory() as d:
+            root,rules,entries=self.fixture(d);rules['captured_public_urls'].append('https://gateway.kymatalabs.com/p/unreviewed-fourth/')
+            (root/'url.lifecycle').write_text(json.dumps(rules));url_lifecycle.render_retained(root)
+            with self.assertRaisesRegex(ValueError,'retention/retirement'):url_lifecycle.verify(root)
+
 if __name__ == '__main__':
     unittest.main()
