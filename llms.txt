@@ -2,8 +2,8 @@
 
 > The Gateway Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-07T19:31:13.695027+00:00
-Current catalog records: 213
+Snapshot collected: 2026-11-25T21:11:45.746939+00:00
+Current catalog records: 215
 
 ## Sources and interpretation
 
@@ -24,19 +24,20 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 
 - [cheaper-inference/OmniRoute](https://gateway.kymatalabs.com/p/cheaper-inference-omniroute/) — Gateways & Proxies
 - [BerriAI/litellm](https://gateway.kymatalabs.com/p/berriai-litellm/) — Gateways & Proxies
-- [QuantumNous/new-api](https://gateway.kymatalabs.com/p/quantumnous-new-api/) — Routers
 - [tashfeenahmed/freellmapi](https://gateway.kymatalabs.com/p/tashfeenahmed-freellmapi/) — Routers
-- [fosrl/pangolin](https://gateway.kymatalabs.com/p/fosrl-pangolin/) — Gateways & Proxies
+- [QuantumNous/new-api](https://gateway.kymatalabs.com/p/quantumnous-new-api/) — Routers
 - [Kong/kong](https://gateway.kymatalabs.com/p/kong-kong/) — Gateways & Proxies
+- [fosrl/pangolin](https://gateway.kymatalabs.com/p/fosrl-pangolin/) — Gateways & Proxies
 - [lidge-jun/opencodex](https://gateway.kymatalabs.com/p/lidge-jun-opencodex/) — Multi-Provider SDKs
 - [apache/apisix](https://gateway.kymatalabs.com/p/apache-apisix/) — Gateways & Proxies
+- [Portkey-AI/gateway](https://gateway.kymatalabs.com/p/portkey-ai-gateway/) — Routers
 - [TykTechnologies/tyk](https://gateway.kymatalabs.com/p/tyktechnologies-tyk/) — Gateways & Proxies
-- [higress-group/higress](https://gateway.kymatalabs.com/p/higress-group-higress/) — Gateways & Proxies
 - [maximhq/bifrost](https://gateway.kymatalabs.com/p/maximhq-bifrost/) — Gateways & Proxies
+- [higress-group/higress](https://gateway.kymatalabs.com/p/higress-group-higress/) — Gateways & Proxies
 - [justlovemaki/AIClient2API](https://gateway.kymatalabs.com/p/justlovemaki-aiclient2api/) — Routers
-- [aimod-cc/Agent2API](https://gateway.kymatalabs.com/p/aimod-cc-agent2api/) — Routers
 - [mnfst/llm-gateway](https://gateway.kymatalabs.com/p/mnfst-llm-gateway/) — Gateways & Proxies
 - [tbphp/gpt-load](https://gateway.kymatalabs.com/p/tbphp-gpt-load/) — Gateways & Proxies
+- [aimod-cc/Agent2API](https://gateway.kymatalabs.com/p/aimod-cc-agent2api/) — Routers
 - [BlockRunAI/ClawRouter](https://gateway.kymatalabs.com/p/blockrunai-clawrouter/) — Routers
 - [vllm-project/semantic-router](https://gateway.kymatalabs.com/p/vllm-project-semantic-router/) — Routers
 - [agentgateway/agentgateway](https://gateway.kymatalabs.com/p/agentgateway-agentgateway/) — Gateways & Proxies
@@ -44,24 +45,23 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [weave-os/router](https://gateway.kymatalabs.com/p/weave-os-router/) — Routers
 - [looplj/axonhub](https://gateway.kymatalabs.com/p/looplj-axonhub/) — Observability Gateways
 - [IBM/mcp-context-forge](https://gateway.kymatalabs.com/p/ibm-mcp-context-forge/) — Gateways & Proxies
-- [duolahypercho/codex-router](https://gateway.kymatalabs.com/p/duolahypercho-codex-router/) — Routers
-- [eliasbiondo/antirion](https://gateway.kymatalabs.com/p/eliasbiondo-antirion/) — Observability Gateways
-- [katanemo/plano](https://gateway.kymatalabs.com/p/katanemo-plano/) — Routers
-- [PawanOsman/OpenCursor](https://gateway.kymatalabs.com/p/pawanosman-opencursor/) — Gateways & Proxies
 - [seakee/CPA-Manager-Plus](https://gateway.kymatalabs.com/p/seakee-cpa-manager-plus/) — Observability Gateways
+- [duolahypercho/codex-router](https://gateway.kymatalabs.com/p/duolahypercho-codex-router/) — Routers
 - [yvgude/lean-ctx](https://gateway.kymatalabs.com/p/yvgude-lean-ctx/) — Gateways & Proxies
+- [respanai/respan-gateway](https://gateway.kymatalabs.com/p/respanai-respan-gateway/) — Gateways & Proxies
 - [edison7009/EchoBird](https://gateway.kymatalabs.com/p/edison7009-echobird/) — Routers
+- [Continuum-AI-Corp/OrcaRouter-Lite](https://gateway.kymatalabs.com/p/continuum-ai-corp-orcarouter-lite/) — Routers
 - [fuxicodex/Fuxi](https://gateway.kymatalabs.com/p/fuxicodex-fuxi/) — Routers
 - [dwgx/WindsurfAPI](https://gateway.kymatalabs.com/p/dwgx-windsurfapi/) — Gateways & Proxies
-- [ThinkWatchProject/ThinkWatch-Lite](https://gateway.kymatalabs.com/p/thinkwatchproject-thinkwatch-lite/) — Gateways & Proxies
-- [respanai/respan-gateway](https://gateway.kymatalabs.com/p/respanai-respan-gateway/) — Gateways & Proxies
-- [shuishuipingan/qoder2api-hub](https://gateway.kymatalabs.com/p/shuishuipingan-qoder2api-hub/) — Gateways & Proxies
+- [jaredfreellm/FREELLM_INSTALL](https://gateway.kymatalabs.com/p/jaredfreellm-freellm-install/) — Routers
 - [supercorp-ai/supergateway](https://gateway.kymatalabs.com/p/supercorp-ai-supergateway/) — Gateways & Proxies
+- [bestruirui/octopus](https://gateway.kymatalabs.com/p/bestruirui-octopus/) — Gateways & Proxies
 - [krakend/krakend-ce](https://gateway.kymatalabs.com/p/krakend-krakend-ce/) — Gateways & Proxies
 - [theagentrouter/agent-router](https://gateway.kymatalabs.com/p/theagentrouter-agent-router/) — Routers
-- [LAGcomcom/zen-gate](https://gateway.kymatalabs.com/p/lagcomcom-zen-gate/) — Gateways & Proxies
-- [bestruirui/octopus](https://gateway.kymatalabs.com/p/bestruirui-octopus/) — Gateways & Proxies
-- [icebear0828/codex-proxy](https://gateway.kymatalabs.com/p/icebear0828-codex-proxy/) — Gateways & Proxies
+- [ThinkWatchProject/ThinkWatch-Lite](https://gateway.kymatalabs.com/p/thinkwatchproject-thinkwatch-lite/) — Gateways & Proxies
+- [yanstd888/9routerx](https://gateway.kymatalabs.com/p/yanstd888-9routerx/) — Routers
+- [katanemo/plano](https://gateway.kymatalabs.com/p/katanemo-plano/) — Routers
+- [PawanOsman/OpenCursor](https://gateway.kymatalabs.com/p/pawanosman-opencursor/) — Gateways & Proxies
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
@@ -82,3 +82,12 @@ Explore gateways, routing and inference infrastructure for AI applications.
 
 - [Machine-readable capabilities, resources and dated coverage](https://gateway.kymatalabs.com/capabilities.json)
 - The capabilities document uses Kymata's descriptive format; it is not a standard agent tool protocol.
+
+## More from Kymata Labs
+Other products from the same publisher. They are not part of this index or its rankings.
+- [Keyspoken](https://keyspoken.com/): On-device dictation for iPhone
+- [Kymata Health](https://kymatahealth.com/): Evidence-based health guides and calculators
+- [CrowLingo](https://crowlingo.org/): American crow call atlas
+- [Verse Made Simple](https://www.versemadesimple.com/): Bible verses in three reading styles
+- [PercentEase](https://percentease.com/): Percentage calculator
+- [Enzo Adventures](https://enzoadventures.com/): Comic stories and coloring books
