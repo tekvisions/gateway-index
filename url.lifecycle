@@ -1075,6 +1075,144 @@
         }
       ],
       "evidence_sha256": "fb6136fbe0c13d5192d48727bc1a112f564f8df8ae603b15051a94b659b10f01"
+    },
+    {
+      "slug": "agentgateway-agentgateway",
+      "entity": "agentgateway/agentgateway",
+      "canonical_url": "https://gateway.kymatalabs.com/p/agentgateway-agentgateway/",
+      "repository": "https://github.com/agentgateway/agentgateway",
+      "summary": "Publisher description of agentgateway/agentgateway: Next Generation Agentic Proxy for AI Agents and MCP servers. The saved 2026-11-25 catalog classified it under Gateways & Proxies.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Gateways & Proxies work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-25T21:11:45.746939+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "04eb25ab69b3b413be4452ac5c0808b4cb105fe6",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-25 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/agentgateway/agentgateway/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "8a7ac2c178edebeae442961d8222acaf3dec9bcc1419cec43059e6c544b45f4d",
+          "blob_sha": "8a80943a701423c67a708cb7f914497d5a4c6953"
+        }
+      ],
+      "evidence_sha256": "8a7ac2c178edebeae442961d8222acaf3dec9bcc1419cec43059e6c544b45f4d"
+    },
+    {
+      "slug": "astaxie-tokenhub",
+      "entity": "astaxie/TokenHub",
+      "canonical_url": "https://gateway.kymatalabs.com/p/astaxie-tokenhub/",
+      "repository": "https://github.com/astaxie/TokenHub",
+      "summary": "Publisher description of astaxie/TokenHub: TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable. The saved 2026-11-25 catalog classified it under Self-Hosted Platforms.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Self-Hosted Platforms work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-25T21:11:45.746939+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "04eb25ab69b3b413be4452ac5c0808b4cb105fe6",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-25 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/astaxie/TokenHub/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "90a725635848f70c2073035e12bef82c18d0d24535fba0769218b3012537bbb7",
+          "blob_sha": "a592234dbc29103418bf4a5d350ea8bb4d2ac138"
+        }
+      ],
+      "evidence_sha256": "90a725635848f70c2073035e12bef82c18d0d24535fba0769218b3012537bbb7"
+    },
+    {
+      "slug": "beizhu-1209-aihelms",
+      "entity": "beizhu-1209/AIHelms",
+      "canonical_url": "https://gateway.kymatalabs.com/p/beizhu-1209-aihelms/",
+      "repository": "https://github.com/beizhu-1209/AIHelms",
+      "summary": "The saved 2026-11-25 catalog classified beizhu-1209/AIHelms under Self-Hosted Platforms; the publisher description is not in English, so see the README for scope.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Self-Hosted Platforms work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-25T21:11:45.746939+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "04eb25ab69b3b413be4452ac5c0808b4cb105fe6",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-25 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/beizhu-1209/AIHelms/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "d25bdddfa379590978d630f79422e2739752a8d18ee1a46a0d040832123cafd1",
+          "blob_sha": "fef2246877ac101291ad0e4e3f9c13cfde6598d5"
+        }
+      ],
+      "evidence_sha256": "d25bdddfa379590978d630f79422e2739752a8d18ee1a46a0d040832123cafd1"
+    },
+    {
+      "slug": "fosrl-pangolin",
+      "entity": "fosrl/pangolin",
+      "canonical_url": "https://gateway.kymatalabs.com/p/fosrl-pangolin/",
+      "repository": "https://github.com/fosrl/pangolin",
+      "summary": "Publisher description of fosrl/pangolin: Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. The saved 2026-11-25 catalog classified it under Gateways & Proxies.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Gateways & Proxies work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-25T21:11:45.746939+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "04eb25ab69b3b413be4452ac5c0808b4cb105fe6",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-25 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/fosrl/pangolin/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "d5ad6e4b75b9453003de5b6f1ad52d265bc2cba693ae1966cf9db8451797ae63",
+          "blob_sha": "d79ee6f0166a75d1e40774cd9a1a1b4bf72962da"
+        }
+      ],
+      "evidence_sha256": "d5ad6e4b75b9453003de5b6f1ad52d265bc2cba693ae1966cf9db8451797ae63"
+    },
+    {
+      "slug": "krakend-krakend-ce",
+      "entity": "krakend/krakend-ce",
+      "canonical_url": "https://gateway.kymatalabs.com/p/krakend-krakend-ce/",
+      "repository": "https://github.com/krakend/krakend-ce",
+      "summary": "Publisher description of krakend/krakend-ce: KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go. The saved 2026-11-25 catalog classified it under Gateways & Proxies.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Gateways & Proxies work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-25T21:11:45.746939+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "04eb25ab69b3b413be4452ac5c0808b4cb105fe6",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-25 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/krakend/krakend-ce/blob/master/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "660f08d0c30136f0ebe9e704e82b6eb5cbb726f8c87bdc97e26ce724203a1320",
+          "blob_sha": "b861ec3297e62ab868910ac3f64647eee9f68408"
+        }
+      ],
+      "evidence_sha256": "660f08d0c30136f0ebe9e704e82b6eb5cbb726f8c87bdc97e26ce724203a1320"
+    },
+    {
+      "slug": "weave-os-router",
+      "entity": "weave-os/router",
+      "canonical_url": "https://gateway.kymatalabs.com/p/weave-os-router/",
+      "repository": "https://github.com/weave-os/router",
+      "summary": "Publisher description of weave-os/router: Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. The saved 2026-11-25 catalog classified it under Routers.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Routers work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-25T21:11:45.746939+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "04eb25ab69b3b413be4452ac5c0808b4cb105fe6",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-25 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/weave-os/router/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "319ddb72ebe499b4c3cf2a0f87b2a416f81069a6093cfd1686bcfc95b69f1183",
+          "blob_sha": "fe15a3c001cee0e09c935f425e35b3b76b846931"
+        }
+      ],
+      "evidence_sha256": "319ddb72ebe499b4c3cf2a0f87b2a416f81069a6093cfd1686bcfc95b69f1183"
     }
   ],
   "retirements": [],

@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-25T21:11:45.746939+00:00",
- "count": 215,
+ "generated_at": "2026-11-25T22:04:34.843030+00:00",
+ "count": 208,
  "categories": [
   {
    "name": "Gateways & Proxies",
-   "count": 117
+   "count": 113
   },
   {
    "name": "Routers",
-   "count": 64
+   "count": 63
   },
   {
    "name": "Self-Hosted Platforms",
-   "count": 11
+   "count": 9
   },
   {
    "name": "Observability Gateways",
@@ -39,12 +39,12 @@
    "url": "https://github.com/cheaper-inference/OmniRoute",
    "owner": "cheaper-inference",
    "owner_avatar": "https://avatars.githubusercontent.com/u/320819803?v=4",
-   "stars": 90307,
-   "forks": 14047,
-   "open_issues": 868,
+   "stars": 90317,
+   "forks": 14048,
+   "open_issues": 870,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-11-25T21:03:53Z",
+   "pushed_at": "2026-11-25T21:57:39Z",
    "created_at": "2026-02-13T12:38:31Z",
    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
    "source_description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
@@ -84,10 +84,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/121462774?v=4",
    "stars": 63907,
    "forks": 13566,
-   "open_issues": 5521,
+   "open_issues": 5530,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-11-25T21:09:27Z",
+   "pushed_at": "2026-11-25T22:01:38Z",
    "created_at": "2023-07-27T00:09:52Z",
    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
    "source_description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
@@ -121,9 +121,9 @@
    "url": "https://github.com/tashfeenahmed/freellmapi",
    "owner": "tashfeenahmed",
    "owner_avatar": "https://avatars.githubusercontent.com/u/9307356?v=4",
-   "stars": 58316,
-   "forks": 8374,
-   "open_issues": 53,
+   "stars": 58328,
+   "forks": 8375,
+   "open_issues": 54,
    "language": "TypeScript",
    "license": "MIT",
    "pushed_at": "2026-11-25T09:30:27Z",
@@ -143,7 +143,7 @@
    "url": "https://github.com/QuantumNous/new-api",
    "owner": "QuantumNous",
    "owner_avatar": "https://avatars.githubusercontent.com/u/205075698?v=4",
-   "stars": 52526,
+   "stars": 52527,
    "forks": 12846,
    "open_issues": 1501,
    "language": "Go",
@@ -214,61 +214,18 @@
    "rank": 5
   },
   {
-   "name": "pangolin",
-   "full_name": "fosrl/pangolin",
-   "slug": "fosrl-pangolin",
-   "url": "https://github.com/fosrl/pangolin",
-   "owner": "fosrl",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/183037913?v=4",
-   "stars": 23988,
-   "forks": 865,
-   "open_issues": 139,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-11-25T14:53:02Z",
-   "created_at": "2024-09-27T02:16:47Z",
-   "description": "Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.",
-   "source_description": "Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.",
-   "description_review": {},
-   "topics": [
-    "ai-gateway",
-    "gateway",
-    "nat-traversal",
-    "oidc",
-    "pam",
-    "pangolin",
-    "remote-access",
-    "reverse-proxy",
-    "sase",
-    "self-hosted",
-    "single-sign-on",
-    "ssh",
-    "sso",
-    "tunneling",
-    "vpn",
-    "wireguard",
-    "wireguard-vpn",
-    "zero-trust",
-    "zero-trust-network-access",
-    "ztna"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 81,
-   "rank": 6
-  },
-  {
    "name": "opencodex",
    "full_name": "lidge-jun/opencodex",
    "slug": "lidge-jun-opencodex",
    "url": "https://github.com/lidge-jun/opencodex",
    "owner": "lidge-jun",
    "owner_avatar": "https://avatars.githubusercontent.com/u/243035832?v=4",
-   "stars": 18748,
-   "forks": 1542,
-   "open_issues": 98,
+   "stars": 18749,
+   "forks": 1543,
+   "open_issues": 100,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-11-25T20:39:15Z",
+   "pushed_at": "2026-11-25T21:22:11Z",
    "created_at": "2026-06-18T23:03:18Z",
    "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
    "source_description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
@@ -297,7 +254,7 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 79,
-   "rank": 7
+   "rank": 6
   },
   {
    "name": "apisix",
@@ -306,7 +263,7 @@
    "url": "https://github.com/apache/apisix",
    "owner": "apache",
    "owner_avatar": "https://avatars.githubusercontent.com/u/47359?v=4",
-   "stars": 17372,
+   "stars": 17373,
    "forks": 3018,
    "open_issues": 252,
    "language": "Lua",
@@ -343,7 +300,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 79,
-   "rank": 8
+   "rank": 7
   },
   {
    "name": "gateway",
@@ -352,7 +309,7 @@
    "url": "https://github.com/Portkey-AI/gateway",
    "owner": "Portkey-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131141116?v=4",
-   "stars": 13443,
+   "stars": 13444,
    "forks": 1395,
    "open_issues": 353,
    "language": "TypeScript",
@@ -381,7 +338,7 @@
    ],
    "category": "Routers",
    "momentum": 77,
-   "rank": 9
+   "rank": 8
   },
   {
    "name": "tyk",
@@ -424,7 +381,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 77,
-   "rank": 10
+   "rank": 9
   },
   {
    "name": "bifrost",
@@ -433,12 +390,12 @@
    "url": "https://github.com/maximhq/bifrost",
    "owner": "maximhq",
    "owner_avatar": "https://avatars.githubusercontent.com/u/139708451?v=4",
-   "stars": 10030,
+   "stars": 10033,
    "forks": 1652,
-   "open_issues": 1683,
+   "open_issues": 1674,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T21:06:14Z",
+   "pushed_at": "2026-11-25T21:56:12Z",
    "created_at": "2025-03-19T07:21:26Z",
    "description": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.",
    "source_description": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.",
@@ -467,7 +424,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 76,
-   "rank": 11
+   "rank": 10
   },
   {
    "name": "higress",
@@ -495,7 +452,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 76,
-   "rank": 12
+   "rank": 11
   },
   {
    "name": "AIClient2API",
@@ -526,7 +483,7 @@
    ],
    "category": "Routers",
    "momentum": 75,
-   "rank": 13
+   "rank": 12
   },
   {
    "name": "llm-gateway",
@@ -564,7 +521,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 75,
-   "rank": 14
+   "rank": 13
   },
   {
    "name": "gpt-load",
@@ -602,7 +559,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 75,
-   "rank": 15
+   "rank": 14
   },
   {
    "name": "Agent2API",
@@ -611,7 +568,7 @@
    "url": "https://github.com/aimod-cc/Agent2API",
    "owner": "aimod-cc",
    "owner_avatar": "https://avatars.githubusercontent.com/u/57995614?v=4",
-   "stars": 2738,
+   "stars": 2739,
    "forks": 750,
    "open_issues": 133,
    "language": "Rust",
@@ -634,7 +591,7 @@
    ],
    "category": "Routers",
    "momentum": 75,
-   "rank": 16
+   "rank": 15
   },
   {
    "name": "ClawRouter",
@@ -673,7 +630,7 @@
    ],
    "category": "Routers",
    "momentum": 74,
-   "rank": 17
+   "rank": 16
   },
   {
    "name": "semantic-router",
@@ -707,41 +664,7 @@
    ],
    "category": "Routers",
    "momentum": 74,
-   "rank": 18
-  },
-  {
-   "name": "agentgateway",
-   "full_name": "agentgateway/agentgateway",
-   "slug": "agentgateway-agentgateway",
-   "url": "https://github.com/agentgateway/agentgateway",
-   "owner": "agentgateway",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/208695296?v=4",
-   "stars": 6431,
-   "forks": 1133,
-   "open_issues": 369,
-   "language": "Rust",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T08:26:49Z",
-   "created_at": "2025-03-18T20:55:22Z",
-   "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
-   "source_description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
-   "description_review": {},
-   "topics": [
-    "agents",
-    "ai",
-    "ai-gateway",
-    "api-gateway",
-    "gateway-api",
-    "kubernetes",
-    "mcp",
-    "mcp-gateway",
-    "reverse-proxy",
-    "rust",
-    "service-mesh"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 74,
-   "rank": 19
+   "rank": 17
   },
   {
    "name": "kgateway",
@@ -752,7 +675,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/186092512?v=4",
    "stars": 5757,
    "forks": 843,
-   "open_issues": 223,
+   "open_issues": 224,
    "language": "Go",
    "license": "Apache-2.0",
    "pushed_at": "2026-11-24T18:55:19Z",
@@ -780,37 +703,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 74,
-   "rank": 20
-  },
-  {
-   "name": "router",
-   "full_name": "weave-os/router",
-   "slug": "weave-os-router",
-   "url": "https://github.com/weave-os/router",
-   "owner": "weave-os",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/174961884?v=4",
-   "stars": 5619,
-   "forks": 172,
-   "open_issues": 245,
-   "language": "Go",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T21:08:19Z",
-   "created_at": "2026-04-27T17:56:27Z",
-   "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-   "source_description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-   "description_review": {},
-   "topics": [
-    "agentic-coding",
-    "ai-gateway",
-    "anthropic",
-    "claude-code",
-    "codex",
-    "model-router",
-    "openai-compatible"
-   ],
-   "category": "Routers",
-   "momentum": 74,
-   "rank": 21
+   "rank": 18
   },
   {
    "name": "axonhub",
@@ -848,7 +741,7 @@
    ],
    "category": "Observability Gateways",
    "momentum": 73,
-   "rank": 22
+   "rank": 19
   },
   {
    "name": "mcp-context-forge",
@@ -891,7 +784,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 73,
-   "rank": 23
+   "rank": 20
   },
   {
    "name": "CPA-Manager-Plus",
@@ -902,10 +795,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/7602294?v=4",
    "stars": 4108,
    "forks": 467,
-   "open_issues": 60,
+   "open_issues": 61,
    "language": "Go",
    "license": "MIT",
-   "pushed_at": "2026-11-25T15:09:21Z",
+   "pushed_at": "2026-11-25T21:27:32Z",
    "created_at": "2026-05-17T09:41:43Z",
    "description": "A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.",
    "source_description": "A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.",
@@ -927,7 +820,7 @@
    ],
    "category": "Observability Gateways",
    "momentum": 72,
-   "rank": 24
+   "rank": 21
   },
   {
    "name": "codex-router",
@@ -955,7 +848,7 @@
    ],
    "category": "Routers",
    "momentum": 72,
-   "rank": 25
+   "rank": 22
   },
   {
    "name": "lean-ctx",
@@ -997,7 +890,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 72,
-   "rank": 26
+   "rank": 23
   },
   {
    "name": "respan-gateway",
@@ -1006,7 +899,7 @@
    "url": "https://github.com/respanai/respan-gateway",
    "owner": "respanai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127563612?v=4",
-   "stars": 1060,
+   "stars": 1061,
    "forks": 164,
    "open_issues": 82,
    "language": "Rust",
@@ -1040,7 +933,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 72,
-   "rank": 27
+   "rank": 24
   },
   {
    "name": "EchoBird",
@@ -1054,7 +947,7 @@
    "open_issues": 400,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-11-25T19:45:25Z",
+   "pushed_at": "2026-11-25T21:45:32Z",
    "created_at": "2026-02-15T12:36:33Z",
    "description": "All-in-one AI desktop app: one-click install for Claude Code, Codex CLI, DeepSeek and more, manage AI accounts and quotas, smart model routing with auto-failover, voice input, and run local LLMs. Bonus: a Token Pet that grows as you use AI.",
    "source_description": "All-in-one AI desktop app: one-click install for Claude Code, Codex CLI, DeepSeek and more, manage AI accounts and quotas, smart model routing with auto-failover, voice input, and run local LLMs. Bonus: a Token Pet that grows as you use AI.",
@@ -1079,7 +972,7 @@
    ],
    "category": "Routers",
    "momentum": 71,
-   "rank": 28
+   "rank": 25
   },
   {
    "name": "OrcaRouter-Lite",
@@ -1088,7 +981,7 @@
    "url": "https://github.com/Continuum-AI-Corp/OrcaRouter-Lite",
    "owner": "Continuum-AI-Corp",
    "owner_avatar": "https://avatars.githubusercontent.com/u/273996259?v=4",
-   "stars": 3188,
+   "stars": 3189,
    "forks": 516,
    "open_issues": 53,
    "language": "Python",
@@ -1117,7 +1010,7 @@
    ],
    "category": "Routers",
    "momentum": 71,
-   "rank": 29
+   "rank": 26
   },
   {
    "name": "Fuxi",
@@ -1160,7 +1053,7 @@
    ],
    "category": "Routers",
    "momentum": 71,
-   "rank": 30
+   "rank": 27
   },
   {
    "name": "WindsurfAPI",
@@ -1203,7 +1096,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 71,
-   "rank": 31
+   "rank": 28
   },
   {
    "name": "FREELLM_INSTALL",
@@ -1225,7 +1118,7 @@
    "topics": [],
    "category": "Routers",
    "momentum": 71,
-   "rank": 32
+   "rank": 29
   },
   {
    "name": "supergateway",
@@ -1247,7 +1140,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 70,
-   "rank": 33
+   "rank": 30
   },
   {
    "name": "octopus",
@@ -1286,44 +1179,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 70,
-   "rank": 34
-  },
-  {
-   "name": "krakend-ce",
-   "full_name": "krakend/krakend-ce",
-   "slug": "krakend-krakend-ce",
-   "url": "https://github.com/krakend/krakend-ce",
-   "owner": "krakend",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/92540622?v=4",
-   "stars": 2706,
-   "forks": 504,
-   "open_issues": 40,
-   "language": "Go",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-11-24T17:29:59Z",
-   "created_at": "2017-12-03T16:29:18Z",
-   "description": "KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.",
-   "source_description": "KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.",
-   "description_review": {},
-   "topics": [
-    "ai-gateway",
-    "api-gateway",
-    "apis",
-    "async",
-    "backend-services",
-    "cloud-native",
-    "docker",
-    "go",
-    "golang",
-    "graphql",
-    "microservice",
-    "microservices",
-    "nats",
-    "reverse-proxy"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 70,
-   "rank": 35
+   "rank": 31
   },
   {
    "name": "agent-router",
@@ -1354,7 +1210,7 @@
    ],
    "category": "Routers",
    "momentum": 70,
-   "rank": 36
+   "rank": 32
   },
   {
    "name": "ThinkWatch-Lite",
@@ -1397,7 +1253,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 70,
-   "rank": 37
+   "rank": 33
   },
   {
    "name": "9routerx",
@@ -1440,7 +1296,7 @@
    ],
    "category": "Routers",
    "momentum": 70,
-   "rank": 38
+   "rank": 34
   },
   {
    "name": "plano",
@@ -1480,7 +1336,7 @@
    ],
    "category": "Routers",
    "momentum": 69,
-   "rank": 39
+   "rank": 35
   },
   {
    "name": "OpenCursor",
@@ -1511,7 +1367,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 69,
-   "rank": 40
+   "rank": 36
   },
   {
    "name": "qoder2api-hub",
@@ -1548,7 +1404,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 69,
-   "rank": 41
+   "rank": 37
   },
   {
    "name": "antirion",
@@ -1589,7 +1445,7 @@
    ],
    "category": "Observability Gateways",
    "momentum": 69,
-   "rank": 42
+   "rank": 38
   },
   {
    "name": "zilla",
@@ -1627,50 +1483,7 @@
    ],
    "category": "Observability Gateways",
    "momentum": 68,
-   "rank": 43
-  },
-  {
-   "name": "Uncensored-AI-API",
-   "full_name": "Anil-matcha/Uncensored-AI-API",
-   "slug": "anil-matcha-uncensored-ai-api",
-   "url": "https://github.com/Anil-matcha/Uncensored-AI-API",
-   "owner": "Anil-matcha",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/4326215?v=4",
-   "stars": 1489,
-   "forks": 325,
-   "open_issues": 0,
-   "language": "",
-   "license": "MIT",
-   "pushed_at": "2026-11-25T06:15:26Z",
-   "created_at": "2024-04-10T14:26:10Z",
-   "description": "Uncensored AI API guide for Muapi's abliterated LLMs: 21 endpoints, examples, model notes, pricing and integrations.",
-   "source_description": "Uncensored AI API guide for Muapi's abliterated LLMs: 21 endpoints, examples, model notes, pricing and integrations.",
-   "description_review": {},
-   "topics": [
-    "abliterated-models",
-    "ai-gateway",
-    "anthropic-compatible",
-    "claude-api",
-    "claude-code",
-    "deepseek-api",
-    "gemini-api",
-    "glm-api",
-    "gpt-api",
-    "grok-api",
-    "kimi-api",
-    "no-refusal-ai",
-    "openai-compatible",
-    "uncensored",
-    "uncensored-ai",
-    "uncensored-ai-api",
-    "uncensored-ai-model",
-    "uncensored-llm",
-    "uncensored-model",
-    "unfiltered-ai"
-   ],
-   "category": "Gateways & Proxies",
-   "momentum": 67,
-   "rank": 44
+   "rank": 39
   },
   {
    "name": "codex-proxy",
@@ -1692,7 +1505,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 66,
-   "rank": 45
+   "rank": 40
   },
   {
    "name": "openclaw-termux",
@@ -1723,34 +1536,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 66,
-   "rank": 46
-  },
-  {
-   "name": "TokenHub",
-   "full_name": "astaxie/TokenHub",
-   "slug": "astaxie-tokenhub",
-   "url": "https://github.com/astaxie/TokenHub",
-   "owner": "astaxie",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/233907?v=4",
-   "stars": 1453,
-   "forks": 202,
-   "open_issues": 73,
-   "language": "Go",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-11-20T14:13:40Z",
-   "created_at": "2026-06-10T15:32:07Z",
-   "description": "TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable.",
-   "source_description": "TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable.",
-   "description_review": {},
-   "topics": [
-    "ai",
-    "ai-gateway",
-    "enterprise",
-    "gateway"
-   ],
-   "category": "Self-Hosted Platforms",
-   "momentum": 66,
-   "rank": 47
+   "rank": 41
   },
   {
    "name": "paritok-4b-v1",
@@ -1782,7 +1568,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 66,
-   "rank": 48
+   "rank": 42
   },
   {
    "name": "GoModel",
@@ -1821,7 +1607,7 @@
    ],
    "category": "Routers",
    "momentum": 66,
-   "rank": 49
+   "rank": 43
   },
   {
    "name": "uni-api",
@@ -1852,7 +1638,7 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 66,
-   "rank": 50
+   "rank": 44
   },
   {
    "name": "moai-adk",
@@ -1866,7 +1652,7 @@
    "open_issues": 3,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T20:17:46Z",
+   "pushed_at": "2026-11-25T21:54:55Z",
    "created_at": "2025-09-16T13:07:11Z",
    "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
    "source_description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
@@ -1895,7 +1681,7 @@
    ],
    "category": "Routers",
    "momentum": 66,
-   "rank": 51
+   "rank": 45
   },
   {
    "name": "Free-LLM",
@@ -1938,7 +1724,7 @@
    ],
    "category": "Routers",
    "momentum": 66,
-   "rank": 52
+   "rank": 46
   },
   {
    "name": "CliRelay",
@@ -1973,7 +1759,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 65,
-   "rank": 53
+   "rank": 47
   },
   {
    "name": "gemini-web2api-go",
@@ -2016,50 +1802,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 65,
-   "rank": 54
-  },
-  {
-   "name": "AIHelms",
-   "full_name": "beizhu-1209/AIHelms",
-   "slug": "beizhu-1209-aihelms",
-   "url": "https://github.com/beizhu-1209/AIHelms",
-   "owner": "beizhu-1209",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/266707341?v=4",
-   "stars": 1040,
-   "forks": 109,
-   "open_issues": 5,
-   "language": "Python",
-   "license": "GPL-3.0",
-   "pushed_at": "2026-11-24T04:13:51Z",
-   "created_at": "2026-05-09T05:03:05Z",
-   "description": "企业级 AI 资源纳管平台，提供统一 AI网关、Token调度能力，纳管 OpenAI、Azure、Claude、DeepSeek 等主流模型，并支持 MCP 工具与 Skill 的集中注册分发。具备内外双轨定价、成本归因、统一身份认证、安全审计与效能报表，帮助企业精准控制成本、量化 ROI，高效治理 AI 资产。",
-   "source_description": "企业级 AI 资源纳管平台，提供统一 AI网关、Token调度能力，纳管 OpenAI、Azure、Claude、DeepSeek 等主流模型，并支持 MCP 工具与 Skill 的集中注册分发。具备内外双轨定价、成本归因、统一身份认证、安全审计与效能报表，帮助企业精准控制成本、量化 ROI，高效治理 AI 资产。",
-   "description_review": {},
-   "topics": [
-    "agent",
-    "ai-gateway",
-    "ai-management",
-    "ai-observability",
-    "aihub",
-    "claude",
-    "cost-control",
-    "deepseek",
-    "docker",
-    "enterprise-ai",
-    "fastapi",
-    "llm-governance",
-    "mcp",
-    "model-gateway",
-    "openai",
-    "skill-management",
-    "skillspector",
-    "token-hub",
-    "tokenhub",
-    "vue3"
-   ],
-   "category": "Self-Hosted Platforms",
-   "momentum": 65,
-   "rank": 55
+   "rank": 48
   },
   {
    "name": "otari",
@@ -2070,10 +1813,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/129804596?v=4",
    "stars": 965,
    "forks": 150,
-   "open_issues": 253,
+   "open_issues": 254,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T21:10:25Z",
+   "pushed_at": "2026-11-25T21:59:23Z",
    "created_at": "2026-04-02T09:42:10Z",
    "description": "Open-source AI gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.",
    "source_description": "Open-source AI gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.",
@@ -2101,7 +1844,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 65,
-   "rank": 56
+   "rank": 49
   },
   {
    "name": "gemini-stealth-bridge",
@@ -2133,7 +1876,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 65,
-   "rank": 57
+   "rank": 50
   },
   {
    "name": "zzz-api",
@@ -2173,7 +1916,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 64,
-   "rank": 58
+   "rank": 51
   },
   {
    "name": "ThinkWatch",
@@ -2216,7 +1959,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 64,
-   "rank": 59
+   "rank": 52
   },
   {
    "name": "smg",
@@ -2227,10 +1970,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/290860512?v=4",
    "stars": 744,
    "forks": 234,
-   "open_issues": 212,
+   "open_issues": 210,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T21:08:07Z",
+   "pushed_at": "2026-11-25T22:01:57Z",
    "created_at": "2025-11-22T05:17:14Z",
    "description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
    "source_description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
@@ -2256,7 +1999,7 @@
    ],
    "category": "Routers",
    "momentum": 64,
-   "rank": 60
+   "rank": 53
   },
   {
    "name": "oriveo",
@@ -2299,7 +2042,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 64,
-   "rank": 61
+   "rank": 54
   },
   {
    "name": "zen-gate",
@@ -2331,7 +2074,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 64,
-   "rank": 62
+   "rank": 55
   },
   {
    "name": "9router-pro",
@@ -2362,7 +2105,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 64,
-   "rank": 63
+   "rank": 56
   },
   {
    "name": "virtual-card-usdt-llm-router-gateway-arbitrage-finops",
@@ -2390,7 +2133,7 @@
    ],
    "category": "Routers",
    "momentum": 64,
-   "rank": 64
+   "rank": 57
   },
   {
    "name": "APIPark",
@@ -2427,7 +2170,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 63,
-   "rank": 65
+   "rank": 58
   },
   {
    "name": "SiftGate",
@@ -2470,7 +2213,7 @@
    ],
    "category": "Routers",
    "momentum": 63,
-   "rank": 66
+   "rank": 59
   },
   {
    "name": "Agora",
@@ -2492,7 +2235,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 63,
-   "rank": 67
+   "rank": 60
   },
   {
    "name": "casbin-gateway",
@@ -2535,7 +2278,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 63,
-   "rank": 68
+   "rank": 61
   },
   {
    "name": "dario",
@@ -2546,10 +2289,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/263217947?v=4",
    "stars": 596,
    "forks": 79,
-   "open_issues": 7,
+   "open_issues": 8,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-11-25T21:05:33Z",
+   "pushed_at": "2026-11-25T21:52:59Z",
    "created_at": "2026-04-08T16:08:01Z",
    "description": "One local endpoint that routes Claude Code, Cursor, Cline, Aider, Codex CLI and the SDKs through the Claude and ChatGPT plans you already pay for: seats first, then the fallback chain you configure, and a ledger of who paid. Zero runtime dependencies.",
    "source_description": "One local endpoint that routes Claude Code, Cursor, Cline, Aider, Codex CLI and the SDKs through the Claude and ChatGPT plans you already pay for: seats first, then the fallback chain you configure, and a ledger of who paid. Zero runtime dependencies.",
@@ -2578,7 +2321,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 63,
-   "rank": 69
+   "rank": 62
   },
   {
    "name": "NadirClaw",
@@ -2621,7 +2364,7 @@
    ],
    "category": "Routers",
    "momentum": 62,
-   "rank": 70
+   "rank": 63
   },
   {
    "name": "gateway",
@@ -2654,7 +2397,7 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 62,
-   "rank": 71
+   "rank": 64
   },
   {
    "name": "AutoMode",
@@ -2695,7 +2438,7 @@
    ],
    "category": "Routers",
    "momentum": 62,
-   "rank": 72
+   "rank": 65
   },
   {
    "name": "xhub",
@@ -2725,7 +2468,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 62,
-   "rank": 73
+   "rank": 66
   },
   {
    "name": "litellm-agent-control-plane",
@@ -2759,7 +2502,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 61,
-   "rank": 74
+   "rank": 67
   },
   {
    "name": "Lynkr",
@@ -2802,7 +2545,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 61,
-   "rank": 75
+   "rank": 68
   },
   {
    "name": "TokenRouter",
@@ -2824,7 +2567,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 61,
-   "rank": 76
+   "rank": 69
   },
   {
    "name": "ccLoad",
@@ -2867,7 +2610,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 61,
-   "rank": 77
+   "rank": 70
   },
   {
    "name": "redcell",
@@ -2906,7 +2649,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 60,
-   "rank": 78
+   "rank": 71
   },
   {
    "name": "kiro2cc-proxy",
@@ -2938,7 +2681,7 @@
    ],
    "category": "Caching & Cost",
    "momentum": 60,
-   "rank": 79
+   "rank": 72
   },
   {
    "name": "olla",
@@ -2981,7 +2724,7 @@
    ],
    "category": "Routers",
    "momentum": 60,
-   "rank": 80
+   "rank": 73
   },
   {
    "name": "gproxy",
@@ -3008,7 +2751,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 60,
-   "rank": 81
+   "rank": 74
   },
   {
    "name": "clauderipple",
@@ -3051,7 +2794,7 @@
    ],
    "category": "Caching & Cost",
    "momentum": 60,
-   "rank": 82
+   "rank": 75
   },
   {
    "name": "rightsize",
@@ -3094,7 +2837,7 @@
    ],
    "category": "Routers",
    "momentum": 60,
-   "rank": 83
+   "rank": 76
   },
   {
    "name": "1flowbase",
@@ -3108,7 +2851,7 @@
    "open_issues": 26,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T20:51:28Z",
+   "pushed_at": "2026-11-25T22:02:01Z",
    "created_at": "2026-03-09T07:08:29Z",
    "description": "Build for agents — from the AI Gateway to the entire application stack.",
    "source_description": "Build for agents — from the AI Gateway to the entire application stack.",
@@ -3137,7 +2880,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 59,
-   "rank": 84
+   "rank": 77
   },
   {
    "name": "free-ai-models",
@@ -3179,7 +2922,7 @@
    ],
    "category": "Collections",
    "momentum": 59,
-   "rank": 85
+   "rank": 78
   },
   {
    "name": "aimux",
@@ -3188,7 +2931,7 @@
    "url": "https://github.com/arcships/aimux",
    "owner": "arcships",
    "owner_avatar": "https://avatars.githubusercontent.com/u/272712626?v=4",
-   "stars": 265,
+   "stars": 266,
    "forks": 20,
    "open_issues": 32,
    "language": "Rust",
@@ -3216,7 +2959,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 59,
-   "rank": 86
+   "rank": 79
   },
   {
    "name": "Serein",
@@ -3244,7 +2987,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 59,
-   "rank": 87
+   "rank": 80
   },
   {
    "name": "PandaOrchestrator",
@@ -3266,7 +3009,7 @@
    "topics": [],
    "category": "Routers",
    "momentum": 59,
-   "rank": 88
+   "rank": 81
   },
   {
    "name": "trirouter",
@@ -3297,7 +3040,7 @@
    ],
    "category": "Routers",
    "momentum": 59,
-   "rank": 89
+   "rank": 82
   },
   {
    "name": "Lamp-Guide",
@@ -3326,7 +3069,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 59,
-   "rank": 90
+   "rank": 83
   },
   {
    "name": "LLM-API-Key-Proxy",
@@ -3354,7 +3097,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 91
+   "rank": 84
   },
   {
    "name": "ai-gateway",
@@ -3393,7 +3136,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 92
+   "rank": 85
   },
   {
    "name": "bitrouter",
@@ -3436,7 +3179,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 93
+   "rank": 86
   },
   {
    "name": "aisix",
@@ -3479,7 +3222,7 @@
    ],
    "category": "Routers",
    "momentum": 58,
-   "rank": 94
+   "rank": 87
   },
   {
    "name": "wyoming_openai",
@@ -3509,7 +3252,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 95
+   "rank": 88
   },
   {
    "name": "qoder-proxy",
@@ -3542,7 +3285,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 96
+   "rank": 89
   },
   {
    "name": "opencode-models-discovery",
@@ -3576,7 +3319,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 97
+   "rank": 90
   },
   {
    "name": "outsourcerer",
@@ -3590,7 +3333,7 @@
    "open_issues": 8,
    "language": "Shell",
    "license": "NOASSERTION",
-   "pushed_at": "2026-11-25T20:58:39Z",
+   "pushed_at": "2026-11-25T22:00:34Z",
    "created_at": "2026-07-10T19:49:49Z",
    "description": "Make your AI agents work as a team. You keep working in 1 session while it orchestrates models via your other subscriptions, local models and more. Run a Software Factory: long plans, proven steps, safe merges. Carries your setup, tracks every cost.",
    "source_description": "Make your AI agents work as a team. You keep working in 1 session while it orchestrates models via your other subscriptions, local models and more. Run a Software Factory: long plans, proven steps, safe merges. Carries your setup, tracks every cost.",
@@ -3619,7 +3362,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 58,
-   "rank": 98
+   "rank": 91
   },
   {
    "name": "agent-router",
@@ -3653,7 +3396,7 @@
    ],
    "category": "Routers",
    "momentum": 58,
-   "rank": 99
+   "rank": 92
   },
   {
    "name": "model-relay",
@@ -3683,7 +3426,7 @@
    ],
    "category": "Routers",
    "momentum": 58,
-   "rank": 100
+   "rank": 93
   },
   {
    "name": "guidance-for-multi-provider-generative-ai-gateway-on-aws",
@@ -3705,7 +3448,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 57,
-   "rank": 101
+   "rank": 94
   },
   {
    "name": "busbar",
@@ -3747,7 +3490,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 57,
-   "rank": 102
+   "rank": 95
   },
   {
    "name": "m365-copilot-proxy",
@@ -3778,7 +3521,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 57,
-   "rank": 103
+   "rank": 96
   },
   {
    "name": "zen-proxy",
@@ -3817,7 +3560,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 57,
-   "rank": 104
+   "rank": 97
   },
   {
    "name": "claude-router",
@@ -3853,7 +3596,7 @@
    ],
    "category": "Routers",
    "momentum": 57,
-   "rank": 105
+   "rank": 98
   },
   {
    "name": "AgnesAI-Models",
@@ -3880,7 +3623,7 @@
    ],
    "category": "Collections",
    "momentum": 56,
-   "rank": 106
+   "rank": 99
   },
   {
    "name": "yolorouter",
@@ -3913,7 +3656,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 56,
-   "rank": 107
+   "rank": 100
   },
   {
    "name": "Deepseek-API",
@@ -3922,7 +3665,7 @@
    "url": "https://github.com/sums001/Deepseek-API",
    "owner": "sums001",
    "owner_avatar": "https://avatars.githubusercontent.com/u/44167398?v=4",
-   "stars": 386,
+   "stars": 387,
    "forks": 99,
    "open_issues": 3,
    "language": "Python",
@@ -3947,7 +3690,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 56,
-   "rank": 108
+   "rank": 101
   },
   {
    "name": "llm-router",
@@ -3971,7 +3714,7 @@
    ],
    "category": "Routers",
    "momentum": 56,
-   "rank": 109
+   "rank": 102
   },
   {
    "name": "antigravity-add-model",
@@ -3982,7 +3725,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/110431024?v=4",
    "stars": 225,
    "forks": 56,
-   "open_issues": 9,
+   "open_issues": 10,
    "language": "TypeScript",
    "license": "Apache-2.0",
    "pushed_at": "2026-11-11T19:07:32Z",
@@ -4013,7 +3756,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 56,
-   "rank": 110
+   "rank": 103
   },
   {
    "name": "self-hosted-ai-stack",
@@ -4056,7 +3799,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 56,
-   "rank": 111
+   "rank": 104
   },
   {
    "name": "lm-proxy",
@@ -4095,7 +3838,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 56,
-   "rank": 112
+   "rank": 105
   },
   {
    "name": "llamactl",
@@ -4131,7 +3874,7 @@
    ],
    "category": "Routers",
    "momentum": 56,
-   "rank": 113
+   "rank": 106
   },
   {
    "name": "sugt",
@@ -4167,7 +3910,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 56,
-   "rank": 114
+   "rank": 107
   },
   {
    "name": "Clipal",
@@ -4201,7 +3944,7 @@
    ],
    "category": "Routers",
    "momentum": 56,
-   "rank": 115
+   "rank": 108
   },
   {
    "name": "apowerb",
@@ -4241,7 +3984,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 56,
-   "rank": 116
+   "rank": 109
   },
   {
    "name": "voidllm",
@@ -4284,7 +4027,7 @@
    ],
    "category": "Routers",
    "momentum": 56,
-   "rank": 117
+   "rank": 110
   },
   {
    "name": "gpt2giga",
@@ -4317,7 +4060,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 56,
-   "rank": 118
+   "rank": 111
   },
   {
    "name": "system-one",
@@ -4351,7 +4094,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 56,
-   "rank": 119
+   "rank": 112
   },
   {
    "name": "llmio",
@@ -4392,7 +4135,7 @@
    ],
    "category": "Observability Gateways",
    "momentum": 55,
-   "rank": 120
+   "rank": 113
   },
   {
    "name": "freellmpool",
@@ -4435,7 +4178,7 @@
    ],
    "category": "Collections",
    "momentum": 55,
-   "rank": 121
+   "rank": 114
   },
   {
    "name": "llm-router",
@@ -4446,10 +4189,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/95884133?v=4",
    "stars": 130,
    "forks": 17,
-   "open_issues": 10,
+   "open_issues": 8,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-11-25T21:09:44Z",
+   "pushed_at": "2026-11-25T21:59:29Z",
    "created_at": "2026-03-28T21:49:28Z",
    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cuts costs 35-80%.",
    "source_description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cuts costs 35-80%.",
@@ -4471,7 +4214,7 @@
    ],
    "category": "Routers",
    "momentum": 55,
-   "rank": 122
+   "rank": 115
   },
   {
    "name": "nexus-llm-router",
@@ -4514,7 +4257,7 @@
    ],
    "category": "Routers",
    "momentum": 55,
-   "rank": 123
+   "rank": 116
   },
   {
    "name": "aistupidmeter-web",
@@ -4548,7 +4291,7 @@
    ],
    "category": "Routers",
    "momentum": 55,
-   "rank": 124
+   "rank": 117
   },
   {
    "name": "tokenbank",
@@ -4591,7 +4334,7 @@
    ],
    "category": "Routers",
    "momentum": 55,
-   "rank": 125
+   "rank": 118
   },
   {
    "name": "llm-gateway",
@@ -4634,7 +4377,7 @@
    ],
    "category": "Routers",
    "momentum": 55,
-   "rank": 126
+   "rank": 119
   },
   {
    "name": "litellm-rs",
@@ -4672,7 +4415,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 54,
-   "rank": 127
+   "rank": 120
   },
   {
    "name": "pi",
@@ -4710,7 +4453,7 @@
    ],
    "category": "Collections",
    "momentum": 54,
-   "rank": 128
+   "rank": 121
   },
   {
    "name": "Synapass",
@@ -4743,7 +4486,7 @@
    ],
    "category": "Routers",
    "momentum": 54,
-   "rank": 129
+   "rank": 122
   },
   {
    "name": "FreeDeepseekAPI",
@@ -4775,7 +4518,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 53,
-   "rank": 130
+   "rank": 123
   },
   {
    "name": "chatgpt-route-inspector",
@@ -4808,7 +4551,7 @@
    ],
    "category": "Routers",
    "momentum": 53,
-   "rank": 131
+   "rank": 124
   },
   {
    "name": "tuxevil-rotator",
@@ -4845,7 +4588,7 @@
    ],
    "category": "Routers",
    "momentum": 53,
-   "rank": 132
+   "rank": 125
   },
   {
    "name": "loxilb-inference-gateway",
@@ -4878,7 +4621,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 53,
-   "rank": 133
+   "rank": 126
   },
   {
    "name": "loreweaver",
@@ -4900,7 +4643,7 @@
    "topics": [],
    "category": "Self-Hosted Platforms",
    "momentum": 53,
-   "rank": 134
+   "rank": 127
   },
   {
    "name": "Routerly",
@@ -4934,7 +4677,7 @@
    ],
    "category": "Routers",
    "momentum": 52,
-   "rank": 135
+   "rank": 128
   },
   {
    "name": "litemaas",
@@ -4956,7 +4699,7 @@
    "topics": [],
    "category": "Caching & Cost",
    "momentum": 52,
-   "rank": 136
+   "rank": 129
   },
   {
    "name": "PrivAiTe",
@@ -4999,7 +4742,7 @@
    ],
    "category": "Observability Gateways",
    "momentum": 52,
-   "rank": 137
+   "rank": 130
   },
   {
    "name": "Godot_AI",
@@ -5032,7 +4775,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 52,
-   "rank": 138
+   "rank": 131
   },
   {
    "name": "auto_ai_router",
@@ -5072,7 +4815,7 @@
    ],
    "category": "Routers",
    "momentum": 52,
-   "rank": 139
+   "rank": 132
   },
   {
    "name": "one-api",
@@ -5081,7 +4824,7 @@
    "url": "https://github.com/songquanpeng/one-api",
    "owner": "songquanpeng",
    "owner_avatar": "https://avatars.githubusercontent.com/u/39998050?v=4",
-   "stars": 37479,
+   "stars": 37480,
    "forks": 6885,
    "open_issues": 1041,
    "language": "JavaScript",
@@ -5106,7 +4849,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 51,
-   "rank": 140
+   "rank": 133
   },
   {
    "name": "bedrock-access-gateway",
@@ -5135,7 +4878,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 51,
-   "rank": 141
+   "rank": 134
   },
   {
    "name": "AegisGate",
@@ -5173,7 +4916,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 51,
-   "rank": 142
+   "rank": 135
   },
   {
    "name": "samsar",
@@ -5201,7 +4944,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 51,
-   "rank": 143
+   "rank": 136
   },
   {
    "name": "cline-pass-switcher",
@@ -5234,7 +4977,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 50,
-   "rank": 144
+   "rank": 137
   },
   {
    "name": "nyro",
@@ -5267,7 +5010,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 50,
-   "rank": 145
+   "rank": 138
   },
   {
    "name": "chak-ai",
@@ -5289,7 +5032,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 50,
-   "rank": 146
+   "rank": 139
   },
   {
    "name": "fable-foreman",
@@ -5319,7 +5062,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 50,
-   "rank": 147
+   "rank": 140
   },
   {
    "name": "GLM-Free-API",
@@ -5341,7 +5084,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 50,
-   "rank": 148
+   "rank": 141
   },
   {
    "name": "tamga",
@@ -5383,7 +5126,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 50,
-   "rank": 149
+   "rank": 142
   },
   {
    "name": "go-llm-proxy",
@@ -5421,7 +5164,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 50,
-   "rank": 150
+   "rank": 143
   },
   {
    "name": "unified-ai-api",
@@ -5455,7 +5198,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 49,
-   "rank": 151
+   "rank": 144
   },
   {
    "name": "proxy",
@@ -5487,7 +5230,7 @@
    ],
    "category": "Caching & Cost",
    "momentum": 48,
-   "rank": 152
+   "rank": 145
   },
   {
    "name": "OmniKey-AI-Unified-Key-Manager",
@@ -5525,7 +5268,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 48,
-   "rank": 153
+   "rank": 146
   },
   {
    "name": "tensorzero",
@@ -5568,7 +5311,7 @@
    ],
    "category": "Observability Gateways",
    "momentum": 47,
-   "rank": 154
+   "rank": 147
   },
   {
    "name": "tiygate",
@@ -5603,7 +5346,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 47,
-   "rank": 155
+   "rank": 148
   },
   {
    "name": "graybox",
@@ -5645,7 +5388,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 46,
-   "rank": 156
+   "rank": 149
   },
   {
    "name": "moe-l2",
@@ -5675,7 +5418,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 46,
-   "rank": 157
+   "rank": 150
   },
   {
    "name": "multi-llm-ts",
@@ -5704,7 +5447,7 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 46,
-   "rank": 158
+   "rank": 151
   },
   {
    "name": "coai",
@@ -5738,7 +5481,7 @@
    ],
    "category": "Routers",
    "momentum": 44,
-   "rank": 159
+   "rank": 152
   },
   {
    "name": "prompt-cache",
@@ -5777,7 +5520,7 @@
    ],
    "category": "Caching & Cost",
    "momentum": 44,
-   "rank": 160
+   "rank": 153
   },
   {
    "name": "trinity_coordinator",
@@ -5786,7 +5529,7 @@
    "url": "https://github.com/nshkrdotcom/trinity_coordinator",
    "owner": "nshkrdotcom",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127063941?v=4",
-   "stars": 78,
+   "stars": 79,
    "forks": 17,
    "open_issues": 3,
    "language": "Elixir",
@@ -5820,7 +5563,7 @@
    ],
    "category": "Routers",
    "momentum": 43,
-   "rank": 161
+   "rank": 154
   },
   {
    "name": "RouteLLM",
@@ -5842,7 +5585,7 @@
    "topics": [],
    "category": "Routers",
    "momentum": 42,
-   "rank": 162
+   "rank": 155
   },
   {
    "name": "NyaProxy",
@@ -5875,7 +5618,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 42,
-   "rank": 163
+   "rank": 156
   },
   {
    "name": "setup-gateway",
@@ -5908,7 +5651,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 42,
-   "rank": 164
+   "rank": 157
   },
   {
    "name": "composer-api",
@@ -5930,7 +5673,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 42,
-   "rank": 165
+   "rank": 158
   },
   {
    "name": "ccproxy",
@@ -5973,7 +5716,7 @@
    ],
    "category": "Routers",
    "momentum": 41,
-   "rank": 166
+   "rank": 159
   },
   {
    "name": "qwengate",
@@ -6011,7 +5754,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 41,
-   "rank": 167
+   "rank": 160
   },
   {
    "name": "opencode-fusion",
@@ -6046,7 +5789,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 41,
-   "rank": 168
+   "rank": 161
   },
   {
    "name": "openai-gemini",
@@ -6075,7 +5818,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 40,
-   "rank": 169
+   "rank": 162
   },
   {
    "name": "claude-model-router-hook",
@@ -6118,7 +5861,7 @@
    ],
    "category": "Routers",
    "momentum": 40,
-   "rank": 170
+   "rank": 163
   },
   {
    "name": "claude-code-proxy",
@@ -6140,7 +5883,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 38,
-   "rank": 171
+   "rank": 164
   },
   {
    "name": "syda",
@@ -6175,7 +5918,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 38,
-   "rank": 172
+   "rank": 165
   },
   {
    "name": "qwen2api",
@@ -6197,7 +5940,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 38,
-   "rank": 173
+   "rank": 166
   },
   {
    "name": "modelpointer",
@@ -6219,7 +5962,7 @@
    "topics": [],
    "category": "Routers",
    "momentum": 38,
-   "rank": 174
+   "rank": 167
   },
   {
    "name": "UncommonRoute",
@@ -6250,7 +5993,7 @@
    ],
    "category": "Routers",
    "momentum": 37,
-   "rank": 175
+   "rank": 168
   },
   {
    "name": "auth2api",
@@ -6272,7 +6015,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 37,
-   "rank": 176
+   "rank": 169
   },
   {
    "name": "Misceo",
@@ -6304,7 +6047,7 @@
    ],
    "category": "Routers",
    "momentum": 37,
-   "rank": 177
+   "rank": 170
   },
   {
    "name": "openai-api-proxy",
@@ -6330,7 +6073,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 36,
-   "rank": 178
+   "rank": 171
   },
   {
    "name": "claude-code-gpt-5-codex",
@@ -6370,7 +6113,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 36,
-   "rank": 179
+   "rank": 172
   },
   {
    "name": "hub",
@@ -6404,7 +6147,7 @@
    ],
    "category": "Observability Gateways",
    "momentum": 35,
-   "rank": 180
+   "rank": 173
   },
   {
    "name": "Gozar",
@@ -6447,7 +6190,7 @@
    ],
    "category": "Routers",
    "momentum": 35,
-   "rank": 181
+   "rank": 174
   },
   {
    "name": "tinyrouter",
@@ -6469,7 +6212,7 @@
    "topics": [],
    "category": "Routers",
    "momentum": 34,
-   "rank": 182
+   "rank": 175
   },
   {
    "name": "GoRightLLM",
@@ -6491,7 +6234,7 @@
    "topics": [],
    "category": "Routers",
    "momentum": 34,
-   "rank": 183
+   "rank": 176
   },
   {
    "name": "openai-forward",
@@ -6521,7 +6264,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 33,
-   "rank": 184
+   "rank": 177
   },
   {
    "name": "codex-model-routing-team",
@@ -6552,7 +6295,7 @@
    ],
    "category": "Routers",
    "momentum": 33,
-   "rank": 185
+   "rank": 178
   },
   {
    "name": "phoenix",
@@ -6587,7 +6330,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 33,
-   "rank": 186
+   "rank": 179
   },
   {
    "name": "intense-rp-next",
@@ -6626,7 +6369,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 32,
-   "rank": 187
+   "rank": 180
   },
   {
    "name": "dot-loom",
@@ -6660,7 +6403,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 32,
-   "rank": 188
+   "rank": 181
   },
   {
    "name": "openacme",
@@ -6703,7 +6446,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 32,
-   "rank": 189
+   "rank": 182
   },
   {
    "name": "millwright",
@@ -6737,7 +6480,7 @@
    ],
    "category": "Routers",
    "momentum": 32,
-   "rank": 190
+   "rank": 183
   },
   {
    "name": "cursor-deepseek",
@@ -6763,7 +6506,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 31,
-   "rank": 191
+   "rank": 184
   },
   {
    "name": "not-fade-away",
@@ -6796,7 +6539,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 31,
-   "rank": 192
+   "rank": 185
   },
   {
    "name": "privacy-filter",
@@ -6831,7 +6574,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 30,
-   "rank": 193
+   "rank": 186
   },
   {
    "name": "aurora",
@@ -6871,7 +6614,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 30,
-   "rank": 194
+   "rank": 187
   },
   {
    "name": "gemini-for-claude-code",
@@ -6900,7 +6643,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 28,
-   "rank": 195
+   "rank": 188
   },
   {
    "name": "openai-cloudflare",
@@ -6922,7 +6665,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 28,
-   "rank": 196
+   "rank": 189
   },
   {
    "name": "adk-ts",
@@ -6949,7 +6692,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 28,
-   "rank": 197
+   "rank": 190
   },
   {
    "name": "infermux",
@@ -6992,7 +6735,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 28,
-   "rank": 198
+   "rank": 191
   },
   {
    "name": "OpenVitamin",
@@ -7034,7 +6777,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 28,
-   "rank": 199
+   "rank": 192
   },
   {
    "name": "raycast-ai-openrouter-proxy",
@@ -7063,7 +6806,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 27,
-   "rank": 200
+   "rank": 193
   },
   {
    "name": "claude-code-nexus",
@@ -7092,7 +6835,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 27,
-   "rank": 201
+   "rank": 194
   },
   {
    "name": "cnllm",
@@ -7135,7 +6878,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 27,
-   "rank": 202
+   "rank": 195
   },
   {
    "name": "maestro",
@@ -7174,7 +6917,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 27,
-   "rank": 203
+   "rank": 196
   },
   {
    "name": "OctoClaw",
@@ -7207,7 +6950,7 @@
    ],
    "category": "Routers",
    "momentum": 26,
-   "rank": 204
+   "rank": 197
   },
   {
    "name": "AIRouter",
@@ -7229,7 +6972,7 @@
    "topics": [],
    "category": "Routers",
    "momentum": 25,
-   "rank": 205
+   "rank": 198
   },
   {
    "name": "aigne-hub",
@@ -7257,7 +7000,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 25,
-   "rank": 206
+   "rank": 199
   },
   {
    "name": "gateway",
@@ -7289,7 +7032,7 @@
    ],
    "category": "Self-Hosted Platforms",
    "momentum": 25,
-   "rank": 207
+   "rank": 200
   },
   {
    "name": "llm-api",
@@ -7322,7 +7065,7 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 25,
-   "rank": 208
+   "rank": 201
   },
   {
    "name": "SmarterRouter",
@@ -7361,7 +7104,7 @@
    ],
    "category": "Routers",
    "momentum": 25,
-   "rank": 209
+   "rank": 202
   },
   {
    "name": "gemini-cli-proxy",
@@ -7383,7 +7126,7 @@
    "topics": [],
    "category": "Gateways & Proxies",
    "momentum": 24,
-   "rank": 210
+   "rank": 203
   },
   {
    "name": "openaiee",
@@ -7408,7 +7151,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 23,
-   "rank": 211
+   "rank": 204
   },
   {
    "name": "openapis",
@@ -7451,7 +7194,7 @@
    ],
    "category": "Multi-Provider SDKs",
    "momentum": 23,
-   "rank": 212
+   "rank": 205
   },
   {
    "name": "qiaomu-llm-mcp",
@@ -7484,7 +7227,7 @@
    ],
    "category": "Routers",
    "momentum": 22,
-   "rank": 213
+   "rank": 206
   },
   {
    "name": "ModelGate-Hackathon",
@@ -7526,7 +7269,7 @@
    ],
    "category": "Routers",
    "momentum": 19,
-   "rank": 214
+   "rank": 207
   },
   {
    "name": "CoT-at-Home",
@@ -7554,7 +7297,7 @@
    ],
    "category": "Gateways & Proxies",
    "momentum": 18,
-   "rank": 215
+   "rank": 208
   }
  ]
 }
