@@ -790,6 +790,291 @@
           "title": "Saved 6 November catalog snapshot containing this entry"
         }
       ]
+    },
+    {
+      "slug": "aj-archipelago-cortex",
+      "entity": "aj-archipelago/cortex",
+      "canonical_url": "https://gateway.kymatalabs.com/p/aj-archipelago-cortex/",
+      "repository": "https://github.com/aj-archipelago/cortex",
+      "summary": "Publisher description of aj-archipelago/cortex: Open-source AI backend control plane for model routing, agent tools, OpenAI-compatible APIs, and private workspaces. The saved 2026-11-07 catalog classified it under Routers.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Routers work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/aj-archipelago/cortex/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "90c63030a922c789b7c51891390eb8c2eb38b50e3e978741edeeaa4027613ed5",
+          "blob_sha": "e385d12cef2c205ebda96d11cff71311589ae425"
+        }
+      ],
+      "evidence_sha256": "90c63030a922c789b7c51891390eb8c2eb38b50e3e978741edeeaa4027613ed5"
+    },
+    {
+      "slug": "aley3567-agent-hub",
+      "entity": "Aley3567/Agent-Hub",
+      "canonical_url": "https://gateway.kymatalabs.com/p/aley3567-agent-hub/",
+      "repository": "https://github.com/Aley3567/Agent-Hub",
+      "summary": "Publisher description of Aley3567/Agent-Hub: Local runtime for Claude Code and Codex, provider management, isolated sessions, routing and protocol translation. The saved 2026-11-07 catalog classified it under Routers.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Routers work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Aley3567/Agent-Hub/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "13f5a903b99a8bbd4d5b3b0e6caabddba31df25d53f2b8afde1f3bc1301fc9bb",
+          "blob_sha": "7ec2ade79f17a32291d294556b91fe37a3f45717"
+        }
+      ],
+      "evidence_sha256": "13f5a903b99a8bbd4d5b3b0e6caabddba31df25d53f2b8afde1f3bc1301fc9bb"
+    },
+    {
+      "slug": "apimart002w-ai-api-proxy-sdk-python",
+      "entity": "apimart002w/ai-api-proxy-sdk-python",
+      "canonical_url": "https://gateway.kymatalabs.com/p/apimart002w-ai-api-proxy-sdk-python/",
+      "repository": "https://github.com/apimart002w/ai-api-proxy-sdk-python",
+      "summary": "Publisher description of apimart002w/ai-api-proxy-sdk-python: AI API proxy SDK for Python: retry with idempotency keys, rate-limit backoff, task polling, cost accounting and typed errors for OpenAI-compatible AI API gateways. The saved 2026-11-07 catalog classified it under Gateways & Proxies.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Gateways & Proxies work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/apimart002w/ai-api-proxy-sdk-python/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "9ae1f90cf01d20aed797696a7dea9e7d9cf45f2fb41d16d46bdc1d5df1dbcee1",
+          "blob_sha": "1a57325c9212cd0bc50024c7225deca14d107b58"
+        }
+      ],
+      "evidence_sha256": "9ae1f90cf01d20aed797696a7dea9e7d9cf45f2fb41d16d46bdc1d5df1dbcee1"
+    },
+    {
+      "slug": "baiibayu-srouter",
+      "entity": "baiibayu/srouter",
+      "canonical_url": "https://gateway.kymatalabs.com/p/baiibayu-srouter/",
+      "repository": "https://github.com/baiibayu/srouter",
+      "summary": "Publisher description of baiibayu/srouter: Never hit rate limits again. One OpenAI-compatible endpoint for 60+ providers & 1,200+ models, smart auto-fallback, prompt compression, 60-language dashboard. Plug into Claude Code, Cursor, Codex & more. Free, open-source, self-hosted. The saved 2026-11-07 catalog classified it under Gateways & Proxies.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Gateways & Proxies work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/baiibayu/srouter/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "d870a1af8eb1d592613f8b8c6c954f4bed2bbc3f4ea996ce6f93a98b13649dfe",
+          "blob_sha": "96e97026df1949915ee5e0f6163944d83a8bf505"
+        }
+      ],
+      "evidence_sha256": "d870a1af8eb1d592613f8b8c6c954f4bed2bbc3f4ea996ce6f93a98b13649dfe"
+    },
+    {
+      "slug": "gotempsh-temps",
+      "entity": "gotempsh/temps",
+      "canonical_url": "https://gateway.kymatalabs.com/p/gotempsh-temps/",
+      "repository": "https://github.com/gotempsh/temps",
+      "summary": "Publisher description of gotempsh/temps: AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCode, deployments, analytics, session replay, error tracking, OpenTelemetry, email, sandboxes & AI gateway in one self-hosted Rust binary. The saved 2026-11-07 catalog classified it under Observability Gateways.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Observability Gateways work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/gotempsh/temps/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "0dd620b7cfc8d1b8c4b391fb99476eb376962123bea5eb77600ef39af65e840e",
+          "blob_sha": "85e5bcb9005dddc51a075545cf9e4a227d19d6ef"
+        }
+      ],
+      "evidence_sha256": "0dd620b7cfc8d1b8c4b391fb99476eb376962123bea5eb77600ef39af65e840e"
+    },
+    {
+      "slug": "higress-group-hiroute",
+      "entity": "higress-group/HiRoute",
+      "canonical_url": "https://gateway.kymatalabs.com/p/higress-group-hiroute/",
+      "repository": "https://github.com/higress-group/HiRoute",
+      "summary": "Publisher description of higress-group/HiRoute: Make Codex and Claude Code subscriptions go further: a local model router that gives routine agent work to economical models and keeps your strongest model for the hard parts. The saved 2026-11-07 catalog classified it under Routers.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Routers work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/higress-group/HiRoute/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "99df20cd0865537de79b3b5ec434a9cc3ada8b0e6ca81411c2d0f438860f7fb3",
+          "blob_sha": "a4b631489d48ec912f003201a987da6cbebc1ae8"
+        }
+      ],
+      "evidence_sha256": "99df20cd0865537de79b3b5ec434a9cc3ada8b0e6ca81411c2d0f438860f7fb3"
+    },
+    {
+      "slug": "megeezy-chameleon",
+      "entity": "megeezy/Chameleon",
+      "canonical_url": "https://gateway.kymatalabs.com/p/megeezy-chameleon/",
+      "repository": "https://github.com/megeezy/Chameleon",
+      "summary": "Publisher description of megeezy/Chameleon: Stateless LLM runtime that dynamically routes, loads, executes, and unloads models per request with bounded VRAM caching and intelligent model selection. The saved 2026-11-07 catalog classified it under Routers.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Routers work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/megeezy/Chameleon/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "3fa92d37d19895c1cdf1eceab688ec5308b52366bbc7692b261b96b2dbad657f",
+          "blob_sha": "0aaae5beccd24024507c8aa0be45186b7dd00c25"
+        }
+      ],
+      "evidence_sha256": "3fa92d37d19895c1cdf1eceab688ec5308b52366bbc7692b261b96b2dbad657f"
+    },
+    {
+      "slug": "mylxsw-llm-gateway",
+      "entity": "mylxsw/llm-gateway",
+      "canonical_url": "https://gateway.kymatalabs.com/p/mylxsw-llm-gateway/",
+      "repository": "https://github.com/mylxsw/llm-gateway",
+      "summary": "Publisher description of mylxsw/llm-gateway: Squirrel LLM Gateway is a high-performance, enterprise-grade proxy service designed to unify and manage access to Large Language Model (LLM) providers like OpenAI and Anthropic. It provides intelligent routing, robust failover strategies, comprehensive logging, and a modern management dashboard. The saved 2026-11-07 catalog classified it under Routers.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Routers work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/mylxsw/llm-gateway/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "6ebe0977761bc6fd4cacd778a080ebf79b9b33494079b73c606ac05a48b9426a",
+          "blob_sha": "6b492ee80adb1a796faad9088b5799564b7408d6"
+        }
+      ],
+      "evidence_sha256": "6ebe0977761bc6fd4cacd778a080ebf79b9b33494079b73c606ac05a48b9426a"
+    },
+    {
+      "slug": "slavabars-decision-cascade",
+      "entity": "slavabars/decision-cascade",
+      "canonical_url": "https://gateway.kymatalabs.com/p/slavabars-decision-cascade/",
+      "repository": "https://github.com/slavabars/decision-cascade",
+      "summary": "Publisher description of slavabars/decision-cascade: Local decision engine with typed, calibrated outputs (Noul/Choice/Score): cheap→strong cascade, ECE/Brier calibration, SystemOne protocol interop. Apache-2.0. The saved 2026-11-07 catalog classified it under Gateways & Proxies.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Gateways & Proxies work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/slavabars/decision-cascade/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "a49dd282d3febcf1f616de7b441f8c4a4f10e11cfb0999b31178c6e8ce4feb60",
+          "blob_sha": "d742f23207fbe990906ae03c64b3d4b83973ff0c"
+        }
+      ],
+      "evidence_sha256": "a49dd282d3febcf1f616de7b441f8c4a4f10e11cfb0999b31178c6e8ce4feb60"
+    },
+    {
+      "slug": "theopenco-llmgateway",
+      "entity": "theopenco/llmgateway",
+      "canonical_url": "https://gateway.kymatalabs.com/p/theopenco-llmgateway/",
+      "repository": "https://github.com/theopenco/llmgateway",
+      "summary": "Publisher description of theopenco/llmgateway: Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. The saved 2026-11-07 catalog classified it under Multi-Provider SDKs.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Multi-Provider SDKs work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/theopenco/llmgateway/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "ac5c0d02ba2fedca9731233ba1559b716c4440ce132fedbd6cd8143e2d5d371e",
+          "blob_sha": "854eb63ba353fba389149c51facc2eedd9aba819"
+        }
+      ],
+      "evidence_sha256": "ac5c0d02ba2fedca9731233ba1559b716c4440ce132fedbd6cd8143e2d5d371e"
+    },
+    {
+      "slug": "xorbitsai-xrouter-llm",
+      "entity": "xorbitsai/xrouter-llm",
+      "canonical_url": "https://gateway.kymatalabs.com/p/xorbitsai-xrouter-llm/",
+      "repository": "https://github.com/xorbitsai/xrouter-llm",
+      "summary": "Publisher description of xorbitsai/xrouter-llm: A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 53.2% lower cost and +1.9 pts completion on our tested dataset. The saved 2026-11-07 catalog classified it under Routers.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Routers work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/xorbitsai/xrouter-llm/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "3ce3dc9142952de021cda99e580041808484c467e2094e1d7bcc59c0469a44bc",
+          "blob_sha": "87fbc5d82c97ac6e044a2566fcd8dff79df2b48b"
+        }
+      ],
+      "evidence_sha256": "3ce3dc9142952de021cda99e580041808484c467e2094e1d7bcc59c0469a44bc"
+    },
+    {
+      "slug": "zxcloli666-ai-worker-proxy",
+      "entity": "zxcloli666/AI-Worker-Proxy",
+      "canonical_url": "https://gateway.kymatalabs.com/p/zxcloli666-ai-worker-proxy/",
+      "repository": "https://github.com/zxcloli666/AI-Worker-Proxy",
+      "summary": "Publisher description of zxcloli666/AI-Worker-Proxy: OpenAI-compatible AI proxy: Anthropic Claude, Google Gemini, GPT-6, Cloudflare AI. Free hosting, automatic failover, token rotation. Deploy in 1 minute. The saved 2026-11-07 catalog classified it under Gateways & Proxies.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Gateways & Proxies work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/zxcloli666/AI-Worker-Proxy/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "125e89ee368dfaa04dd78e6aa4373a6fdf38b99e994f6b0ed02c60418ce4260a",
+          "blob_sha": "601e76937a90a5268bc9f2b7652b4796ebe3761a"
+        }
+      ],
+      "evidence_sha256": "125e89ee368dfaa04dd78e6aa4373a6fdf38b99e994f6b0ed02c60418ce4260a"
+    },
+    {
+      "slug": "soapbucket-sbproxy",
+      "entity": "soapbucket/sbproxy",
+      "canonical_url": "https://gateway.kymatalabs.com/p/soapbucket-sbproxy/",
+      "repository": "https://github.com/soapbucket/sbproxy",
+      "summary": "The saved 2026-11-07 catalog classified soapbucket/sbproxy under Gateways & Proxies and recorded the publisher description: Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native providers behind an OpenAI-compatible API, or serve vLLM and llama.cpp on your own GPUs. Keys, budgets, guardrails, semantic cache, WAF. The publisher repository returned HTTP 404 on the GitHub API and web page during the 2026-11-25 check; that does not establish whether it was deleted, renamed without a redirect or made private.",
+      "selection_context": "Use this dated reference to trace the previously indexed project and its historical catalog classification; choose a currently available alternative from the ranked catalog.",
+      "limitations": "The publisher repository is currently unavailable, so this reference relies on an archived copy of its page from July 2026. Current documentation, installation, licensing and maintenance could not be verified. No current rank or momentum score is assigned, and no runtime test or benchmark is claimed.",
+      "last_catalog_snapshot": "2026-11-07T19:31:13.695027+00:00",
+      "reviewed_on": "2026-11-25",
+      "last_successful_source_commit": "fee513e5388890b038a69ab7fbe0a5412b3cac69",
+      "decision": "Preserve the existing published URL as a dated historical reference while the publisher source is unavailable.",
+      "primary_sources": [
+        {
+          "url": "https://web.archive.org/web/20260720182613/https://github.com/soapbucket/sbproxy",
+          "title": "Archived publisher repository page (Wayback Machine capture 2026-07-20)",
+          "evidence_sha256": "fb6136fbe0c13d5192d48727bc1a112f564f8df8ae603b15051a94b659b10f01"
+        }
+      ],
+      "evidence_sha256": "fb6136fbe0c13d5192d48727bc1a112f564f8df8ae603b15051a94b659b10f01"
     }
   ],
   "retirements": [],
