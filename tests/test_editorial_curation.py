@@ -61,4 +61,21 @@ class UnpublishedPromotionalCandidateTests(unittest.TestCase):
    url_lifecycle.render_retained(root);self.assertIn(canonical,url_lifecycle.urls(root));self.assertEqual(url_lifecycle.verify(root)['explicitly_retired'],[])
    self.assertTrue((root/'p/apimartn0e1fufu-api-router-sdk-node/index.html').exists())
 
+
+
+class November25PromotionalCandidateTests(unittest.TestCase):
+ def candidates(self):
+  return json.loads(pathlib.Path('tests/fixtures/unpublished-router-candidates-20261125.json').read_text())
+ def test_reviewed_november25_examples_are_excluded_before_population_check(self):
+  with patch.object(build_data,'QUERIES',['fixture']),patch.object(build_data,'search',return_value=self.candidates()),patch.object(build_data.time,'sleep'):
+   rows=build_data.build_items()
+  self.assertEqual(rows,[])
+  build_data.verify_description_population(rows)
+ def test_same_copy_from_unreviewed_publishers_still_blocks(self):
+  records=self.candidates()
+  for i,r in enumerate(records): r['full_name']=f'unknown-{i}/gateway'
+  with patch.object(build_data,'QUERIES',['fixture']),patch.object(build_data,'search',return_value=records),patch.object(build_data.time,'sleep'):
+   rows=build_data.build_items()
+  with self.assertRaisesRegex(ValueError,'requires source review'): build_data.verify_description_population(rows)
+
 if __name__=='__main__':unittest.main()

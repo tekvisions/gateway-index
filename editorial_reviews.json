@@ -232,5 +232,77 @@
     "decision": "reference_only",
     "reason": "Publisher documents promotional model API examples, not a distinct gateway implementation. Preserve the already published route through its dated retained reference.",
     "documented_model": "Nano Banana"
+  },
+  "apimartt2/unified-ai-playground": {
+    "reviewed_on": "2026-11-25",
+    "source": "https://github.com/apimartt2/unified-ai-playground/blob/1e2802ba2fa00e4c1ed875842290e5a7896bf152/README.md",
+    "source_revision": "1e2802ba2fa00e4c1ed875842290e5a7896bf152",
+    "source_sha256": "ba2621576da61180433d5f71bd29470981711ff8893b4e87f53a78d39ae0f51f",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. Its repository description repeats the same commercial pricing copy as seven other new APIMart repositories in the 2026-11-25 discovery run. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "MiniMax Hailuo 02"
+  },
+  "apimartuj99/unified-ai-api-benchmark": {
+    "reviewed_on": "2026-11-25",
+    "source": "https://github.com/apimartuj99/unified-ai-api-benchmark/blob/caa3ca675dc4570de25035a0a67118f374ddb274/README.md",
+    "source_revision": "caa3ca675dc4570de25035a0a67118f374ddb274",
+    "source_sha256": "8ec2d1360874ae3e57a379441d1093ef907300143c2da41b8ab2f3785abd5cf5",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. Its repository description repeats the same commercial pricing copy as seven other new APIMart repositories in the 2026-11-25 discovery run. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "MiniMax H3"
+  },
+  "apimartvp90w3v/unified-ai-pricing-guide": {
+    "reviewed_on": "2026-11-25",
+    "source": "https://github.com/apimartvp90w3v/unified-ai-pricing-guide/blob/ab8f25713c09eba9730f386a95157eee4f6b4726/README.md",
+    "source_revision": "ab8f25713c09eba9730f386a95157eee4f6b4726",
+    "source_sha256": "24493174288fb950e69080678eea3e2600f46131af46a1a2389ff81dcf1a8d02",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. Its repository description repeats the same commercial pricing copy as seven other new APIMart repositories in the 2026-11-25 discovery run. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "MiniMax Hailuo 02"
+  },
+  "apimartrmiysqwsv/unified-ai-api-free-tier": {
+    "reviewed_on": "2026-11-25",
+    "source": "https://github.com/apimartrmiysqwsv/unified-ai-api-free-tier/blob/feb3f141d472a68b1d5855ddc7c44b7943fa98ad/README.md",
+    "source_revision": "feb3f141d472a68b1d5855ddc7c44b7943fa98ad",
+    "source_sha256": "976f76149d595ea1b52ff36e2ea3c4c3a8bb76985bbaf17fcf3df41866ad79d1",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. Its repository description repeats the same commercial pricing copy as seven other new APIMart repositories in the 2026-11-25 discovery run. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "MiniMax H3"
+  },
+  "apimartuj99/unified-ai-api-alternatives": {
+    "reviewed_on": "2026-11-25",
+    "source": "https://github.com/apimartuj99/unified-ai-api-alternatives/blob/e5ded786727552ec036b96433007e73e52dd25d1/README.md",
+    "source_revision": "e5ded786727552ec036b96433007e73e52dd25d1",
+    "source_sha256": "9f12c22f92711ce37f6bccbc5c57cad836757c43d66ab0eb9d72502aab14e2ff",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. Its repository description repeats the same commercial pricing copy as seven other new APIMart repositories in the 2026-11-25 discovery run. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "MiniMax H3"
+  },
+  "apimartux7bnm3/api-router-self-hosted": {
+    "reviewed_on": "2026-11-25",
+    "source": "https://github.com/apimartux7bnm3/api-router-self-hosted/blob/25b19ace27e90282ad27e52b5efa82610a22c209/README.md",
+    "source_revision": "25b19ace27e90282ad27e52b5efa82610a22c209",
+    "source_sha256": "9d04a9125f446b46d466950ea61b7e232df7866d0c87e7c757cea72fb2095e5e",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. Its repository description repeats the same commercial pricing copy as seven other new APIMart repositories in the 2026-11-25 discovery run. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "Vidu Q3"
+  },
+  "apimartzu5x/unified-ai-api-migration-kit": {
+    "reviewed_on": "2026-11-25",
+    "source": "https://github.com/apimartzu5x/unified-ai-api-migration-kit/blob/d6109c4e26ca62dbad27dba962da78c2efaff1d6/README.md",
+    "source_revision": "d6109c4e26ca62dbad27dba962da78c2efaff1d6",
+    "source_sha256": "582ebb2b843a56ca2cd94b4069d1a1ed4233c9db4ee8a60abb830072a7c425a6",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. Its repository description repeats the same commercial pricing copy as seven other new APIMart repositories in the 2026-11-25 discovery run. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "MiniMax H3"
+  },
+  "apimartr8udbi/unified-ai-migration-kit": {
+    "reviewed_on": "2026-11-25",
+    "source": "https://github.com/apimartr8udbi/unified-ai-migration-kit/blob/bd3ea70b6ba18fce8269969f9e2ab6996ab03527/README.md",
+    "source_revision": "bd3ea70b6ba18fce8269969f9e2ab6996ab03527",
+    "source_sha256": "2388441ada16fc3a6f562a7aa3382549299fd851d29f6e489119d1b2ea190d8f",
+    "decision": "exclude_unpublished",
+    "reason": "Publisher README documents calls to a third-party model through APIMart and discloses promotional attributed links, rather than a distinct gateway implementation. Its repository description repeats the same commercial pricing copy as seven other new APIMart repositories in the 2026-11-25 discovery run. This exact candidate is absent from the saved published catalog, protected URL policy, sitemap, public asset registry and route tree; its public URL returned HTTP 404 before this decision. No published route is retired or removed.",
+    "documented_model": "MiniMax H3"
   }
 }
