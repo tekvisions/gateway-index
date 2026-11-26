@@ -1213,6 +1213,52 @@
         }
       ],
       "evidence_sha256": "319ddb72ebe499b4c3cf2a0f87b2a416f81069a6093cfd1686bcfc95b69f1183"
+    },
+    {
+      "slug": "guanbear-octoclaw",
+      "entity": "guanbear/OctoClaw",
+      "canonical_url": "https://gateway.kymatalabs.com/p/guanbear-octoclaw/",
+      "repository": "https://github.com/guanbear/OctoClaw",
+      "summary": "Publisher description of guanbear/OctoClaw: Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents. The saved 2026-11-25 catalog classified it under Routers.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Routers work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-25T22:04:34.843030+00:00",
+      "reviewed_on": "2026-11-26",
+      "last_successful_source_commit": "ac428c8870e94a8b1c5120382877460d8f0d1d1c",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-26 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/guanbear/OctoClaw/blob/v0.6.0/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "45a0299181eb2e57f6b76567e94475a922834cd1b9f90692feac85799affb926",
+          "blob_sha": "fb7d97153fdc8b604fd12a53128ebc74ab7319ae"
+        }
+      ],
+      "evidence_sha256": "45a0299181eb2e57f6b76567e94475a922834cd1b9f90692feac85799affb926"
+    },
+    {
+      "slug": "yuhp-opencode-models-discovery",
+      "entity": "yuhp/opencode-models-discovery",
+      "canonical_url": "https://gateway.kymatalabs.com/p/yuhp-opencode-models-discovery/",
+      "repository": "https://github.com/yuhp/opencode-models-discovery",
+      "summary": "Publisher description of yuhp/opencode-models-discovery: A universal OpenCode plugin for dynamic model discovery with flexible configuration for OpenAI-compatible providers. The saved 2026-11-25 catalog classified it under Gateways & Proxies.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Gateways & Proxies work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-25T22:04:34.843030+00:00",
+      "reviewed_on": "2026-11-26",
+      "last_successful_source_commit": "ac428c8870e94a8b1c5120382877460d8f0d1d1c",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-26 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/yuhp/opencode-models-discovery/blob/dev/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "a30495c6e57bf13230fac0c6ff6b80c33e56209715570426cf30af7c863c9a21",
+          "blob_sha": "4bfdd8a08fb825f2bac2a9c98c2fd745d1c46e3b"
+        }
+      ],
+      "evidence_sha256": "a30495c6e57bf13230fac0c6ff6b80c33e56209715570426cf30af7c863c9a21"
     }
   ],
   "retirements": [],
